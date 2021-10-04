@@ -1,0 +1,108 @@
+1. Am J Obstet Gynecol MFM. 2020 Aug;2(3):100134. doi: 
+10.1016/j.ajogmf.2020.100134. Epub 2020 May 8.
+
+Clinical course of severe and critical coronavirus disease 2019 in hospitalized 
+pregnancies: a United States cohort study.
+
+Pierce-Williams RAM(1), Burd J(2), Felder L(1), Khoury R(3), Bernstein PS(3), 
+Avila K(4), Penfield CA(5), Roman AS(5), DeBolt CA(6), Stone JL(6), Bianco A(6), 
+Kern-Goldberger AR(7), Hirshberg A(7), Srinivas SK(7), Jayakumaran JS(8), Brandt 
+JS(9), Anastasio H(10), Birsner M(10), O'Brien DS(11), Sedev HM(7), Dolin CD(7), 
+Schnettler WT(12), Suhag A(12), Ahluwalia S(13), Navathe RS(13), Khalifeh A(14), 
+Anderson K(15), Berghella V(1).
+
+Author information:
+(1)Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, 
+Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, PA.
+(2)Department of Obstetrics and Gynecology, Sidney Kimmel Medical College, 
+Thomas Jefferson University, Philadelphia, PA.
+(3)Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology 
+and Women's Health, Montefiore Medical Center and Albert Einstein College of 
+Medicine, Bronx, NY.
+(4)Department of Obstetrics and Gynecology and Women's Health, Albert Einstein 
+College of Medicine, Bronx, NY.
+(5)Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, 
+New York University Langone Medical Center, New York, NY.
+(6)Division of Maternal-Fetal Medicine, Department of Obstetrics, Gynecology, 
+and Reproductive Science, Icahn School of Medicine, Mount Sinai, New York, NY.
+(7)Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, 
+Maternal and Child Health Research Center, Perelman School of Medicine, 
+University of Pennsylvania, Philadelphia, PA.
+(8)Department of Obstetrics, Gynecology, and Reproductive Sciences, Rutgers 
+Robert Wood Johnson Medical School, New Brunswick, NJ.
+(9)Division of Maternal-Fetal Medicine, Department of Obstetrics, Gynecology, 
+and Reproductive Sciences, Rutgers Robert Wood Johnson Medical School, New 
+Brunswick, NJ.
+(10)Division of Maternal-Fetal Medicine, Department of Obstetrics and 
+Gynecology, St. Luke's University Health Network, Bethlehem, PA.
+(11)Department of Obstetrics and Gynecology, Saint Barnabas Medical Center, 
+Livingston, NJ.
+(12)Division of Maternal-Fetal Medicine, TriHealth Good Samaritan Hospital, 
+Cincinnati, OH.
+(13)Department of Obstetrics and Gynecology, Crozer Chester Medical Center, 
+Chester, PA.
+(14)Department of Obstetrics and Gynecology, Einstein Healthcare Network, 
+Philadelphia, PA.
+(15)Sidney Kimmel Medical College, Thomas Jefferson University, Philadelphia, 
+PA.
+
+BACKGROUND: The coronavirus disease 2019 pandemic has had an impact on 
+healthcare systems around the world with 3 million people contracting the 
+disease and 208,000 cases resulting in death as of this writing. Information 
+regarding coronavirus infection in pregnancy is still limited.
+OBJECTIVE: This study aimed to describe the clinical course of severe and 
+critical coronavirus disease 2019 in hospitalized pregnant women with positive 
+laboratory testing for severe acute respiratory syndrome coronavirus 2.
+STUDY DESIGN: This is a cohort study of pregnant women with severe or critical 
+coronavirus disease 2019 hospitalized at 12 US institutions between March 5, 
+2020, and April 20, 2020. Severe disease was defined according to published 
+criteria as patient-reported dyspnea, respiratory rate >30 per minute, blood 
+oxygen saturation ≤93% on room air, ratio of partial pressure of arterial oxygen 
+to the fraction of inspired oxygen <300 mm Hg, or lung infiltrates >50% within 
+24-48 hours on chest imaging. Critical disease was defined as respiratory 
+failure, septic shock, or multiple organ dysfunction or failure. Women were 
+excluded from the study if they had presumed coronavirus disease 2019, but 
+laboratory testing was negative. The primary outcome was median duration from 
+hospital admission to discharge. Secondary outcomes included need for 
+supplemental oxygen, intubation, cardiomyopathy, cardiac arrest, death, and 
+timing of delivery. The clinical courses are described by the median disease day 
+on which these outcomes occurred after the onset of symptoms. Treatment and 
+neonatal outcomes are also reported.
+RESULTS: Of 64 hospitalized pregnant women with coronavirus disease 2019, 44 
+(69%) had severe disease, and 20 (31%) had critical disease. The following 
+preexisting comorbidities were observed: 25% had a pulmonary condition, 17% had 
+cardiac disease, and the mean body mass index was 34 kg/m2. Gestational age was 
+at a mean of 29±6 weeks at symptom onset and a mean of 30±6 weeks at hospital 
+admission, with a median disease day 7 since first symptoms. Most women (81%) 
+were treated with hydroxychloroquine; 7% of women with severe disease and 65% of 
+women with critical disease received remdesivir. All women with critical disease 
+received either prophylactic or therapeutic anticoagulation during their 
+admission. The median duration of hospital stay was 6 days (6 days [severe 
+group] and 10.5 days [critical group]; P=.01). Intubation was usually performed 
+around day 9 on patients who required it, and peak respiratory support for women 
+with severe disease was performed on day 8. In women with critical disease, 
+prone positioning was required in 20% of cases, the rate of acute respiratory 
+distress syndrome was 70%, and reintubation was necessary in 20%. There was 1 
+case of maternal cardiac arrest, but there were no cases of cardiomyopathy or 
+maternal death. Thirty-two of 64 (50%) women with coronavirus disease 2019 in 
+this cohort delivered during their hospitalization (34% [severe group] and 85% 
+[critical group]). Furthermore, 15 of 17 (88%) pregnant women with critical 
+coronavirus disease 2019 delivered preterm during their disease course, with 16 
+of 17 (94%) pregnant women giving birth through cesarean delivery; overall, 15 
+of 20 (75%) women with critical disease delivered preterm. There were no 
+stillbirths or neonatal deaths or cases of vertical transmission.
+CONCLUSION: In pregnant women with severe or critical coronavirus disease 2019, 
+admission into the hospital typically occurred about 7 days after symptom onset, 
+and the duration of hospitalization was 6 days (6 [severe group] vs 12 [critical 
+group]). Women with critical disease had a high rate of acute respiratory 
+distress syndrome, and there was 1 case of cardiac arrest, but there were no 
+cases of cardiomyopathy or maternal mortality. Hospitalization of pregnant women 
+with severe or critical coronavirus disease 2019 resulted in delivery during the 
+clinical course of the disease in 50% of this cohort, usually in the third 
+trimester. There were no perinatal deaths in this cohort.
+
+© 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajogmf.2020.100134
+PMCID: PMC7205698
+PMID: 32391519 [Indexed for MEDLINE]

@@ -1,0 +1,57 @@
+1. Transplantation. 2020 Nov;104(11):2208-2214. doi: 10.1097/TP.0000000000003339.
+
+Early Experience With COVID-19 and Solid Organ Transplantation at a US 
+High-volume Transplant Center.
+
+Yi SG(1)(2), Rogers AW(3), Saharia A(1)(2), Aoun M(3), Faour R(3), Abdelrahim 
+M(4), Knight RJ(1)(2), Grimes K(5), Bullock S(2), Hobeika M(1)(2), McMillan 
+R(1)(2), Mobley C(1)(2), Moaddab M(3), Huang HJ(2)(6), Bhimaraj A(2)(7), 
+Ghobrial RM(1)(2), Gaber AO(1)(2).
+
+Author information:
+(1)Department of Surgery, Houston Methodist Hospital, Houston, TX.
+(2)J.C. Walter Jr. Center for Transplantation, Houston Methodist Hospital, 
+Houston, TX.
+(3)Department of Pharmacy, Houston Methodist Hospital, Houston, TX.
+(4)Houston Methodist Cancer Center, Houston Methodist Hospital, Houston, TX.
+(5)Division of Infectious Diseases, Department of Internal Medicine, Houston 
+Methodist Hospital, Houston, TX.
+(6)Division of Pulmonology, Department of Internal Medicine, Houston Methodist 
+Hospital, Houston, TX.
+(7)Division of Cardiology, Department of Internal Medicine, Houston Methodist 
+Hospital, Houston, TX.
+
+BACKGROUND: The novel coronavirus severe acute respiratory syndrome coronavirus 
+2 [coronavirus disease 2019 (COVID-19)] poses unique challenges for 
+immunosuppressed patients. Solid organ transplant (SOT) recipients comprise a 
+large proportion of this group, yet there is limited knowledge about the 
+presentation, clinical course, and immunosuppression management of this novel 
+infection among heart, lung, liver, pancreas, and kidney transplant recipients.
+METHODS: We present 21 SOT recipients diagnosed with COVID-19 between January 1, 
+2020 and April 22, 2020 at a US high-volume transplant center. Diagnostic 
+workup, clinical course, immunosuppression/antiviral management, and immediate 
+outcomes are described.
+RESULTS: Twenty-one (15.9%) of 132 symptomatic patients tested were positive. 
+Mean age at diagnosis was 54.8 ± 10.9 y. Median time from transplant was 5.58 y 
+(interquartile range 2.25, 7.33). Median follow-up was 18 d (interquartile range 
+13, 30). Fourteen patients required inpatient management, with 7 (50%) placed in 
+the intensive care unit (ICU). All transplant types were represented. Nearly 43% 
+exhibited GI symptoms. Over half (56.2%) presented with elevated serum 
+creatinine suggestive of acute kidney injury. The majority of patients (5/7) 
+with concomitant infections at baseline required the ICU. Eighty percent 
+received hydroxychloroquine ± azithromycin. Ten received toclizumab and/or 
+ribavirin; 1 received remdesivir. Antimetabolites ± calcineurin inhibitors were 
+held or reduced. Over half of hospitalized patients (8/14) were discharged home. 
+Only 1 mortality (4.8%) to date, in a critically ill heart/kidney patient who 
+had been in the ICU before diagnosis.
+CONCLUSIONS: COVID-19 positive SOT at our institution had favorable short-term 
+outcomes. Those with concomitant infections had more severe illness. More data 
+will be available to evaluate long-term outcomes and disease impact on graft 
+function.
+
+DOI: 10.1097/TP.0000000000003339
+PMCID: PMC7302089
+PMID: 32496357 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no funding or conflicts of 
+interest.

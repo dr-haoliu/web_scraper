@@ -1,0 +1,66 @@
+1. Ann Intern Med. 2021 Aug 17:M21-0857. doi: 10.7326/M21-0857. Online ahead of 
+print.
+
+Use of Hydroxychloroquine, Remdesivir, and Dexamethasone Among Adults 
+Hospitalized With COVID-19 in the United States : A Retrospective Cohort Study.
+
+Mehta HB(1), An H(1), Andersen KM(1), Mansour O(2), Madhira V(3), Rashidi ES(1), 
+Bates B(4), Setoguchi S(4), Joseph C(1), Kocis PT(5), Moffitt R(6), Bennett 
+TD(7), Chute CG(8), Garibaldi BT(9), Alexander GC(10); National COVID Cohort 
+Collaborative (N3C).
+
+Author information:
+(1)Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland (H.B.M., 
+H.A., K.M.A., E.S.R., C.J.).
+(2)Monument Analytics, Baltimore, Maryland (O.M.).
+(3)Palila Software, Reno, Nevada (V.M.).
+(4)Rutgers Center for Pharmacoepidemiology and Treatment Science, New Brunswick, 
+New Jersey (B.B., S.S.).
+(5)Penn State Health, Milton S. Hershey Medical Center, Hershey, Pennsylvania 
+(P.T.K.).
+(6)Stony Brook University, Stony Brook, New York (R.M.).
+(7)University of Colorado School of Medicine, University of Colorado, Aurora, 
+Colorado (T.D.B.).
+(8)Schools of Medicine, Public Health, and Nursing, Johns Hopkins University, 
+Baltimore, Maryland (C.G.C.).
+(9)Johns Hopkins University School of Medicine, Baltimore, Maryland (B.T.G.).
+(10)Johns Hopkins Bloomberg School of Public Health and Johns Hopkins School of 
+Medicine, Baltimore, Maryland (G.C.A.).
+
+BACKGROUND: Relatively little is known about the use patterns of potential 
+pharmacologic treatments of COVID-19 in the United States.
+OBJECTIVE: To use the National COVID Cohort Collaborative (N3C), a large, 
+multicenter, longitudinal cohort, to characterize the use of hydroxychloroquine, 
+remdesivir, and dexamethasone, overall as well as across individuals, health 
+systems, and time.
+DESIGN: Retrospective cohort study.
+SETTING: 43 health systems in the United States.
+PARTICIPANTS: 137 870 adults hospitalized with COVID-19 between 1 February 2020 
+and 28 February 2021.
+MEASUREMENTS: Inpatient use of hydroxychloroquine, remdesivir, or dexamethasone.
+RESULTS: Among 137 870 persons hospitalized with confirmed or suspected 
+COVID-19, 8754 (6.3%) received hydroxychloroquine, 29 272 (21.2%) remdesivir, 
+and 53 909 (39.1%) dexamethasone during the study period. Since the release of 
+results from the RECOVERY (Randomised Evaluation of COVID-19 Therapy) trial in 
+mid-June, approximately 78% to 84% of people who have had invasive mechanical 
+ventilation have received dexamethasone or other glucocorticoids. The use of 
+hydroxychloroquine increased during March 2020, peaking at 42%, and started 
+declining by April 2020. By contrast, remdesivir and dexamethasone use gradually 
+increased over the study period. Dexamethasone and remdesivir use varied 
+substantially across health centers (intraclass correlation coefficient, 14.2% 
+for dexamethasone and 84.6% for remdesivir).
+LIMITATION: Because most N3C data contributors are academic medical centers, 
+findings may not reflect the experience of community hospitals.
+CONCLUSION: Dexamethasone, an evidence-based treatment of COVID-19, may be 
+underused among persons who are mechanically ventilated. The use of remdesivir 
+and dexamethasone varied across health systems, suggesting variation in patient 
+case mix, drug access, treatment protocols, and quality of care.
+PRIMARY FUNDING SOURCE: National Center for Advancing Translational Sciences; 
+National Heart, Lung, and Blood Institute; and National Institute on Aging.
+
+DOI: 10.7326/M21-0857
+PMCID: PMC8372837
+PMID: 34399060
+
+Conflict of interest statement: Disclosures: Disclosures can be viewed at 
+www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNum=M21-0857.

@@ -1,0 +1,47 @@
+1. J Investig Med. 2021 Sep 13:jim-2021-001876. doi: 10.1136/jim-2021-001876. 
+Online ahead of print.
+
+Variation in clinical characteristics, outcomes, and mortality of hospitalized 
+patients with COVID-19 during the second wave of the pandemic: a single-center 
+experience.
+
+Mughal MS(1), Kaur IP(2), Wang C(3), Alhashemi R(2), Buemio A(2), Patton CD(2), 
+Granet KM(2).
+
+Author information:
+(1)Department of Medicine, Monmouth Medical Center, Long Branch, New Jersey, USA 
+mohsinsherazmd@gmail.com.
+(2)Department of Medicine, Monmouth Medical Center, Long Branch, New Jersey, 
+USA.
+(3)Department of Medicine, Rutgers University, New Brunswick, New Jersey, USA.
+
+As of February 2, 2021, the USA has 26,431,799 reported COVID-19 cases with 
+446,744 deaths. A high mortality rate (15%-40%) was reported among hospitalized 
+patients with COVID-19 during the first wave of the pandemic. However, data 
+regarding variation in COVID-19-related mortality and severity of illness among 
+hospitalized patients with COVID-19 are heterogeneous. In this retrospective 
+single-center study, we aimed to investigate the demographic characteristics, 
+clinical presentations, disease severity, clinical outcomes, and in-hospital 
+mortality of hospitalized patients with COVID-19 during the second wave of the 
+pandemic. Adults with reverse transcription-PCR-confirmed SARS-CoV-2 infection 
+were included. In-hospital mortality due to COVID-19 was the primary outcome, 
+and intensive care unit admission, acute kidney injury, acute respiratory 
+distress syndrome, respiratory failure requiring intubation, and septic shock 
+were the secondary outcomes. A total of 101 adult patients were hospitalized 
+with COVID-19 during the second wave study period. Of 101 patients, 8 were 
+intubated and 6 died. The median duration of hospital stay was 6 days. Patients 
+in the second wave were more likely to receive dexamethasone and remdesivir and 
+less likely to require invasive mechanical ventilation. In-hospital mortality 
+during the second wave was lower (5.9%) compared with the first wave (15.5%). At 
+the last follow-up date, 86.1% were discharged alive from the hospital, 5.9% 
+died and 7.9% were still in the hospital. Multivariate logistic regression 
+showed higher odds of mortality were associated with higher age and elevated 
+lactate dehydrogenase peak.
+
+© American Federation for Medical Research 2021. No commercial re-use. See 
+rights and permissions. Published by BMJ.
+
+DOI: 10.1136/jim-2021-001876
+PMID: 34518318
+
+Conflict of interest statement: Competing interests: None declared.

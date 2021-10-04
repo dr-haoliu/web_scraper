@@ -1,0 +1,227 @@
+1. Cancer Discov. 2020 Oct;10(10):1514-1527. doi: 10.1158/2159-8290.CD-20-0941. 
+Epub 2020 Jul 22.
+
+Utilization of COVID-19 Treatments and Clinical Outcomes among Patients with 
+Cancer: A COVID-19 and Cancer Consortium (CCC19) Cohort Study.
+
+Rivera DR(#)(1), Peters S(#)(2), Panagiotou OA(3), Shah DP(4), Kuderer NM(5), 
+Hsu CY(6), Rubinstein SM(7), Lee BJ(7), Choueiri TK(8), de Lima Lopes G Jr(9), 
+Grivas P(10)(11), Painter CA(12), Rini BI(7), Thompson MA(13), Arcobello J(14), 
+Bakouny Z(8), Doroshow DB(15)(16), Egan PC(17), Farmakiotis D(18), Fecher 
+LA(19), Friese CR(20), Galsky MD(15)(16), Goel S(21), Gupta S(22), Halfdanarson 
+TR(23), Halmos B(21), Hawley JE(24), Khaki AR(10), Lemmon CA(22), Mishra S(25), 
+Olszewski AJ(17), Pennell NA(22), Puc MM(26), Revankar SG(14), Schapira L(27), 
+Schmidt A(8), Schwartz GK(24), Shah SA(27), Wu JT(27), Xie Z(23), Yeh AC(10), 
+Zhu H(15), Shyr Y(#)(6), Lyman GH(#)(11), Warner JL(#); COVID-19 and Cancer 
+Consortium.
+
+Author information:
+(1)Division of Cancer Control and Population Sciences, NCI, Rockville, Maryland.
+(2)Department of Oncology, University of Lausanne, Lausanne, Switzerland.
+(3)Department of Health Services, Policy and Practice, Brown University, 
+Providence, Rhode Island.
+(4)Department of Population Health Sciences, Mays Cancer Center, UT Health San 
+Antonio MD Anderson, San Antonio, Texas.
+(5)Advanced Cancer Research Group, LLC, Kirkland, Washington.
+(6)Department of Biostatistics, Vanderbilt University Medical Center, Nashville, 
+Tennessee.
+(7)Deparment of Medicine, Division of Hematology and Oncology, Vanderbilt 
+University Medical Center, Nashville, Tennessee.
+(8)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, 
+Massachusetts.
+(9)Sylvester Comprehensive Cancer Center, University of Miami, Miami, Florida.
+(10)Department of Medicine, Division of Oncology, University of Washington, 
+Seattle, Washington.
+(11)Fred Hutchinson Cancer Research Center, Seattle, Washington.
+(12)Count Me In, Cambridge, Massachusetts.
+(13)Advocate Aurora Health, Milwaukee, Wisconsin.
+(14)Karmanos Cancer Institute, Detroit, Michigan.
+(15)Department of Medicine, Icahn School of Medicine at Mount Sinai, New York, 
+New York.
+(16)Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York, 
+New York.
+(17)Department of Medicine, Division of Hematology/Oncology, The Warren Alpert 
+Medical School of Brown University, Providence, Rhode Island.
+(18)Department of Medicine, Division of Infectious Diseases, The Warren Alpert 
+Medical School of Brown University, Providence, Rhode Island.
+(19)Department of Internal Medicine, Rogel Cancer Center, University of 
+Michigan, Ann Arbor, Michigan.
+(20)School of Nursing, University of Michigan, Ann Arbor, Michigan.
+(21)Albert Einstein College of Medicine, Montefiore Medical Center, Bronx, New 
+York.
+(22)Department of Hematology and Medical Oncology, Cleveland Clinic, Cleveland, 
+Ohio.
+(23)Department of Medical Oncology, Mayo Clinic, Rochester, Minnesota.
+(24)Department of Medicine, Herbert Irving Comprehensive Cancer Center, Columbia 
+University Irving Medical Center, New York, New York.
+(25)Vanderbilt-Ingram Cancer Center, Nashville, Tennessee.
+(26)Department of Surgery, Section of Thoracic Surgery, Virtua Health, Marlton, 
+New Jersey.
+(27)Department of Medicine, Division of Oncology, Stanford University, Palo 
+Alto, California.
+(#)Contributed equally
+
+Comment in
+    Cancer Discov. 10(10):1426.
+
+Among 2,186 U.S. adults with invasive cancer and laboratory-confirmed SARS-CoV-2 
+infection, we examined the association of COVID-19 treatments with 30-day 
+all-cause mortality and factors associated with treatment. Logistic regression 
+with multiple adjustments (e.g., comorbidities, cancer status, baseline COVID-19 
+severity) was performed. Hydroxychloroquine with any other drug was associated 
+with increased mortality versus treatment with any COVID-19 treatment other than 
+hydroxychloroquine or untreated controls; this association was not present with 
+hydroxychloroquine alone. Remdesivir had numerically reduced mortality versus 
+untreated controls that did not reach statistical significance. Baseline 
+COVID-19 severity was strongly associated with receipt of any treatment. Black 
+patients were approximately half as likely to receive remdesivir as white 
+patients. Although observational studies can be limited by potential unmeasured 
+confounding, our findings add to the emerging understanding of patterns of care 
+for patients with cancer and COVID-19 and support evaluation of emerging 
+treatments through inclusive prospective controlled trials. SIGNIFICANCE: 
+Evaluating the potential role of COVID-19 treatments in patients with cancer in 
+a large observational study, there was no statistically significant 30-day 
+all-cause mortality benefit with hydroxychloroquine or high-dose corticosteroids 
+alone or in combination; remdesivir showed potential benefit. Treatment receipt 
+reflects clinical decision-making and suggests disparities in medication 
+access.This article is highlighted in the In This Issue feature, p. 1426.
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/2159-8290.CD-20-0941
+PMCID: PMC7541683
+PMID: 32699031 [Indexed for MEDLINE]
+
+Conflict of interest statement: S.L. Peters reports personal fees and other from 
+Roche/Genentech (advisor/consultant role, and satellite symposium, all fees to 
+institution), personal fees and other from BMS (advisor/consultant role, and 
+satellite symposium, all fees to institution), MSD (advisor/consultant role, and 
+satellite symposium, all fees to institution), Merck Serono (advisor/consultant 
+role, all fees to institution), Pfizer (advisor/consultant role, and satellite 
+symposium, all fees to institution), Novartis (advisor/consultant role, and 
+satellite symposium, all fees to institution), AstraZeneca (advisor/consultant 
+role, and satellite symposium, all fees to institution), Regeneron 
+(advisor/consultant role, all fees to institution), Boehringer Ingelheim 
+(advisor/consultant role, and satellite symposium, all fees to institution), 
+Amgen (advisor/consultant role, all fees to institution), Bioinvent 
+(advisor/consultant role, all fees to institution), Daiichi Sankyo 
+(advisor/consultant role, all fees to institution), Biocartis 
+(advisor/consultant role, all fees to institution), AbbVie (advisor/consultant 
+role, all fees to institution), Debiopharm (advisor/consultant role, all fees to 
+institution), Eli Lilly (advisor/consultant role, and satellite symposium, all 
+fees to institution), Foundation Medicine (advisor/consultant role, and 
+satellite symposium, all fees to institution), Illumina (advisor/consultant 
+role, and satellite symposium, all fees to institution), Janssen 
+(advisor/consultant role, all fees to institution), Pharmamar 
+(advisor/consultant role, all fees to institution), Sanofi (advisor/consultant 
+role, and satellite symposium, all fees to institution), Seattle Genetics 
+(advisor/consultant role, all fees to institution), Takeda (advisor/consultant 
+role, and satellite symposium, all fees to institution), Vaccibody 
+(advisor/consultant role, all fees to institution), and Mirati 
+(advisor/consultant role, all fees to institution) outside the submitted work. 
+O.A. Panagiotou reports grants from NCI during the conduct of the study. D.P. 
+Shah reports grants from American Cancer Society and Hope Research Foundation 
+[this work was supported in part by the American Cancer Society and the Hope 
+Foundation for Cancer Research (Mentored Research Scholar Grants in Applied and 
+Clinical Research, MRSG-16-152-01-CCE; to D.P. Shah)] during the conduct of the 
+study. N.M. Kuderer reports personal fees from Celldex (consulting fees), BMS 
+(consulting fees), Janssen (consulting fees), Invitae (consulting fees), Total 
+Health (consulting fees), Beyond Springs (consulting fees), Bayer (consulting 
+fees), and Spectrum Pharmaceuticals (consulting fees) outside the submitted 
+work. B.J. Lee reports grants from National Science Foundation (NSF; his 
+contributions to this manuscript are part of his work as an NSF Research 
+Experience for Undergraduates (REU) student) during the conduct of the study. 
+T.K. Choueiri reports grants, personal fees, nonfinancial support, and other 
+from AstraZeneca (clinical trials, advisory board, consultancy and related 
+travel/lodging and manuscript support), Pfizer (clinical trials, advisory board, 
+consultancy and related travel/lodging and manuscript support), Exelixis 
+(clinical trials, advisory board, consultancy and related travel/lodging and 
+manuscript support), BMS (clinical trials, advisory board, consultancy and 
+related travel/lodging and manuscript support), Merck (clinical trials, advisory 
+board, consultancy and related travel/lodging and manuscript support), Novartis 
+(clinical trials, advisory board, consultancy and related travel/lodging and 
+manuscript support), GSK (clinical trials, advisory board, consultancy and 
+related travel/lodging and manuscript support), and Roche (clinical trials, 
+advisory board, consultancy and related travel/lodging and manuscript support) 
+during the conduct of the study, Pfizer (related to kidney cancer: clinical 
+trials, advisory board, consultancy, manuscript support), Exelixis (related to 
+kidney cancer: clinical trials, advisory board, consultancy, manuscript 
+support), BMS (related to kidney cancer: clinical trials, advisory board, 
+consultancy, manuscript support), Merck (related to kidney cancer: clinical 
+trials, advisory board, consultancy, manuscript support), Roche/Genentech 
+(related to kidney cancer: clinical trials, advisory board, consultancy, 
+manuscript support), and Novartis (related to kidney cancer: clinical trials, 
+advisory board, consultancy, manuscript support) outside the submitted work; and 
+no leadership or employment in for-profit companies. Other present or past 
+leadership roles: Director of GU Oncology Division at Dana-Farber and past 
+President of medical Staff at Dana-Farber), member of NCCN Kidney panel and the 
+GU Steering Committee, past chairman of the Kidney Cancer Association Medical 
+and Scientific Steering Committee, KidneyCan Advisory board, Kidney cancer 
+Research Summit co-chair (2019-present). P. Grivas reports grants and personal 
+fees from Pfizer, Genentech, Bayer, Merck, and Mirati Therapeutics, 
+Bristol-Myers Squibb, and QED Therapeutics; personal fees from EMD Serono, 
+Oncogenex, Seattle Genetics, Foundation Medicine, Driver, Heron Therapeutics, 
+Janssen, GlaxoSmithKline, Genzyme, Roche, and Exelixis; grants, personal fees, 
+and nonfinancial support from AstraZeneca, Clovis Oncology; and grants from 
+Bavarian Nordic, Immunomedics, and Debiopharm, and Kure It Cancer Research 
+outside the submitted work. B.I. Rini reports grants, personal fees, and 
+nonfinancial support from Merck and BMS; grants and personal fees from Pfizer, 
+Arravive, and AVEO; grants from Genentech; personal fees from Surface Oncology, 
+3D Medicines, Arrowhead outside the submitted work. M.A. Thompson reports 
+personal fees from Adaptive (advisory board, registry), UpToDate (royalties), 
+and AIM Specialty Health (advisory board) outside the submitted work; other from 
+CRAB CTC (institutional), Amgen (institutional), Hoosier Research Network 
+(institutional), Janssen (institutional), Lilly (institutional), LynxBio 
+(institutional), Strata Oncology (institutional), Takeda (institutional), TG 
+Therapeutics (institutional); personal fees and other from BMS (Celgene; 
+advisory board, registry; institutional), Takeda (Celgene; advisory board, 
+registry; institutional), GSK (institutional; advisory board December 12, 2017). 
+Z. Bakouny reports nonfinancial support from Bristol-Myers Squibb and grants 
+from Genentech outside the submitted work. D.B. Doroshow reports grants from NCI 
+[the Tisch Cancer Institute Cancer Center Support Grant (1P30CA196521)] during 
+the conduct of the study; other from Janssen Oncology (institutional funding), 
+Dendreon (institutional funding), Novartis (institutional funding), 
+Bristol-Myers Squibb (institutional funding), Merck (institutional funding), 
+AstraZeneca (institutional funding), and Genentech/Roche (institutional funding) 
+outside the submitted work. P.C. Egan reports research support to her 
+institution from CTI Biopharma Corp. M.D. Galsky reports personal fees from 
+Janssen, GlaxoSmithKline, Lilly, Astellas, Pfizer, EMD Serono, Seattle Genetics, 
+Incyte, Aileron, Dracen, Inovio, NuMab, and Dragonfly outside the submitted 
+work; grants and personal fees from Genentech, Dendreon, Merck, AstraZeneca, 
+Bristol-Myers Squibb; and grants from Novartis. T.F. Halfdanarson reports 
+personal fees from Curium (consulting/advisory board), TERUMO 
+(consulting/advisory board), ScioScientific (consulting/advisory board); 
+nonfinancial support from Ipsen (consulting; fees paid to institution), Advanced 
+Accelerator Applications (consulting; fees paid to institution); grants from 
+Thermo Fisher Scientific (research funding to institution), Basilea (research 
+funding to institution), and Agios (research funding to institution) outside the 
+submitted work. B. Halmos reports grants and personal fees from Merck, BMS, 
+Novartis, Pfizer, Eli Lilly, Boehringer-Ingelheim, AstraZeneca, Guardant Health, 
+Takeda, and Amgen outside the submitted work; and personal fees from Genentech 
+and TPT; grants from AbbVie, Advaxis, and GSK. A.R. Khaki reports grants from 
+NIH (T32CA009515) outside the submitted work. S. Mishra reports grants from NIH 
+(P30 CA068485) during the conduct of the study. A.J. Olszewski reports other 
+from Genentech (research funds for the institution), TG Therapeutics (research 
+funds for the institution); other from Spectrum Pharmaceuticals (research funds 
+for the institution); and nonfinancial support from Adaptive Biotechnologies 
+(research support) outside the submitted work. N.A. Pennell reports personal 
+fees from Merck (advisory board), AstraZeneca (advisory board), Genentech 
+(advisory board), Amgen (advisory board), BMS (advisory board), Eli Lilly 
+(advisory board), G1 Therapeutics (advisory board), and Regeneron (advisory 
+board) outside the submitted work. A. Schmidt reports nonfinancial support from 
+Pfizer and Astellas outside the submitted work. G.K. Schwartz reports personal 
+fees from Apexigen (advisory board), Array (advisory board), Epizyme (advisory 
+board), GenCirq (advisory board), Daiichi Sankyo (advisory board), Fortress 
+(consultant), Iovance Biotherapeutics (consultant), Bayer Pharmaceuticals 
+(sarcoma advisory board), Pfizer Oncology (consultant), Puretech (consultant), 
+PTC Therapeutics (consultant), Ellipsis Pharma (scientific advisory group), and 
+Conarlo (SAB member) outside the submitted work; other from Bionaut (advisory 
+board); personal fees from Oncgoenuity (SAB member); and grants from Astex. Y. 
+Shyr reports grants from NCI during the conduct of the study. G.H. Lyman reports 
+grants and nonfinancial support from Amgen; personal fees from G1 Therapeutics, 
+Invitae, Sandoz, Samsung Bioepi, Beyond Spring, Spectrum, Merck, Mylan, and 
+Partner Therapeutics. J.L. Warner reports grants from NCI (P30 CA068485; U01 
+CA231840) during the conduct of the study; personal fees from Westat, other from 
+HemOnc.org (stock ownership; no monetary value); and personal fees from IBM 
+Watson Health outside the submitted work. No potential conflicts of interest 
+were disclosed by the other authors.

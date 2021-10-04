@@ -1,0 +1,84 @@
+1. JAMA Netw Open. 2021 Mar 1;4(3):e213071. doi: 10.1001/jamanetworkopen.2021.3071.
+
+Comparison of Time to Clinical Improvement With vs Without Remdesivir Treatment 
+in Hospitalized Patients With COVID-19.
+
+Garibaldi BT(1), Wang K(2), Robinson ML(3), Zeger SL(4), Bandeen-Roche K(4), 
+Wang MC(4), Alexander GC(5), Gupta A(3), Bollinger R(3), Xu Y(2)(6).
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, Johns Hopkins University 
+School of Medicine, Baltimore, Maryland.
+(2)Department of Applied Mathematics and Statistics, Johns Hopkins University, 
+Baltimore, Maryland.
+(3)Division of Infectious Disease, Johns Hopkins University School of Medicine, 
+Baltimore, Maryland.
+(4)Division of Biostatistics, Johns Hopkins Bloomberg School of Public Health, 
+Baltimore, Maryland.
+(5)Center for Drug Safety and Effectiveness, Johns Hopkins Bloomberg School of 
+Public Health, Baltimore, Maryland.
+(6)Division of Biostatistics and Bioinformatics at The Sidney Kimmel 
+Comprehensive Cancer Center, Johns Hopkins University School of Medicine, 
+Baltimore, Maryland.
+
+IMPORTANCE: Clinical effectiveness data on remdesivir are urgently needed, 
+especially among diverse populations and in combination with other therapies.
+OBJECTIVE: To examine whether remdesivir administered with or without 
+corticosteroids for treatment of coronavirus disease 2019 (COVID-19) is 
+associated with more rapid clinical improvement in a racially/ethnically diverse 
+population.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective comparative effectiveness 
+research study was conducted from March 4 to August 29, 2020, in a 5-hospital 
+health system in the Baltimore, Maryland, and Washington, DC, area. Of 2483 
+individuals with confirmed severe acute respiratory syndrome coronavirus 2 
+infection assessed by polymerase chain reaction, those who received remdesivir 
+were matched to infected individuals who did not receive remdesivir using 
+time-invariant covariates (age, sex, race/ethnicity, Charlson Comorbidity Index, 
+body mass index, and do-not-resuscitate or do-not-intubate orders) and 
+time-dependent covariates (ratio of peripheral blood oxygen saturation to 
+fraction of inspired oxygen, blood pressure, pulse, temperature, respiratory 
+rate, C-reactive protein level, complete white blood cell count, lymphocyte 
+count, albumin level, alanine aminotransferase level, glomerular filtration 
+rate, dimerized plasmin fragment D [D-dimer] level, and oxygen device). An 
+individual in the remdesivir group with k days of treatment was matched to a 
+control patient who stayed in the hospital at least k days (5 days maximum) 
+beyond the matching day.
+EXPOSURES: Remdesivir treatment with or without corticosteroid administration.
+MAIN OUTCOMES AND MEASURES: The primary outcome was rate of clinical improvement 
+(hospital discharge or decrease of 2 points on the World Health Organization 
+severity score), and the secondary outcome, mortality at 28 days. An additional 
+outcome was clinical improvement and time to death associated with combined 
+remdesivir and corticosteroid treatment.
+RESULTS: Of 2483 consecutive admissions, 342 individuals received remdesivir, 
+184 of whom also received corticosteroids and 158 of whom received remdesivir 
+alone. For these 342 patients, the median age was 60 years (interquartile range, 
+46-69 years), 189 (55.3%) were men, and 276 (80.7%) self-identified as non-White 
+race/ethnicity. Remdesivir recipients had a shorter time to clinical improvement 
+than matched controls without remdesivir treatment (median, 5.0 days 
+[interquartile range, 4.0-8.0 days] vs 7.0 days [interquartile range, 4.0-10.0 
+days]; adjusted hazard ratio, 1.47 [95% CI, 1.22-1.79]). Remdesivir recipients 
+had a 28-day mortality rate of 7.7% (22 deaths) compared with 14.0% (40 deaths) 
+among matched controls, but this difference was not statistically significant in 
+the time-to-death analysis (adjusted hazard ratio, 0.70; 95% CI, 0.38-1.28). The 
+addition of corticosteroids to remdesivir was not associated with a reduced 
+hazard of death at 28 days (adjusted hazard ratio, 1.94; 95% CI, 0.67-5.57).
+CONCLUSIONS AND RELEVANCE: In this comparative effectiveness research study of 
+adults hospitalized with COVID-19, receipt of remdesivir was associated with 
+faster clinical improvement in a cohort of predominantly non-White patients. 
+Remdesivir plus corticosteroid administration did not reduce the time to death 
+compared with remdesivir administered alone.
+
+DOI: 10.1001/jamanetworkopen.2021.3071
+PMCID: PMC7991975
+PMID: 33760094 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Garibaldi 
+reported receiving personal fees from Janssen Research and Development LLC and 
+from the US Food and Drug Administration (FDA) Pulmonary-Asthma Drug Advisory 
+Committee outside the submitted work. Dr Bandeen-Roche reported receiving grants 
+from the National Institutes of Health (NIH) during the conduct of the study. Dr 
+Alexander reported being a past Chair of the US FDA Peripheral and Central 
+Nervous System Advisory Committee; being a co-founding principal and equity 
+holder in Monument Analytics; and receiving personal fees from IQVIA and 
+OptumRx. Dr Gupta reported receiving grants from the NIH outside the submitted 
+work. No other disclosures were reported.

@@ -1,0 +1,136 @@
+1. JAMA. 2020 Sep 15;324(11):1048-1057. doi: 10.1001/jama.2020.16349.
+
+Effect of Remdesivir vs Standard Care on Clinical Status at 11 Days in Patients 
+With Moderate COVID-19: A Randomized Clinical Trial.
+
+Spinner CD(1), Gottlieb RL(2), Criner GJ(3), Arribas López JR(4), Cattelan 
+AM(5), Soriano Viladomiu A(6), Ogbuagu O(7), Malhotra P(8), Mullane KM(9), 
+Castagna A(10), Chai LYA(11), Roestenberg M(12), Tsang OTY(13), Bernasconi 
+E(14), Le Turnier P(15), Chang SC(16), SenGupta D(17), Hyland RH(17), Osinusi 
+AO(17), Cao H(17), Blair C(17), Wang H(17), Gaggar A(17), Brainard DM(17), 
+McPhail MJ(18), Bhagani S(19), Ahn MY(20), Sanyal AJ(21), Huhn G(22), Marty 
+FM(23); GS-US-540-5774 Investigators.
+
+Author information:
+(1)Technical University of Munich, School of Medicine, University Hospital 
+Rechts der Isar, Munich, Germany.
+(2)Baylor University Medical Center, Dallas, Texas.
+(3)Lewis Katz School of Medicine at Temple University, Philadelphia, 
+Pennsylvania.
+(4)Instituto de Investigación Hospital Universitario La Paz, Madrid, Spain.
+(5)Azienda Ospedaliera di Padova, Padova, Italy.
+(6)Hospital Clinic of Barcelona, IDIBAPS, Barcelona, Spain.
+(7)Yale School of Medicine, New Haven, Connecticut.
+(8)North Shore University Hospital, Manhasset, New York.
+(9)University of Chicago, Chicago, Illinois.
+(10)IRCCS San Raffaele Hospital and Vita-Salute San Raffaele University, Milan, 
+Italy.
+(11)National University Health System, Singapore.
+(12)Leiden University Medical Center, Leiden, the Netherlands.
+(13)Princess Margaret Hospital, Hong Kong, China.
+(14)Ente Ospedaliero Cantonale, Bellinzona, Switzerland.
+(15)University of Nantes, Nantes, France.
+(16)National Taiwan University Hospital, Taipei, Taiwan.
+(17)Gilead Sciences, Foster City, California.
+(18)King's College, London, England.
+(19)Royal Free Hospital, London, England.
+(20)Seoul Medical Center, Seoul, South Korea.
+(21)Virginia Commonwealth University, Richmond.
+(22)Cook County Health, Chicago, Illinois.
+(23)Brigham and Women's Hospital and Harvard Medical School, Boston, 
+Massachusetts.
+
+Comment in
+    JAMA. 2020 Sep 15;324(11):1041-1042.
+    Pol Arch Intern Med. 2021 Jan 29;131(1):96-97.
+
+IMPORTANCE: Remdesivir demonstrated clinical benefit in a placebo-controlled 
+trial in patients with severe coronavirus disease 2019 (COVID-19), but its 
+effect in patients with moderate disease is unknown.
+OBJECTIVE: To determine the efficacy of 5 or 10 days of remdesivir treatment 
+compared with standard care on clinical status on day 11 after initiation of 
+treatment.
+DESIGN, SETTING, AND PARTICIPANTS: Randomized, open-label trial of hospitalized 
+patients with confirmed severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) infection and moderate COVID-19 pneumonia (pulmonary infiltrates 
+and room-air oxygen saturation >94%) enrolled from March 15 through April 18, 
+2020, at 105 hospitals in the United States, Europe, and Asia. The date of final 
+follow-up was May 20, 2020.
+INTERVENTIONS: Patients were randomized in a 1:1:1 ratio to receive a 10-day 
+course of remdesivir (n = 197), a 5-day course of remdesivir (n = 199), or 
+standard care (n = 200). Remdesivir was dosed intravenously at 200 mg on day 1 
+followed by 100 mg/d.
+MAIN OUTCOMES AND MEASURES: The primary end point was clinical status on day 11 
+on a 7-point ordinal scale ranging from death (category 1) to discharged 
+(category 7). Differences between remdesivir treatment groups and standard care 
+were calculated using proportional odds models and expressed as odds ratios. An 
+odds ratio greater than 1 indicates difference in clinical status distribution 
+toward category 7 for the remdesivir group vs the standard care group.
+RESULTS: Among 596 patients who were randomized, 584 began the study and 
+received remdesivir or continued standard care (median age, 57 [interquartile 
+range, 46-66] years; 227 [39%] women; 56% had cardiovascular disease, 42% 
+hypertension, and 40% diabetes), and 533 (91%) completed the trial. Median 
+length of treatment was 5 days for patients in the 5-day remdesivir group and 6 
+days for patients in the 10-day remdesivir group. On day 11, patients in the 
+5-day remdesivir group had statistically significantly higher odds of a better 
+clinical status distribution than those receiving standard care (odds ratio, 
+1.65; 95% CI, 1.09-2.48; P = .02). The clinical status distribution on day 11 
+between the 10-day remdesivir and standard care groups was not significantly 
+different (P = .18 by Wilcoxon rank sum test). By day 28, 9 patients had died: 2 
+(1%) in the 5-day remdesivir group, 3 (2%) in the 10-day remdesivir group, and 4 
+(2%) in the standard care group. Nausea (10% vs 3%), hypokalemia (6% vs 2%), and 
+headache (5% vs 3%) were more frequent among remdesivir-treated patients 
+compared with standard care.
+CONCLUSIONS AND RELEVANCE: Among patients with moderate COVID-19, those 
+randomized to a 10-day course of remdesivir did not have a statistically 
+significant difference in clinical status compared with standard care at 11 days 
+after initiation of treatment. Patients randomized to a 5-day course of 
+remdesivir had a statistically significant difference in clinical status 
+compared with standard care, but the difference was of uncertain clinical 
+importance.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT04292730.
+
+DOI: 10.1001/jama.2020.16349
+PMCID: PMC7442954
+PMID: 32821939 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Spinner 
+reported receipt of personal fees from AbbVie and grants and personal fees from 
+Janssen-Cilag, Merck Sharp & Dohme, and ViiV Healthcare/GlaxoSmithKline. Dr 
+Gottlieb reported receipt of nonfinancial support from Gilead Sciences outside 
+the current work. Dr Arribas López reported receipt of honoraria from Gilead for 
+participating in an advisory board, and his institution has received grants from 
+Gilead for an unrelated project; he also reported receipt of grants and personal 
+fees from ViiV and personal fees from Janssen, Merck Sharp & Dohme, Teva, and 
+Aelix. Dr Soriano Viladomiu reported receipt of honoraria as speaker or advisor 
+from Pfizer, Merck Sharp & Dohme, Angelini, Menarini, and Shionogi. Dr Ogbuagu 
+reported receipt of advisory board honoraria from Gilead and ViiV and speakers 
+fees from Gilead. Dr Chai reported receipt of grant support from and 
+advisership/consultancy for Pfizer, Gilead, Astellas, and Merck Sharp & Dohme. 
+Dr Bernasconi reported that his institution has received fees for his 
+participation in advisory boards and travel grants from Gilead, Merck Sharp & 
+Dohme, ViiV, Pfizer, AbbVie, and Sandoz. Dr Bhagani reported receipt of research 
+support and honoraria for lectures and advisory boards from Gilead Sciences and 
+grants and personal fees from AbbVie, Merck Sharp & Dohme, Roche, and ViiV. Dr 
+Sanyal reported being employed at Sanyal Bio; receiving royalties from Elseiver 
+and UpToDate; holding stock in Exhalenz, Akarna, Genfit, Hemoshear, Durect, and 
+Tozoama; receiving grants from Galectin and Bristol-Myers; consulting for 
+Conatus, Gilead, Pfizer, Boehringer Ingelheim, Merck, Hemoshear, Lilly, Novo 
+Nordisk, Ardelyx, Terns, ENYO, Birdrock, Albireo, Sanofi, Janssen, Takeda, 
+Zydus, AMRA, Poxel, Servier, Second Genome, and General Electric; receiving 
+grants and consulting for Mallinckrodt, Salix, Novartis, and Nimbus; being 
+principal investigator of an ongoing trial for Genfit; receiving grants and 
+being principal investigator of an ongoing trial for Immuron; receiving grants, 
+consulting for, and being principal investigator of ongoing trials for 
+Echosens-Sandill and Sequana; providing advice but receiving no personal 
+remuneration for Intercept, Galectin, Fractyl, Durect, Indalo, Allergan, 
+Chemomab, Affimmune, Teva, BASF, Perspectum, and 89bio; and being the inventor 
+for a patent held jointly by OWL and Virginia Commonwealth University. Dr Huhn 
+reported that his institution received grants from Gilead, GlaxoSmithKline/ViiV, 
+Janssen, Bristol-Meyers Squibb, Proteus, Lilly, and the National Institute of 
+Allergy and Infectious Diseases and that he received consulting fees from 
+Gilead, ViiV, Janssen, and Theratechnologies. Dr Marty reported receipt of 
+grants from Ansun, Chimerix, Gilead, and Merck and personal fees from AlloVir, 
+Janssen, Kyorin, Merck, ReViral, and Symbio. Drs SenGupta, Hyland, Osinusi, Cao, 
+Blair, Wang, Gaggar, and Brainard are employees of and own stock in Gilead 
+Sciences. No other disclosures were reported.

@@ -1,0 +1,47 @@
+1. Am J Transplant. 2020 Nov;20(11):3072-3080. doi: 10.1111/ajt.16241. Epub 2020 
+Sep 5.
+
+COVID-19 in lung transplant recipients: A single center case series from New 
+York City.
+
+Aversa M(1), Benvenuto L(1), Anderson M(1), Shah L(1), Robbins H(1), Pereira 
+M(2), Scheffert J(3), Carroll M(1), Hum J(1), Nolan M(1), Reilly G(1), Lemaitre 
+P(4), Stanifer BP(4), D'Ovidio F(4), Sonett J(4), Arcasoy S(1); From the 
+Columbia University Lung Transplant Program.
+
+Author information:
+(1)Division of Pulmonary, Allergy, and Critical Care Medicine, Department of 
+Medicine, Columbia University Medical Center, New York, New York, USA.
+(2)Division of Infectious Diseases, Department of Medicine, Columbia University 
+Medical Center, New York, New York, USA.
+(3)Department of Pharmacy, New York-Presbyterian Hospital, New York, New York, 
+USA.
+(4)Division of Thoracic Surgery, Department of Surgery, Columbia University 
+Medical Center, New York, New York, USA.
+
+There are limited data describing COVID-19 in lung transplant recipients. We 
+performed a single center, retrospective case series study of lung transplant 
+patients followed by the Columbia Lung Transplant program who tested positive 
+for SARS-CoV-2 between March 19 and May 19, 2020. Thirty-two lung transplant 
+patients developed mild (16%), moderate (44%), or severe (41%) COVID-19. The 
+median age of patients was 65 years, and the median time from lung transplant 
+was 5.6 years. Symptoms included cough (66%), dyspnea (50%), fever (47%), and 
+gastrointestinal upset (44%). Patients received hydroxychloroquine (84%), 
+azithromycin (75%), augmented steroids (44%), tocilizumab (19%), and remdesivir 
+(9%). Eleven patients (34%) died at a median time of 14 days from admission. 
+Complications during admission included: acute kidney injury (63%), 
+transaminitis (31%), shock (31%), acute respiratory distress syndrome (25%), 
+neurological events (25%), arrhythmias (22%), and venous thromboembolism (9%). 
+Compared to patients with moderate COVID-19, patients with severe COVID-19 had 
+higher peak white blood cell counts (15.8 vs 7 × 103 /uL, P = .019), C-reactive 
+protein (198 vs. 107 mg/L, P = .010) and D-dimer (8.6 vs. 2.1 ug/mL, P = .004) 
+levels, and lower nadir lymphocyte counts (0.09 vs. 0.4 × 103 /uL, P = .006). 
+COVID-19 is associated with severe illness and a high mortality rate in lung 
+transplant recipients.
+
+© 2020 The American Society of Transplantation and the American Society of 
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.16241
+PMCID: PMC7436464
+PMID: 32881315 [Indexed for MEDLINE]

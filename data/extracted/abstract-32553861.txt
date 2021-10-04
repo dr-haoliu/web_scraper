@@ -1,0 +1,76 @@
+1. J Pediatr. 2020 Sep;224:24-29. doi: 10.1016/j.jpeds.2020.06.045. Epub 2020 Jun 
+14.
+
+Multisystem Inflammatory Syndrome in Children Associated with Severe Acute 
+Respiratory Syndrome Coronavirus 2 Infection (MIS-C): A Multi-institutional 
+Study from New York City.
+
+Kaushik S(1), Aydin SI(2), Derespina KR(3), Bansal PB(4), Kowalsky S(5), 
+Trachtman R(6), Gillen JK(1), Perez MM(3), Soshnick SH(3), Conway EE Jr(7), 
+Bercow A(7), Seiden HS(4), Pass RH(4), Ushay HM(3), Ofori-Amanfo G(2), Medar 
+SS(8).
+
+Author information:
+(1)Department of Pediatrics, Division of Pediatric Critical Care Medicine, Mount 
+Sinai Kravis Children's Hospital, Icahn School of Medicine at Mount Sinai, New 
+York, NY.
+(2)Department of Pediatrics, Division of Pediatric Critical Care Medicine, Mount 
+Sinai Kravis Children's Hospital, Icahn School of Medicine at Mount Sinai, New 
+York, NY; Department of Pediatrics, Division of Pediatric Cardiology, Mount 
+Sinai Kravis Children's Hospital, Icahn School of Medicine at Mount Sinai, New 
+York, NY.
+(3)Department of Pediatrics, Division of Pediatric Critical Care Medicine, 
+Albert Einstein College of Medicine, Children's Hospital at Montefiore, New 
+York, NY.
+(4)Department of Pediatrics, Division of Pediatric Cardiology, Mount Sinai 
+Kravis Children's Hospital, Icahn School of Medicine at Mount Sinai, New York, 
+NY.
+(5)Department of Pediatrics, Division of Infectious Diseases, Mount Sinai Kravis 
+Children's Hospital, Icahn School of Medicine at Mount Sinai, New York, NY.
+(6)Department of Pediatrics, Division of Clinical Immunology and Pediatric 
+Rheumatology, Mount Sinai Kravis Children's Hospital, Icahn School of Medicine 
+at Mount Sinai, New York, NY.
+(7)Department of Pediatrics, Jacobi Medical Center, Albert Einstein College of 
+Medicine, New York, NY.
+(8)Department of Pediatrics, Division of Pediatric Critical Care Medicine, 
+Albert Einstein College of Medicine, Children's Hospital at Montefiore, New 
+York, NY; Department of Pediatrics, Division of Pediatric Cardiology, Albert 
+Einstein College of Medicine, Children's Hospital at Montefiore, New York, NY. 
+Electronic address: smedar@montefiore.org.
+
+Comment in
+    J Pediatr. 2021 Jan;228:315-316.
+    J Pediatr. 2021 Jan;228:315.
+    J Pediatr. 2021 Feb;229:313-314.
+
+OBJECTIVE: To assess clinical characteristics and outcomes of severe acute 
+respiratory syndrome coronavirus 2-associated multisystem inflammatory syndrome 
+in children (MIS-C).
+STUDY DESIGN: Children with MIS-C admitted to pediatric intensive care units in 
+New York City between April 23 and May 23, 2020, were included. Demographic and 
+clinical data were collected.
+RESULTS: Of 33 children with MIS-C, the median age was 10 years; 61% were male; 
+45% were Hispanic/Latino; and 39% were black. Comorbidities were present in 45%. 
+Fever (93%) and vomiting (69%) were the most common presenting symptoms. 
+Depressed left ventricular ejection fraction was found in 63% of patients with 
+median ejection fraction of 46.6% (IQR, 39.5-52.8). C-reactive protein, 
+procalcitonin, d-dimer, and pro-B-type natriuretic peptide levels were elevated 
+in all patients. For treatment, intravenous immunoglobulin was used in 18 (54%), 
+corticosteroids in 17 (51%), tocilizumab in 12 (36%), remdesivir in 7 (21%), 
+vasopressors in 17 (51%), mechanical ventilation in 5 (15%), extracorporeal 
+membrane oxygenation in 1 (3%), and intra-aortic balloon pump in 1 (3%). The 
+left ventricular ejection fraction normalized in 95% of those with a depressed 
+ejection fraction. All patients were discharged home with median duration of 
+pediatric intensive care unit stay of 4.7 days (IQR, 4-8 days) and a hospital 
+stay of 7.8 days (IQR, 6.0-10.1 days). One patient (3%) died after withdrawal of 
+care secondary to stroke while on extracorporeal membrane oxygenation.
+CONCLUSIONS: Critically ill children with coronavirus disease-2019-associated 
+MIS-C have a spectrum of severity broader than described previously but still 
+require careful supportive intensive care. Rapid, complete clinical and 
+myocardial recovery was almost universal.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpeds.2020.06.045
+PMCID: PMC7293760
+PMID: 32553861 [Indexed for MEDLINE]

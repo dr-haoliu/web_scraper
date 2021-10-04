@@ -1,0 +1,42 @@
+1. Carbohydr Polym. 2021 Jul 15;264:118011. doi: 10.1016/j.carbpol.2021.118011. 
+Epub 2021 Apr 7.
+
+Sulfobutylether-beta-cyclodextrin-enabled antiviral remdesivir: Characterization 
+of electrospun- and lyophilized formulations.
+
+Szente L(1), Puskás I(2), Sohajda T(2), Varga E(2), Vass P(3), Nagy ZK(3), 
+Farkas A(3), Várnai B(4), Béni S(4), Hazai E(5).
+
+Author information:
+(1)CycloLab Cyclodextrin R&D Laboratory Ltd., H-1097, Budapest, Illatos út 7., 
+Hungary. Electronic address: szente@cyclolab.hu.
+(2)CycloLab Cyclodextrin R&D Laboratory Ltd., H-1097, Budapest, Illatos út 7., 
+Hungary.
+(3)Budapest University of Technology and Economics, H-1111, Budapest, Műegyetem 
+rkp. 3, Hungary.
+(4)Semmelweis University, Department of Pharmacognosy, Budapest, Üllői út 26, 
+Hungary.
+(5)Virtua Drug, Ltd., H-1015, Budapest, Csalogány utca 4C, Hungary.
+
+Veklury™ by Gilead Sciences, Inc., containing antiviral drug, remdesivir (REM) 
+has received emergency authorization in the USA and in Europe for COVID-19 
+therapy. Here, for the first time, we describe details of the non-covalent, 
+host-guest type interaction between REM and the solubilizing excipient, 
+sulfobutylether-beta-cyclodextrin (SBECD) that results in significant solubility 
+enhancement. Complete amorphousness of the cyclodextrin-enabled REM formulation 
+was demonstrated by X-ray diffraction, thermal analysis, Raman chemical mapping 
+and electron microscopy/energy dispersive spectroscopy. The use of solubilizing 
+carbohydrate resulted in a 300-fold improvement of the aqueous solubility of 
+REM, and enhanced dissolution rate of the drug enabling the preparation of 
+stable infusion solutions for therapy. 2D ROESY NMR spectroscopy provided 
+information on the nature of REM-excipient interaction and indicated the 
+presence of inclusion phenomenon and the electrostatic attraction between 
+anionic SBECD and nitrogen-containing REM in aqueous solution.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.carbpol.2021.118011
+PMCID: PMC8025548
+PMID: 33910715 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare no conflict of interest.

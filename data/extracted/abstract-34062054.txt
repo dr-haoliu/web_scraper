@@ -1,0 +1,62 @@
+1. Pediatr Pulmonol. 2021 Aug;56(8):2522-2529. doi: 10.1002/ppul.25514. Epub 2021 
+Jun 1.
+
+Asthma and COVID-19: An early inpatient and outpatient experience at a US 
+children's hospital.
+
+Farzan S(1)(2)(3)(4), Rai S(2), Cerise J(5), Bernstein S(2), Coscia G(1)(2)(3), 
+Hirsch JS(3)(4)(6), Jeanty J(2), Makaryus M(2), McGeechan S(2), McInerney 
+A(1)(2)(3), Quizon A(7)(2), Santiago MT(7)(2).
+
+Author information:
+(1)Division of Allergy & Immunology, Donald and Barbara Zucker School of 
+Medicine at Hofstra/Northwell, Northwell Health, Great Neck, New York, USA.
+(2)Department of Pediatrics, Donald and Barbara Zucker School of Medicine at 
+Hofstra/Northwell, Northwell Health, New Hyde Park, New York, USA.
+(3)Department of Medicine, Donald and Barbara Zucker School of Medicine at 
+Hofstra/Northwell, Northwell Health, Northwell Health System, Manhasett, New 
+York, USA.
+(4)Institute of Health System Science, Feinstein Institutes for Medical 
+Research, Northwell Health, Manhasset, New York, USA.
+(5)Biostatistics Unit, Feinstein Institutes for Medical Research, Northwell 
+Health, Manhasset, NY, USA.
+(6)Department of Information Services, Northwell Health, New Hyde Park, New 
+York, USA.
+(7)Division of Pediatric Pulmonology, Donald and Barbara Zucker School of 
+Medicine at Hofstra/Northwell, Northwell Health, New Hyde Park, New York, USA.
+
+BACKGROUND: Initially, persistent asthma was deemed a risk factor for severe 
+COVID-19 disease. However, data suggests that asthmatics do not have an 
+increased risk of COVID-19 infection or disease. There is a paucity of data 
+describing pediatric asthmatics with COVID-19.
+OBJECTIVE: The objectives of this study were to determine the prevalence of 
+asthma among hospitalized children with acute symptomatic COVID-19, compare 
+demographic and clinical outcomes between asthmatics and nonasthmatics, and 
+characterize behaviors of our outpatient pediatric population.
+METHODS: We conducted a single-center retrospective study of pediatric patients 
+admitted to the Cohen Children's Medical Center at Northwell Health with 
+symptomatic COVID-19 within 4 months of the surge beginning in March 2020 and a 
+retrospective analysis of pediatric asthma outpatients seen in the previous 6 
+months. Baseline demographic variables and clinical outcomes for inpatients, and 
+medication compliance, health behaviors, and asthma control for outpatients were 
+collected.
+RESULTS: Thirty-eight inpatients and 95 outpatients were included. The inpatient 
+prevalence of asthma was 34.2%. Asthmatics were less likely to have abnormal 
+chest x-rays (CXRs), require oxygen support, and be treated with remdesivir. 
+Among outpatients, 41% reported improved asthma control and decreased rescue 
+medication use, with no COVID-19 hospitalizations, despite six suspected 
+infections.
+CONCLUSIONS: Among children hospitalized for acute symptomatic COVID-19 at our 
+institution, 34.2% had a diagnosis of asthma. Asthmatics did not have a more 
+severe course and required a lower level of care. Outpatients had improved 
+medication compliance and control and a low risk of hospitalization. Biological 
+and behavioral factors may have mitigated against severe disease.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/ppul.25514
+PMCID: PMC8242640
+PMID: 34062054
+
+Conflict of interest statement: The authors have no conflicts of interest 
+relevant to this article to disclose.

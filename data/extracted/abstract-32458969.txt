@@ -1,0 +1,45 @@
+1. Am J Epidemiol. 2020 Nov 2;189(11):1218-1226. doi: 10.1093/aje/kwaa093.
+
+Early Outpatient Treatment of Symptomatic, High-Risk COVID-19 Patients That 
+Should Be Ramped Up Immediately as Key to the Pandemic Crisis.
+
+Risch HA.
+
+Comment in
+    Am J Epidemiol. 2020 Nov 2;189(11):1444-1449.
+    Am J Epidemiol. 2020 Nov 2;189(11):1227-1229.
+    Am J Epidemiol. 2020 Nov 2;189(11):1442-1443.
+    Am J Epidemiol. 2021 Apr 6;190(4):491-495.
+    Am J Epidemiol. 2021 Jul 1;190(7):1435-1436.
+    Am J Epidemiol. 2021 Jul 1;190(7):1434-1435.
+
+More than 1.6 million Americans have been infected with severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2), and more than 10 times that number carry 
+antibodies to it. High-risk patients with progressing symptomatic disease 
+currently have only hospitalization treatment, with its high mortality, 
+available to them. An outpatient treatment that prevents hospitalization is 
+desperately needed. Two candidate medications have been widely discussed: 
+remdesivir and hydroxychloroquine (HCQ) + azithromycin (AZ). Remdesivir has 
+shown mild effectiveness in hospitalized inpatients, but no trials in 
+outpatients have been registered. HCQ + AZ has been widely misrepresented in 
+both clinical reports and public media, and results of outpatient trials are not 
+expected until September. Early outpatient illness is very different from later 
+florid disease requiring hospitalization, and the treatments differ. Evidence 
+about use of HCQ alone, or of HCQ + AZ in inpatients, is irrelevant with regard 
+to the efficacy of HCQ + AZ in early high-risk outpatient disease. Five studies, 
+including 2 controlled clinical trials, have demonstrated significant major 
+outpatient treatment efficacy. HCQ + AZ has been used as the standard of care in 
+more than 300,000 older adults with multiple comorbid conditions; the estimated 
+proportion of such patients diagnosed with cardiac arrhythmia attributable to 
+the medications is 47 per 100,000 users, among whom estimated mortality is less 
+than 20% (9/100,000 users), as compared with the 10,000 Americans now dying each 
+week. These medications need to be made widely available and promoted 
+immediately for physicians to prescribe.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the 
+Johns Hopkins Bloomberg School of Public Health. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwaa093
+PMCID: PMC7546206
+PMID: 32458969 [Indexed for MEDLINE]

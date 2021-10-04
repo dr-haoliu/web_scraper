@@ -1,0 +1,45 @@
+1. Front Med (Lausanne). 2020 Dec 22;7:596587. doi: 10.3389/fmed.2020.596587. 
+eCollection 2020.
+
+The Need for Antiviral Drugs for Pandemic Coronaviruses From a Global Health 
+Perspective.
+
+Villamagna AH(1), Gore SJ(1), Lewis JS(1), Doggett JS(1)(2).
+
+Author information:
+(1)Division of Infectious Diseases, Oregon Health & Science University School of 
+Medicine, Portland, OR, United States.
+(2)Department of Hospital and Specialty Medicine, VA Portland Healthcare System, 
+Portland, OR, United States.
+
+Respiratory failure due to SARS-CoV-2 has caused widespread mortality, creating 
+an urgent need for effective treatments and a long-term need for antivirals for 
+future emergent coronaviruses. Pharmacotherapy for respiratory viruses has 
+largely been unsuccessful with the exception of early treatment of influenza 
+viruses, which shortens symptom duration and prevents infection in close 
+contacts. Under the rapidly evolving circumstances of the COVID-19 pandemic, 
+most clinical trials of experimental treatments in the United States have 
+focused on later stages of the disease process. Worldwide, the clinical studies 
+of the most impactful drugs, remdesivir and dexamethasone in ACTT-1, RECOVERY, 
+and Solidarity, have studied hospitalized patients. Less than half of clinical 
+trials in the U.S. have investigated oral agents, and the majority have taken 
+place in hospitals at a disease stage where the viral load is already 
+decreasing. The limited success of treatments for respiratory viruses and the 
+viral dynamics of COVID-19 suggest that an antiviral therapy with the greatest 
+impact against pandemic coronaviruses would be orally administered, 
+well-tolerated, target a highly conserved viral protein or host-coronavirus 
+interaction and could be used effectively throughout the world, including 
+resource-poor settings. We examine the treatment of respiratory viral infections 
+and current clinical trials for COVID-19 to provide a framework for effective 
+antiviral therapy and prevention of future emergent coronaviruses and call 
+attention to the need for continued preclinical drug discovery.
+
+Copyright © 2020 Villamagna, Gore, Lewis and Doggett.
+
+DOI: 10.3389/fmed.2020.596587
+PMCID: PMC7783399
+PMID: 33415116
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

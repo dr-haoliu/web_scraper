@@ -1,0 +1,58 @@
+1. Int J Clin Pharm. 2021 Aug;43(4):1116-1122. doi: 10.1007/s11096-021-01311-5. 
+Epub 2021 Jul 30.
+
+Drug-induced liver injury associated with lopinavir-ritonavir in patients with 
+COVID-19: a disproportionality analysis of U.S. food and drug administration 
+adverse event reporting system (FAERS) data.
+
+Tang H(#)(1), Zhou L(#)(2), Li X(3), Kinlaw AC(4)(5), Yang JY(6), Moon AM(7)(8), 
+Barnes EL(7)(8), Wang T(6).
+
+Author information:
+(1)Department of Pharmaceutical Outcomes and Policy, University of Florida 
+College of Pharmacy, Gainesville, FL, USA. tang.huilin@ufl.edu.
+(2)Department of Biostatistics, Gillings School of Global Public Health, 
+University of North Carolina At Chapel Hill, Chapel Hill, NC, USA.
+(3)Institute for Drug Evaluation, Peking University Health Science Center, 
+Beijing, China.
+(4)Division of Pharmaceutical Outcome and Policy, University of North Carolina 
+School of Pharmacy, Chapel Hill, NC, USA.
+(5)Cecil G. Sheps Center for Health Services Research, University of North 
+Carolina At Chapel Hill, Chapel Hill, NC, USA.
+(6)Department of Epidemiology, Gillings School of Global Public Health, 
+University of North Carolina At Chapel Hill, Chapel Hill, NC, USA.
+(7)Center for Gastrointestinal Biology and Disease, School of Medicine, 
+University of North Carolina At Chapel Hill, Chapel Hill, NC, USA.
+(8)Division of Gastroenterology and Hepatology, Department of Medicine, 
+University of North Carolina At Chapel Hill, Chapel Hill, NC, USA.
+(#)Contributed equally
+
+Background Liver injury has been documented independently in novel coronavirus 
+disease 2019 (COVID-19) patients and patients treated with lopinavir-ritonavir. 
+Objective to investigate the drug-induced liver injury associated with 
+lopinavir-ritonavir among the patients with COVID-19. Methods We conducted a 
+disproportionality analysis of US Food and Drug Administration Adverse Event 
+Reporting System (FAERS) between 2020Q1 and 2021Q1 to evaluate the association 
+between lopinavir-ritonavir and risk of drug-induced liver injury (or severe 
+drug-induced liver injury) and calculated their reporting odds ratios (RORs) 
+with 95% confidence intervals (CIs). Results A total of 3,425 cases of 
+drug-induced liver injury were reported in 19,782 patients with COVID-19. The 
+ROR for drug-induced liver injury was 2.99 (2.59-3.46), 3.16 (2.68-3.73), and 
+5.39 (4.63-6.26) when comparing lopinavir-ritonavir with all other drugs, 
+hydroxychloroquine/chloroquine only, and remdesivir, respectively. For severe 
+drug-induced liver injury, RORs for lopinavir-ritonavir provided evidence of an 
+association compared with all other drugs (3.98; 3.15-5.05), compared with 
+hydroxychloroquine/chloroquine only (5.33; 4.09-6.94), and compared with 
+remdesivir (3.85; 3.03-4.89). Conclusions In the FAERS, we observed a 
+disproportional signal for drug-induced liver injury associated with 
+lopinavir-ritonavir in patients with COVID-19.
+
+© 2021. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s11096-021-01311-5
+PMCID: PMC8323539
+PMID: 34328585 [Indexed for MEDLINE]
+
+Conflict of interest statement: HT is a consultant for Evidpro, LLC. The other 
+authors have no conflict of interest to declare.

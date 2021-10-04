@@ -1,0 +1,40 @@
+1. Anal Methods. 2021 Jun 21;13(23):2596-2602. doi: 10.1039/d1ay00469g. Epub 2021 
+May 21.
+
+Green and sensitive spectrofluorimetric determination of Remdesivir, an FDA 
+approved SARS-CoV-2 candidate antiviral; application in pharmaceutical dosage 
+forms and spiked human plasma.
+
+Elmansi H (1), Ibrahim AE , Mikhail IE , Belal F .
+
+Author information:
+(1)Pharmaceutical Analytical Chemistry Department, Faculty of Pharmacy, Mansoura 
+University, Egypt.
+
+Fluorescence spectroscopy has gained much attention over the last few years. Its 
+advantages cover both analytical performance as well as ecological greenness. 
+The quality control of pharmaceuticals requires sensitive, fast and economic 
+methodologies to provide a high throughput at desirable costs. The low energy 
+and decreased solvent consumption make this technique green as well as economic, 
+and hence it is much preferred by pharmaceutical industries. Remdesivir is a 
+recent antiviral, previously used for the treatment of Ebola virus infections, 
+which was approved by the US-FDA in 2020 for treatment of infections caused by 
+SARS-CoV-2 virus. Formulation and wide-scale production of this drug started 
+recently and hence methodologies related to its quality control are highly 
+required. A smart spectrofluorimetric method was validated as per the US-FDA 
+guidelines for the facile estimation of Remdesivir. The assay of Remdesivir was 
+based on its native fluorescence measurements at pH 4 and wavelengths of 244/405 
+nm. Calibration was achieved over the range of 1.0-65.0 ng mL-1. Different 
+variables affecting the proposed methodology were studied to achieve maximum 
+sensitivity, at limits of detection and quantification of 0.287 and 0.871 ng 
+mL-1, respectively. The developed method is regarded as the first 
+spectrofluorimetric one for the estimation of Remdesivir. The developed method 
+was also utilized for the determination of the drug in its formulated IV 
+infusion and in spiked human plasma. Statistical analysis verified that this 
+method is accurate and reproducible. Moreover, the ecological impact of the 
+developed procedures was evaluated on two recently reported assessment metrics, 
+the Green Analytical Procedure Index (GAPI) and AGREE-analytical greenness 
+metric, to emphasize the greenness of the procedure.
+
+DOI: 10.1039/d1ay00469g
+PMID: 34019051 [Indexed for MEDLINE]

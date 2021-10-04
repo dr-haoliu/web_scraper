@@ -1,0 +1,46 @@
+1. J Intensive Care Med. 2021 Oct;36(10):1176-1183. doi: 10.1177/08850666211023360. 
+Epub 2021 Jun 21.
+
+Outcomes of Barotrauma in Critically Ill COVID-19 Patients With Severe 
+Pneumonia.
+
+Gazivoda VP(1), Ibrahim M(1), Kangas-Dick A(1), Sun A(1), Silver M(2), Wiesel 
+O(1)(3).
+
+Author information:
+(1)Department of Surgery, 2042Maimonides Medical Center, Brooklyn, NY, USA.
+(2)Division of Biostatistics, 2042Maimonides Medical Center, Brooklyn, NY, USA.
+(3)Division of Thoracic Surgery, 2042Maimonides Medical Center, Brooklyn, NY, 
+USA.
+
+BACKGROUND: Pneumomediastinum and pneumothorax are complications which may be 
+associated with barotrauma in mechanically ventilated patients. The current 
+literature demonstrates unclear outcomes regarding barotrauma in critically ill 
+patients with severe COVID-19. The purpose of this study was to examine the 
+incidence of barotrauma in patients with severe COVID-19 pneumonia and its 
+influence on survival.
+STUDY DESIGN AND METHODS: A retrospective cohort study was performed from March 
+18, 2020 to May 5, 2020, with follow-up through June 18, 2020, encompassing 
+critically ill intubated patients admitted for COVID-19 pneumonia at an academic 
+tertiary care hospital in Brooklyn, New York. Critically ill patients with 
+pneumomediastinum, pneumothorax, or both (n = 75) were compared to those without 
+evidence of barotrauma (n = 206). Clinical characteristics and short-term 
+patient outcomes were analyzed.
+RESULTS: Barotrauma occurred in 75/281 (26.7%) of included patients. On 
+multivariable analysis, factors associated with increased 30-day mortality were 
+elevated age (HR 1.015 [95% CI 1.004-1.027], P = 0.006), barotrauma (1.417 
+[1.040-1.931], P = 0.027), and renal dysfunction (1.602 [1.055-2.432], P = 
+0.027). Protective factors were administration of remdesivir (0.479 
+[0.321-0.714], P < 0.001) and receipt of steroids (0.488 [0.370-0.643], P < 
+0.001).
+CONCLUSION: Barotrauma occurred at high rates in intubated critically ill 
+patients with COVID-19 pneumonia and was found to be an independent risk factor 
+for 30-day mortality.
+
+DOI: 10.1177/08850666211023360
+PMCID: PMC8221250
+PMID: 34151633 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.

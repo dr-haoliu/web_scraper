@@ -1,0 +1,48 @@
+1. Khirurgiia (Mosk). 2020;(6):90-97. doi: 10.17116/hirurgia202006190.
+
+[Drug treatment of coronavirus disease COVID-19: evidence exists?].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Timerbulatov SV(1), Timerbulstov MV(1), Gainullina EN(1), Gafarova AR(1), 
+Timerbulatov VM(1).
+
+Author information:
+(1)Bashkir State Medical University, Ufa, Russia.
+
+The article provides a review of foreign literature for 2020 on existing methods 
+of drug treatment of coronavirus disease COVID-19. To date, in the treatment of 
+COVID-19 in different countries, a little more than 10 drugs are used. The 
+largest number of studies on the testing of these drugs is carried out by 
+scientists from China, the USA, and European countries. It should be noted that 
+among these drugs there is not a single new drug developed specifically for the 
+treatment of COVID-19, the recommended and used drugs have previously been used 
+to treat, as a rule, diseases of the viral etiology, less often another 
+pathology. These suggestions are often based on analogy, the hypothesis of their 
+supposed effectiveness for COVID-19. It can be assumed that a brake on the 
+development of a drug specific for coronavirus disease is a poor knowledge of 
+the pathogenesis of virus invasion in the body's adhesives and the development 
+of complications. The review provides detailed literature data on drugs such as 
+hydroxychloroquine / chloroquine, lopinavir/natinavir, remdesivir, ACE 
+inhibitors and angiotensin converting enzyme receptor blockers, tissue 
+plasminogen activator, as well as plasma transfusion transfusions.
+
+Publisher: В статье представлен обзор иностранной литературы за 2020 г. по 
+имеющимся методам медикаментозного лечения коронавирусной болезни COVID-19. К 
+настоящему времени при лечении COVID-19 в мире используется чуть больше 10 
+препаратов, наибольшее число исследований по их апробации проводится учеными 
+Китая, США, стран Европы. Однако нет ни одного нового лекарственного средства, 
+разработанного специально для лечения COVID-19; рекомендуемые и используемые 
+средства ранее применялись для лечения заболеваний вирусной этиологии, реже — 
+другой патологии. Предложения чаще основываются на аналогии, гипотезе о 
+предполагаемой эффективности препаратов и для COVID-19. Можно предположить, что 
+основным фактором, препятствующим разработке специфического для коронавирусной 
+болезни лекарственного средства, является слабое знание патогенеза инвазии 
+вируса в клетки организма и развития осложнений. В обзоре подробно представлены 
+данные литературы о таких препаратах, как гидроксихлорохин/хлорохин, 
+лопинавир/натинавир, ремдесивир, ингибиторы АПФ и блокаторы рецепторов 
+ангиотензинпревращающего фермента, активатор тканевого плазминогена, а также о 
+процедуре переливания плазмы реконвалесцентов.
+
+DOI: 10.17116/hirurgia202006190
+PMID: 32573538 [Indexed for MEDLINE]

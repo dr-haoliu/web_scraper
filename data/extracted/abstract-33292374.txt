@@ -1,0 +1,39 @@
+1. Infect Agent Cancer. 2020 Dec 1;15(1):73. doi: 10.1186/s13027-020-00338-z.
+
+FDA efficiency for approval process of COVID-19 therapeutics.
+
+Cassidy C(1), Dever D(1), Stanbery L(2), Edelman G(1), Dworkin L(1), Nemunaitis 
+J(3).
+
+Author information:
+(1)Department of Medicine, University of Toledo, College and Life Sciences, 
+Toledo, OH, USA.
+(2)Gradalis, Inc, Carrollton, TX, USA.
+(3)Gradalis, Inc, Carrollton, TX, USA. johnnemunaitis@gmail.com.
+
+Coronavirus disease 19 (COVID-19) is an infection caused by the novel Severe 
+Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2). The pandemic spread of 
+SARS-CoV-2 has resulted in significant health, economic, and social 
+ramifications. There are no U.S. Food and Drug Administration (FDA)-approved 
+prophylactic or therapeutic treatment options for COVID-19. This puts 
+unprecedented product development pressure on the medical science community to 
+define treatment options. Additionally, in the United States of American (USA) 
+further regulatory and quality assurance pressures impact the FDA. The 
+regulatory therapeutic development process is complex as it relates to product 
+mechanism, toxicity profile, and level of efficacy. The advert of a worldwide 
+pandemic however, advanced efficiencies within many of the regulatory agencies 
+worldwide in order to facilitate COVID-19 treatment option development within 
+the USA. Clinical drug development pathways can include several established 
+approaches: investigational new drug (IND), expanded access IND, emergency IND, 
+treatment IND, and emergency use authorization (EUA). Remdesivir, an 
+investigational drug, and hydroxyloroquine, an FDA-approved drug for autoimmune 
+diseases, were the two early potential therapies. This review article examines 
+the expedited FDA review process for remdesivir and hydroxychloroquine, and 
+analyzes data and results from early clinical studies of both drugs.
+
+DOI: 10.1186/s13027-020-00338-z
+PMCID: PMC7705854
+PMID: 33292374
+
+Conflict of interest statement: The authors have no competing interests to 
+disclose.

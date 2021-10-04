@@ -1,0 +1,80 @@
+1. Circulation. 2021 Jun 15;143(24):2332-2342. doi: 
+10.1161/CIRCULATIONAHA.120.052278. Epub 2020 Nov 17.
+
+Racial and Ethnic Differences in Presentation and Outcomes for Patients 
+Hospitalized With COVID-19: Findings From the American Heart Association's 
+COVID-19 Cardiovascular Disease Registry.
+
+Rodriguez F(1), Solomon N(2), de Lemos JA(3), Das SR(3), Morrow DA(4), Bradley 
+SM(5), Elkind MSV(6), Williams JH(7), Holmes D(2), Matsouaka RA(2), Gupta D(8), 
+Gluckman TJ(9), Abdalla M(10), Albert MA(11), Yancy CW(11), Wang TY(2)(12).
+
+Author information:
+(1)Division of Cardiovascular Medicine and Cardiovascular Institute, Stanford 
+University, CA (F.R.).
+(2)Duke Clinical Research Institute, Duke University, Durham, NC (N.S., D.H., 
+R.A.M., T.Y.W.).
+(3)Department of Internal Medicine, Cardiology Division, University of Texas 
+Southwestern Medical Center, Dallas (J.A.d.L., S R.D.).
+(4)TIMI Study Group, Cardiovascular Division, Brigham and Women's Hospital, 
+Boston, MA (D.A.M.).
+(5)Minneapolis Heart Institute and Minneapolis Heart Institute Foundation, MN 
+(S.M.S.).
+(6)Department of Neurology, Vagelos College of Physicians and Surgeons, and 
+Department of Epidemiology, Mailman School of Public Health (M.S.V.E.), Columbia 
+University, New York, NY.
+(7)American Heart Association, Dallas, TX (J.H.W.).
+(8)Division of Cardiology, Emory University School of Medicine, Atlanta, GA 
+(D.G.).
+(9)Center for Cardiovascular Analytics, Research and Data Science, Providence 
+Heart Institute, Portland, OR (T.J.G.).
+(10)Division of Cardiology, Department of Medicine, Irving Medical Center 
+(M.A.), Columbia University, New York, NY.
+(11)Division of Cardiology, University of California San Francisco (M.A.A.).
+(12)Division of Cardiology, Northwestern Feinberg School of Medicine, Chicago, 
+IL (C.W.Y.).
+
+Comment in
+    Circulation. 2021 Jun 15;143(24):2343-2345.
+
+BACKGROUND: The coronavirus disease 2019 (COVID-19) pandemic has exposed 
+longstanding racial and ethnic inequities in health risks and outcomes in the 
+United States. We aimed to identify racial and ethnic differences in 
+presentation and outcomes for patients hospitalized with COVID-19.
+METHODS: The American Heart Association COVID-19 Cardiovascular Disease Registry 
+is a retrospective observational registry capturing consecutive patients 
+hospitalized with COVID-19. We present data on the first 7868 patients by 
+race/ethnicity treated at 88 hospitals across the United States between January 
+17, 2020, and July 22, 2020. The primary outcome was in-hospital mortality. 
+Secondary outcomes included major adverse cardiovascular events (death, 
+myocardial infarction, stroke, heart failure) and COVID-19 cardiorespiratory 
+ordinal severity score (worst to best: death, cardiac arrest, mechanical 
+ventilation with mechanical circulatory support, mechanical ventilation with 
+vasopressors/inotrope support, mechanical ventilation without hemodynamic 
+support, and hospitalization alone. Multivariable logistic regression analyses 
+were performed to assess the relationship between race/ethnicity and each 
+outcome adjusting for differences in sociodemographic, clinical, and 
+presentation features, and accounting for clustering by hospital.
+RESULTS: Among 7868 patients hospitalized with COVID-19, 33.0% were Hispanic, 
+25.5% were non-Hispanic Black, 6.3% were Asian, and 35.2% were non-Hispanic 
+White. Hispanic and Black patients were younger than non-Hispanic White and 
+Asian patients and were more likely to be uninsured. Black patients had the 
+highest prevalence of obesity, hypertension, and diabetes. Black patients also 
+had the highest rates of mechanical ventilation (23.2%) and renal replacement 
+therapy (6.6%) but the lowest rates of remdesivir use (6.1%). Overall mortality 
+was 18.4% with 53% of all deaths occurring in Black and Hispanic patients. The 
+adjusted odds ratios for mortality were 0.93 (95% CI, 0.76-1.14) for Black 
+patients, 0.90 (95% CI, 0.73-1.11) for Hispanic patients, and 1.31 (95% CI, 
+0.96-1.80) for Asian patients compared with non-Hispanic White patients. The 
+median odds ratio across hospitals was 1.99 (95% CI, 1.74-2.48). Results were 
+similar for major adverse cardiovascular events. Asian patients had the highest 
+COVID-19 cardiorespiratory severity at presentation (adjusted odds ratio, 1.48 
+[95% CI, 1.16-1.90]).
+CONCLUSIONS: Although in-hospital mortality and major adverse cardiovascular 
+events did not differ by race/ethnicity after adjustment, Black and Hispanic 
+patients bore a greater burden of mortality and morbidity because of their 
+disproportionate representation among COVID-19 hospitalizations.
+
+DOI: 10.1161/CIRCULATIONAHA.120.052278
+PMCID: PMC8126640
+PMID: 33200953 [Indexed for MEDLINE]

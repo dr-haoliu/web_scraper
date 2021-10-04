@@ -1,0 +1,48 @@
+1. PLoS One. 2021 Jul 29;16(7):e0246217. doi: 10.1371/journal.pone.0246217. 
+eCollection 2021.
+
+Trends in COVID-19 cases and clinical management in Veterans Health 
+Administration medical facilities: A national cohort study.
+
+Aboumrad M(1), Shiner B(1)(2), Riblet N(1)(2), Huizenga H(1)(2), Neupane N(1), 
+Young-Xu Y(1)(2).
+
+Author information:
+(1)White River Junction Veterans Affairs Medical Center, White River Junction, 
+Vermont, United States of America.
+(2)Department of Psychiatry, Geisel School of Medicine at Dartmouth, Hanover, 
+New Hampshire, United States of America.
+
+OBJECTIVE: We explored longitudinal trends in sociodemographic characteristics, 
+reported symptoms, laboratory findings, pharmacological and non-pharmacological 
+treatment, comorbidities, and 30-day in-hospital mortality among hospitalized 
+patients with coronavirus disease 2019 (COVID-19).
+METHODS: This retrospective cohort study included patients diagnosed with 
+COVID-19 in the United States Veterans Health Administration between 03/01/20 
+and 08/31/20 and followed until 09/30/20. We focused our analysis on patients 
+that were subsequently hospitalized, and categorized them into groups based on 
+the month of hospitalization. We summarized our findings through descriptive 
+statistics. We used Cuzick's Trend Test to examine any differences in the 
+distribution of our study variables across the six months.
+RESULTS: During our study period, we identified 43,267 patients with COVID-19. A 
+total of 8,240 patients were hospitalized, and 13.1% (N = 1,081) died within 30 
+days of admission. Hospitalizations increased over time, but the proportion of 
+patients that died consistently declined from 24.8% (N = 221/890) in March to 
+8.0% (N = 111/1,396) in August. Patients hospitalized in March compared to 
+August were younger on average, mostly black, urban-dwelling, febrile and 
+dyspneic. They also had a higher frequency of baseline comorbidities, including 
+hypertension and diabetes, and were more likely to present with abnormal 
+laboratory findings including low lymphocyte counts and elevated creatinine. 
+Lastly, there was a decline from March to August in receipt of mechanical 
+ventilation (31.4% to 13.1%) and hydroxychloroquine (55.3% to <1.0%), while 
+treatment with dexamethasone (3.7% to 52.4%) and remdesivir (1.1% to 38.9%) 
+increased.
+CONCLUSION: Among hospitalized patients with COVID-19, we observed a trend 
+towards decreased disease severity and mortality over time.
+
+DOI: 10.1371/journal.pone.0246217
+PMCID: PMC8321215
+PMID: 34324514 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

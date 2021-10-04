@@ -1,0 +1,51 @@
+1. Am J Health Syst Pharm. 2021 Jan 22;78(3):235-241. doi: 10.1093/ajhp/zxaa391.
+
+A survey of US hospitals' criteria for the allocation of remdesivir to treat 
+COVID-19.
+
+Mun F(1), Hale CM(2), Hennrikus EF(3).
+
+Author information:
+(1)Pennsylvania State University College of Medicine, Hershey, PA.
+(2)Department of Pharmacy, Penn State Milton S. Hershey Medical Center and Penn 
+State College of Medicine, Hershey, PA.
+(3)Department of Internal Medicine, Penn State Milton S. Hershey Medical Center 
+and Penn State College of Medicine, Hershey, PA.
+
+PURPOSE: To determine how hospitals across the United States determined 
+allocation criteria for remdesivir, approved in May 2020 for treatment of 
+coronavirus disease 2019 (COVID-19) through an emergency use authorization, 
+while maintaining fair and ethical distribution when patient needs exceeded 
+supply.
+METHODS: A electronic survey inquiring as to how institutions determined 
+remdesivir allocation was developed. On June 17, 2020, an invitation with a link 
+to the survey was posted on the Vizient Pharmacy Network Community pages and via 
+email to the American College of Clinical Pharmacy's Infectious Disease Practice 
+and Research Network listserver.
+RESULTS: 66 institutions representing 28 states responded to the survey. The 
+results showed that 98% of surveyed institutions used a multidisciplinary team 
+to develop remdesivir allocation criteria. A majority of those teams included 
+clinical pharmacists (indicated by 97% of respondents), adult infectious 
+diseases physicians (94%), and/or adult intensivists (69%). Many teams included 
+adult hospitalists (49.2%) and/or ethicists (35.4%). Of the surveyed 
+institutions, 59% indicated that all patients with COVID-19 were evaluated for 
+treatment, and 50% delegated initial patient identification for potential 
+remdesivir use to treating physicians. Prioritization of remdesivir allocation 
+was often determined on a "first come, first served" basis (47% of respondents), 
+according to a patient's respiratory status (28.8%) and/or clinical course 
+(24.2%), and/or by random lottery (22.7%). Laboratory parameters (10.6%), 
+comorbidities (4.5%), and essential worker status (4.5%) were rarely included in 
+allocation criteria; no respondents reported consideration of socioeconomic 
+disadvantage or use of a validated scoring system.
+CONCLUSION: The COVID-19 pandemic has exposed the inconsistencies of US medical 
+centers' methods for allocating a limited pharmacotherapy resource that required 
+rapid, fair, ethical and equitable distribution. The medical community, with 
+citizen participation, needs to develop systems to continuously reevaluate 
+criteria for treatment allocation as additional guidance and data emerge.
+
+© American Society of Health-System Pharmacists 2020. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/ajhp/zxaa391
+PMCID: PMC7799270
+PMID: 33289021 [Indexed for MEDLINE]

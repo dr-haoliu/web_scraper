@@ -1,0 +1,40 @@
+1. Curr Med Chem. 2020;27(27):4536-4541. doi: 10.2174/0929867327666200416131117.
+
+SARS-CoV-2: Recent Reports on Antiviral Therapies Based on Lopinavir/Ritonavir, 
+Darunavir/Umifenovir, Hydroxychloroquine, Remdesivir, Favipiravir and other 
+Drugs for the Treatment of the New Coronavirus.
+
+Costanzo M(1), De Giglio MAR(2), Roviello GN(3).
+
+Author information:
+(1)Department of Molecular Medicine and Medical Biotechnology, School of 
+Medicine, University of Naples 'Federico II', Via S. Pansini 5, I-80131 Naples, 
+Italy.
+(2)School of Medicine and Surgery, University of Naples 'Federico II', Via S. 
+Pansini 5, I-80131 Naples, Italy.
+(3)Instituto di Biostrutture e Bioimmagini IBB - CNR; Via Mezzocannone 16, 
+I-80134 Naples, Italy.
+
+Here we report on the most recent updates on experimental drugs successfully 
+employed in the treatment of the disease caused by SARS-CoV-2 coronavirus, also 
+referred to as COVID-19 (COronaVIrus Disease-19). In particular, several cases 
+of recovered patients have been reported after being treated with 
+lopinavir/ritonavir [which is widely used to treat Human Immunodeficiency Virus 
+(HIV) infection] in combination with the anti-flu drug oseltamivir. In addition, 
+remdesivir, which has been previously administered to Ebola virus patients, has 
+also proven effective in the U.S. against coronavirus, while antimalarial 
+chloroquine and hydroxychloroquine, favipiravir and co-administered darunavir 
+and umifenovir (in patient therapies) were also recently recorded as having 
+anti-SARS-CoV-2 effects. Since the recoveries/deaths ratio in the last weeks 
+significantly increased, especially in China, it is clear that the experimental 
+antiviral therapy, together with the availability of intensive care unit beds in 
+hospitals and rigorous government control measures, all play an important role 
+in dealing with this virus. This also stresses the urgent need for the 
+scientific community to devote its efforts to the development of other more 
+specific antiviral strategies.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/0929867327666200416131117
+PMID: 32297571 [Indexed for MEDLINE]

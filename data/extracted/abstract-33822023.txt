@@ -1,0 +1,54 @@
+1. Clin Infect Dis. 2021 Apr 2:ciab290. doi: 10.1093/cid/ciab290. Online ahead of 
+print.
+
+Racial and Ethnic Differences and Clinical Outcomes of COVID-19 Patients 
+Presenting to the Emergency Department.
+
+Wiley Z(1), Ross-Driscoll K(2), Wang Z(2), Smothers L(3), Mehta AK(1), Patzer 
+RE(2).
+
+Author information:
+(1)Department of Medicine, Division of Infectious Diseases, Emory University 
+School of Medicine, Atlanta, Georgia, United States of America.
+(2)Health Services Research Center, Emory University School of Medicine, 
+Department of Medicine, Department of Surgery, Emory University School of 
+Medicine, and Department of Epidemiology, Rollins School of Public Health, 
+Atlanta, Georgia, United States of America.
+(3)Department of Epidemiology, Rollins School of Public Health, Atlanta, GA, 
+USA, Health Services Research Center, Emory University School of Medicine, 
+Department of Medicine, Atlanta, Georgia, United States of America.
+
+BACKGROUND: Since the introduction of remdesivir and dexamethasone for severe 
+COVID-19 treatment, few large multi-hospital system US studies have described 
+clinical characteristics and outcomes of minority COVID-19 patients who present 
+to the emergency department (ED).
+METHODS: This cohort study from the Cerner Real World Database (87 US health 
+systems) from December 1, 2019 to September 30, 2020 included PCR-confirmed 
+COVID-19 patients who self-identified as non-Hispanic Black (Black), Hispanic 
+White (Hispanic), or non-Hispanic White (White). The main outcome was 
+hospitalization among ED patients. Secondary outcomes included mechanical 
+ventilation, intensive care unit care, and in-hospital mortality. Descriptive 
+statistics and Poisson regression compared sociodemographics, comorbidities, 
+receipt of remdesivir, receipt of dexamethasone, and outcomes by racial/ethnic 
+groups and geographic region.
+RESULTS: 94,683 COVID-19 patients presented to the ED. Blacks comprised 26.7% 
+and Hispanics 33.6%. Nearly half (45.1%) of ED patients presented to hospitals 
+in the South. 31.4% (n=29,687) were hospitalized. Lower proportions of Blacks 
+were prescribed dexamethasone (29.4%; n=7,426) compared to Hispanics (40.9%; 
+n=13,021) and Whites (37.5%; n=14,088). Hospitalization risks, compared to 
+Whites, were similar in Blacks (Risk Ratio (RR)=0.94; 95% CI:0.82, 1.08; p=0.4)) 
+and Hispanics RR=0.99 (95% CI:0.81, 1.21; p=0.91), but risk of in-hospital 
+mortality was higher in Blacks, RR=1.18 (95% CI:1.06, 1.31; p=0.002) and 
+Hispanics, RR=1.28 (95% CI: 1.13, 1.44; p < 0.001).
+CONCLUSIONS: Minority patients were overrepresented among COVID-19 ED patients, 
+and while they had similar risks of hospitalization as Whites, in-hospital 
+mortality risk was higher. Interventions targeting upstream social determinants 
+of health are needed to reduce racial/ethnic disparities in COVID-19.
+
+© The Author(s) 2021. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciab290
+PMCID: PMC8083480
+PMID: 33822023

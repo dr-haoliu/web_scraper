@@ -1,0 +1,46 @@
+1. Open Forum Infect Dis. 2020 Aug 6;7(10):ofaa319. doi: 10.1093/ofid/ofaa319. 
+eCollection 2020 Oct.
+
+Remdesivir Use Compared With Supportive Care in Hospitalized Patients With 
+Severe COVID-19: A Single-Center Experience.
+
+Kalligeros M(1), Tashima KT(1), Mylona EK(1), Rybak N(1), Flanigan TP(1), 
+Farmakiotis D(1), Beckwith CG(1), Sanchez M(1), Neill M(1), Johnson JE(1), 
+Garland JM(1), Aung S(1), Byrd KM(1), O'Brien T(1), Pandita A(1), Aridi J(1), 
+Macias Gil R(1), Larkin J(1), Shehadeh F(1), Mylonakis E(1).
+
+Author information:
+(1)Infectious Diseases Division, Warren Alpert Medical School of Brown 
+University, Providence, Rhode Island, USA.
+
+BACKGROUND: The US Food and Drug Administration issued an Emergency Use 
+Authorization for remdesivir use in patients with severe COVID-19.
+METHODS: We utilized data from 2 quaternary acute care hospitals. The outcomes 
+of interest were the impact of remdesivir on in-hospital death by day 28 and 
+time to recovery, clinical improvement, and discharge. We utilized Cox 
+proportional hazards models and stratified log-rank tests.
+RESULTS: Two hundred twenty-four patients were included in the study. The median 
+age was 59 years; 67.0% were male; 17/125 patients (13.6%) who received 
+supportive care and 7/99 patients (7.1%) who received remdesivir died. The 
+unadjusted risk for 28-day in-hospital death was lower for patients who received 
+remdesivir compared with patients who received supportive care (hazard ratio 
+[HR], 0.42; 95% CI, 0.16-1.08). Although this trend remained the same after 
+adjusting for age, sex, race, and oxygen requirements on admission (adjusted HR 
+[aHR], 0.49; 95% CI, 0.19-1.28), as well as chronic comorbidities and use of 
+corticosteroids (aHR, 0.44; 95% CI, 0.16-1.23), it did not reach statistical 
+significance. The use of remdesivir was not associated with an increased risk of 
+acute kidney injury (AKI) or liver test abnormalities. Although not 
+statistically significant, the rate ratios for time to recovery, clinical 
+improvement, and discharge were higher in women and black or African American 
+patients.
+CONCLUSIONS: Patients on remdesivir had lower, albeit not significant, all-cause 
+in-hospital mortality, and the use of remdesivir did not increase the risk for 
+AKI. Promising signals from this study need to be confirmed by future 
+placebo-controlled randomized clinical trials.
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/ofid/ofaa319
+PMCID: PMC7454852
+PMID: 33117850

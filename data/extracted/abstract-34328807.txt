@@ -1,0 +1,34 @@
+1. Expert Opin Drug Saf. 2021 Aug 5:1-6. doi: 10.1080/14740338.2021.1962846. Online 
+ahead of print.
+
+Assessment of adverse events associated with remdesivir use for coronavirus 
+disease 2019 using real-world data.
+
+Singh A(1), Kamath A(1).
+
+Author information:
+(1)Department of Pharmacology, Kasturba Medical College, Mangalore, Manipal 
+Academy of Higher Education, Manipal, Karnataka, India.
+
+Background: Remdesivir has been used for treating patients with moderate to 
+severe coronavirus disease 2019 (COVID-19) although there is conflicting 
+evidence regarding its usefulness. Data regarding its safety largely come from 
+the clinical trials conducted to support its emergency use authorization (EUA). 
+This study aimed to identify the adverse events of remdesivir with 
+disproportionately high reporting using real-world data.Research design and 
+methods: The adverse event reports submitted to the United States Food and Drug 
+Administration Adverse Event Reporting System (FAERS) by health-care 
+professionals for drugs that have received EUA or approved for the treatment of 
+COVID-19 in the US were studied. Adisproportionality analysis was performed to 
+determine adverse events more frequently reported with remdesivir compared with 
+other COVID-19 drugs in the database.Results: Elevated liver enzymes, acute 
+kidney injury, raised blood creatinine levels, bradycardia, cardiac arrest, and 
+death had disproportionately higher reporting with remdesivir as asuspect drug 
+compared with other drugs. There is no significant difference in the reporting 
+of these events based on patient sex or age.Conclusions: Our study confirms the 
+drug label information regarding liver enzyme elevation. The renal and cardiac 
+safety signals identified necessitate reevaluation for potential drug-labeling 
+changes.
+
+DOI: 10.1080/14740338.2021.1962846
+PMID: 34328807

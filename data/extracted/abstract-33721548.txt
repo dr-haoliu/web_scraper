@@ -1,0 +1,77 @@
+1. Expert Opin Investig Drugs. 2021 May;30(5):505-518. doi: 
+10.1080/13543784.2021.1901883. Epub 2021 Apr 23.
+
+The time to offer treatments for COVID-19.
+
+Ngo BT(1)(2), Marik P(3), Kory P(4), Shapiro L(5), Thomadsen R(6), Iglesias 
+J(7), Ditmore S(8), Rendell M(2), Varon J(9), Dubé M(1), Nanda N(1), In G(1), 
+Arkfeld D(1), Chaudhary P(1), Campese VM(1), Hanna DL(1), Sawcer DE(1), 
+Ehresmann G(1), Peng D(1), Smogorewski M(1), Armstrong A(1), Dasgupta R(1), 
+Sattler F(1), Brennan-Rieder D(10), Mussini C(11), Mitja O(12), Soriano V(13), 
+Peschanski N(14), Hayem G(15), Confalonieri M(16), Piccirillo MC(17), 
+Lobo-Ferreira A(18), Bello Rivero I(19), Turkia M(20), Vinjevoll EH(21), Griffin 
+D(5)(22), Hung IF(5).
+
+Author information:
+(1)Keck USC School of Medicine, Los Angeles, USA.
+(2)The Rose Salter Medical Research Foundation, Newport Coast, USA.
+(3)Department of Internal Medicine, Eastern Virginia Medical School, Pulmonary 
+and Critical Care Medicine, Norfolk, USA.
+(4)Pulmonary and Critical Care Medicine, Aurora St. Luke's Medical Center, 
+Milwaukee, USA.
+(5)Department of Internal Medicine, Rocky Mountain Regional Veterans Affairs 
+Medical Center in Aurora, CO and University of Colorado Anschutz Medical Campus 
+in Aurora, CO Supported by the Emily Foundation, Boston, USA.
+(6)Department of Marketing, Washington University, St. Louis, USA.
+(7)Department of Internal Medicine, Jersey Shore University Medical Center, 
+Hackensack Meridian School of Medicine at Seton Hall, Neptune, USA.
+(8)Health Reporting, Parkchester Times, USA.
+(9)United Memorial Medical Center, University of Texas School of Medicine, 
+Houston, USA.
+(10)CoronaTracker Community Research Group, Canada.
+(11)Department of Infectious Disease, University of Modena and Reggio Emilia, 
+Modena, Italy.
+(12)Department of Internal Medicine, Hospital Universitari Germans Trias I 
+Pujol, Badalona, Spain.
+(13)Director, Centro Medico, UNIR Health Sciences School & Medical Center, 
+Madrid, Spain.
+(14)Department of Emergency Medicine, UniversityHospital of Rennes, Rennes, 
+France.
+(15)Department of Rheumatology, Hôpital Paris Saint-Joseph, Paris, France.
+(16)Department of Respiratory Diseases, Azienda Ospedaliero-Universitaria Di 
+Trieste, Trieste, Italia.
+(17)Department of Oncology, Istituto Nazionale Tumori, IRCCS, Fondazione G. 
+Pascale, Napoli, Italia.
+(18)Unidade De Investigação Cardiovascular (Unic), Faculdade De Medicina, Da 
+Universidade Do Porto, Centro Hospitalar Universitário De São João, Porto, and 
+Hospital Rainha Santa Isabel, Marco De Canaveses, Portugal.
+(19)Department of Clinical Investigations, Center for Genetic Engineering and 
+Biotechnology, Havana, Cuba.
+(20)Qualitative Research, Helsinki, Finland.
+(21)Department of Anesthesiology, Volda Hospital HMR, Norway.
+(22)Department of Internal Medicine and Department of Biochemistry and Molecular 
+Biophysics, ProHEALTH, an OPTUM Company, Columbia University, College of 
+Physicians and Surgeons, USA.
+
+Background: COVID-19 has several overlapping phases. Treatments to date have 
+focused on the late stage of disease in hospital. Yet, the pandemic is by 
+propagated by the viral phase in out-patients. The current public health 
+strategy relies solely on vaccines to prevent disease.Methods: We searched the 
+major national registries, pubmed.org, and the preprint servers for all ongoing, 
+completed and published trial results.Results: As of 2/15/2021, we found 111 
+publications reporting findings on 14 classes of agents, and 9 vaccines. There 
+were 62 randomized controlled studies, the rest retrospective observational 
+analyses. Only 21 publications dealt with outpatient care. Remdesivir and high 
+titer convalescent plasma have emergency use authorization for hospitalized 
+patients in the U.S.A. There is also support for glucocorticoid treatment of the 
+COVID-19 respiratory distress syndrome. Monoclonal antibodies are authorized for 
+outpatients, but supply is inadequate to treat all at time of diagnosis. 
+Favipiravir, ivermectin, and interferons are approved in certain 
+countries.Expert Opinion: Vaccines and antibodies are highly antigen specific, 
+and new SARS-Cov-2 variants are appearing. We call on public health authorities 
+to authorize treatments with known low-risk and possible benefit for outpatients 
+in parallel with universal vaccination.
+
+DOI: 10.1080/13543784.2021.1901883
+PMCID: PMC8074648
+PMID: 33721548 [Indexed for MEDLINE]

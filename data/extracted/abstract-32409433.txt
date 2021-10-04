@@ -1,0 +1,32 @@
+1. Cleve Clin J Med. 2020 Oct 7. doi: 10.3949/ccjm.87a.ccc030. Online ahead of 
+print.
+
+Antivirals for COVID-19.
+
+Srinivas P(1), Sacha GL(2), Koval C(3).
+
+Author information:
+(1)Inpatient Pharmacy, Cleveland Clinic pav0712@gmail.com.
+(2)Inpatient Pharmacy, Cleveland Clinic.
+(3)Infectious Disease, Respiratory Institute, Cleveland Clinic.
+
+Drugs targeting RNA respiratory viruses have resulted in few effective 
+therapies, highlighting challenges for antivirals to treat COVID-19. Several 
+antivirals are being investigated for symptomatic COVID-19 but no definitive 
+data support their clinical use. Remdesivir appears to result in favorable 
+outcomes with shortened time to recovery and a modest decrease in mortality for 
+hospitalized patients in compassionate use series and some randomized controlled 
+trials. Currently, remdesivir is available only from the US government via an 
+emergency use authorization process. A randomized controlled trial of 
+lopinavir/ritonavir demonstrated no apparent clinical or virologic benefit and 
+drug-drug interactions and side effects further limit its utility. Antivirals to 
+treat influenza (oseltamivir) have limited activity against SARS-CoV-2, but 
+favipiravir and umifenovir, two influenza antivirals available internationally, 
+may have distinct viral targets and require further investigation. Antivirals 
+with evidence of clinical activity must be studied as treatment and prophylaxis 
+for those at high risk for severe COVID-19.
+
+Copyright © 2020 The Cleveland Clinic Foundation. All Rights Reserved.
+
+DOI: 10.3949/ccjm.87a.ccc030
+PMID: 32409433

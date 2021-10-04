@@ -1,0 +1,36 @@
+1. Expert Rev Clin Pharmacol. 2020 Oct;13(10):1095-1101. doi: 
+10.1080/17512433.2020.1821650. Epub 2020 Sep 29.
+
+Remdesivir emergency approvals: a comparison of the U.S., Japanese, and EU 
+systems.
+
+Saint-Raymond A(1), Sato J(2), Kishioka Y(2), Teixeira T(1), Hasslboeck C(1), 
+Kweder SL(3).
+
+Author information:
+(1)International Affairs Division, European Medicines Agency, Amsterdam, EU.
+(2)Office of International Programs, Pharmaceutical and Medical Devices Agency , 
+Tokyo, Japan.
+(3)European Office, Office of International Programs, Food and Drug 
+Administration , Silver Spring, MD, USA.
+
+INTRODUCTION: There were no formal regulatory approvals for antivirals for the 
+COVID-19 pandemic as of June 2020.
+AREAS COVERED: We compare the first regulatory approvals for remdesivir, through 
+emergency pathways available to three of the main regulators in the world, the 
+U.S., Japan, and the EU. We look at the data supporting the decisions and how 
+authorities exchanged information and collaborated to speed up approvals. Based 
+only on topline data available as of 29 April 2020, regulators granted approvals 
+to remdesivir based on very limited but robust data and waiting for more safety 
+and efficacy data. This included the Emergency Use Authorization in the U.S. on 
+1 May, the Special Approval for Emergency in Japan on 7 May, and Compassionate 
+Use (3 April) followed by a Conditional Marketing Authorization in Europe 
+(Opinion 25th June, Decision (3 July)).
+EXPERT OPINION: While the regulatory approvals were clearly based on evidence, 
+regulators used agile methods to speed up approval, and make the first antiviral 
+with reliable data available to patients in their constituencies in a very short 
+time frame. More data and wider patient access are still necessary for this 
+product, and more treatments are needed for patients affected by COVID-19.
+
+DOI: 10.1080/17512433.2020.1821650
+PMID: 32909843 [Indexed for MEDLINE]

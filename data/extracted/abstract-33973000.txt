@@ -1,0 +1,55 @@
+1. Clin Infect Dis. 2021 May 11:ciab419. doi: 10.1093/cid/ciab419. Online ahead of 
+print.
+
+Trends over time in the risk of adverse outcomes among patients with SARS-CoV-2 
+infection.
+
+Ioannou GN(1), O'Hare AM(2), Berry K(3), Fan VS(4), Crothers K(4), Eastment 
+MC(5), Locke E(3), Green P(3), Shah JA(5), Dominitz JA(1).
+
+Author information:
+(1)Division of Gastroenterology, Veterans Affairs Puget Sound Healthcare System 
+and University of Washington, Seattle, WA, USA.
+(2)Division of Nephrology, Veterans Affairs Puget Sound Healthcare System and 
+University of Washington, Seattle, WA, USA.
+(3)Research and Development, Veterans Affairs Puget Sound Health Care System, 
+Seattle, WA, USA.
+(4)Division of Pulmonary, Critical Care and Sleep, Veterans Affairs Puget Sound 
+Healthcare System and University of Washington, Seattle, WA, USA.
+(5)Division of Allergy and Infectious Disease, Veterans Affairs Puget Sound 
+Healthcare System and University of Washington, Seattle, WA, USA.
+
+BACKGROUND: We aimed to describe trends in adverse outcomes among patients who 
+tested positive for SARS-CoV-2 between February and September 2020 within a 
+national healthcare system.
+METHODS: We identified enrollees in the national U.S. Veterans Affairs 
+healthcare system who tested positive for SARS-CoV-2 between 2/28/2020 and 
+9/30/2020 (n=55,952), with follow-up extending to 11/19/2020. We determined 
+trends over time in incidence of the following outcomes that occurred within 30 
+days of testing positive: hospitalization, intensive care unit (ICU) admission, 
+mechanical ventilation and death.
+RESULTS: Between February and July 2020, there were marked downward trends in 
+the 30-day incidence of hospitalization (44.2% to 15.8%), ICU admission (20.3% 
+to 5.3%), mechanical ventilation (12.7% to 2.2%), and death (12.5% to 4.4%), 
+which subsequently plateaued between July and September 2020. These trends 
+persisted after adjustment for sociodemographic characteristics, comorbid 
+conditions, documented symptoms and laboratory tests, including among subgroups 
+of patients hospitalized, admitted to the ICU or treated with mechanical 
+ventilation. From February to September, there were decreases in the use of 
+hydroxychloroquine (56.5% to 0%), azithromycin (48.3% to 16.6%) vasopressors 
+(20.6% to 8.7%), and dialysis (11.6% to 3.8%) and increases in the use of 
+dexamethasone (3.4% to 53.1%), other corticosteroids (4.9% to 29.0%) and 
+remdesivir (1.7% to 45.4%) among hospitalized patients.
+CONCLUSIONS: The risk of adverse outcomes in SARS-CoV-2-positive patients 
+decreased markedly between February and July, with subsequent stabilization from 
+July to September. These trends were not explained by changes in measured 
+baseline patient characteristics and may reflect changing treatment practices or 
+viral pathogenicity.
+
+Published by Oxford University Press for the Infectious Diseases Society of 
+America 2021. This work is written by (a) US Government employee(s) and is in 
+the public domain in the US.
+
+DOI: 10.1093/cid/ciab419
+PMCID: PMC8136056
+PMID: 33973000

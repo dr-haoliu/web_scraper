@@ -1,0 +1,108 @@
+1. BMJ. 2020 Jul 30;370:m2924. doi: 10.1136/bmj.m2924.
+
+Remdesivir for severe covid-19: a clinical practice guideline.
+
+Rochwerg B(1)(2), Agarwal A(3)(4), Zeng L(3)(5), Leo YS(6), Appiah JA(7), 
+Agoritsas T(3)(8), Bartoszko J(3)(9), Brignardello-Petersen R(3)(9), Ergan 
+B(10), Ge L(3)(11)(12)(9), Geduld H(13), Gershengorn HB(14)(15), Manai H(16), 
+Huang M(17), Lamontagne F(18), Kanda S(19), Kawano-Dourado L(20)(21), Kurian 
+L(22), Kwizera A(23), Murthy S(24)(25), Qadir N(26), Siemieniuk R(3), Silvestre 
+MA(27)(28), Vandvik PO(29), Ye Z(3), Zeraatkar D(3)(9), Guyatt G(3)(14)(25).
+
+Author information:
+(1)Department of Health Research Methods, Evidence and Impact, McMaster 
+University, Hamilton, Ontario, Canada rochwerg@mcmaster.ca.
+(2)Department of Medicine, McMaster University, Hamilton, Ontario Canada.
+(3)Department of Health Research Methods, Evidence and Impact, McMaster 
+University, Hamilton, Ontario, Canada.
+(4)Department of Medicine, University of Toronto, Toronto, Ontario, Canada.
+(5)Pharmacy Department-Evidence-Based Pharmacy Center, West China Second 
+University Hospital, Sichuan University, Chengdu, China.
+(6)National Center for Infectious Diseases, Singapore.
+(7)Kwame Nkrumah University of Science & Technology, Kumasi, Ghana.
+(8)Division of General Internal Medicine & Division of Clinical Epidemiology, 
+University Hospitals of Geneva, Geneva, Switzerland.
+(9)Not panel member, systematic review team and resource for guideline panel.
+(10)Department of Pulmonary and Critical Care, Dokuz Eylul University, School of 
+Medicine, Izmir, Turkey.
+(11)Evidence Based Social Science Research Centre, School of Public Health, 
+Lanzhou University, Lanzhou, China.
+(12)Department of Social Medicine and Health Management, School of Public 
+Health, Lanzhou University, Lanzhou, China.
+(13)Division of Emergency Medicine, Faculty of Medicine and Health Sciences, 
+Stellenbosch University, Cape Town, South Africa.
+(14)Division of Pulmonary, Critical Care and Sleep Medicine, Miller School of 
+Medicine, University of Miami, Miami, Florida, USA.
+(15)Division of Critical Care Medicine, Albert Einstein College of Medicine, 
+Bronx, New York, USA.
+(16)Emergency Medical Services, Faculty of Medicine, Tunis, Tunisia.
+(17)Guangdong Kuaiwen Information Technology Co. LTD, Guangzhou, Guangdong, 
+China.
+(18)Department of Medicine, Centre de recherche du CHU de Sherbrooke, 
+Sherbrooke, Quebec, Canada.
+(19)McMaster University (alumnus).
+(20)Pulmonary Division, Heart Institute (InCor)- HCFMUSP, Medical School, 
+University of Sao Paulo, São Paulo, Brazil.
+(21)Research Institute, Hospital do Coração (HCor), São Paulo, Brazil.
+(22)Division of Hospital Medicine, Donald and Barbara Zucker School of Medicine 
+at Hofstra/Northwell, Hempstead, New York, USA.
+(23)Department of Anaesthesia and Critical Care, College of Health Sciences, 
+Makerere University, Kampala, Uganda.
+(24)Faculty of Medicine, University of British Columbia, Vancouver, British 
+Columbia, Canada.
+(25)Not panel member, resource for methodology and content support.
+(26)Division of Pulmonary and Critical Care Medicine, David Geffen School of 
+Medicine, University of California Los Angeles, Los Angeles, California, USA.
+(27)Kalusugan ng Mag-Ina (Health of Mother and Child), Inc., Quezon City, 
+Philippines.
+(28)Asia-Pacific Center for Evidence-Based Healthcare, Manila, Philippines.
+(29)Department of Health Economics and Health Management, Institute for Health 
+and Society, University of Oslo, Oslo, Norway.
+
+Erratum in
+    BMJ. 2020 Nov 23;371:m4542.
+
+CLINICAL QUESTION: What is the role of remdesivir in the treatment of severe 
+covid-19? This guideline was triggered by the ACTT-1 trial published in the New 
+England Journal of Medicine on 22 May 2020.
+CURRENT PRACTICE: Remdesivir has received worldwide attention as a potentially 
+effective treatment for severe covid-19. After rapid market approval in the US, 
+remdesivir is already being used in clinical practice.
+RECOMMENDATIONS: The guideline panel makes a weak recommendation for the use of 
+remdesivir in severe covid-19 while recommending continuation of active 
+enrolment of patients into ongoing randomised controlled trials examining 
+remdesivir.
+HOW THIS GUIDELINE WAS CREATED: An international panel of patients, clinicians, 
+and methodologists produced these recommendations in adherence with standards 
+for trustworthy guidelines using the GRADE approach. The recommendations are 
+based on a linked systematic review and network meta-analysis. The panel 
+considered an individual patient perspective and allowed contextual factors 
+(such as resources) to be taken into account for countries and healthcare 
+systems.
+THE EVIDENCE: The linked systematic review (published 31 Jul 2020) identified 
+two randomised trials with 1300 participants, showing low certainty evidence 
+that remdesivir may be effective in reducing time to clinical improvement and 
+may decrease mortality in patients with severe covid-19. Remdesivir probably has 
+no important effect on need for invasive mechanical ventilation. Remdesivir may 
+have little or no effect on hospital length of stay.
+UNDERSTANDING THE RECOMMENDATION: Most patients with severe covid-19 would 
+likely choose treatment with remdesivir given the potential reduction in time to 
+clinical improvement. However, given the low certainty evidence for critical 
+outcomes and the fact that different perspectives, values, and preferences may 
+alter decisions regarding remdesivir, the panel issued a weak recommendation 
+with strong support for continued recruitment in randomised trials.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.m2924
+PMID: 32732352 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the BMJ Rapid Recommendations interests disclosure form, and a detailed 
+description of all disclosures is reported in appendix 3 on bmj.com. As with all 
+BMJ Rapid Recommendations, the executive team and The BMJ judged that no panel 
+member had any financial conflict of interest. Professional and academic 
+interests are minimised as much as possible, while maintaining necessary 
+expertise on the panel to make fully informed decisions.

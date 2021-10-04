@@ -1,0 +1,40 @@
+1. Int Immunopharmacol. 2021 Jan;90:107232. doi: 10.1016/j.intimp.2020.107232. Epub 
+2020 Nov 30.
+
+A comparative analysis for anti-viral drugs: Their efficiency against 
+SARS-CoV-2.
+
+Kivrak A(1), Ulaş B(2), Kivrak H(2).
+
+Author information:
+(1)Department of Chemistry, Faculty of Sciences, Van Yuzuncu Yil University, 
+65000 Van, Turkey. Electronic address: akivrak@yyu.edu.tr.
+(2)Department of Chemical Engineering, Faculty of Engineering, Van Yuzuncu Yil 
+University, 65000 Van, Turkey.
+
+Coronavirus, known as the coronavirus pandemic, is continuing its spread across 
+the world, with over 42 million confirmed cases in 189 countries and more than 
+1.15 million deaths. Although, scientists focus on the finding novel drugs and 
+vaccine for SARS-CoV-2, there is no certain treatment for it. Antiviral drugs 
+such as; oseltamivir, favipiravir, umifenovir, lopinavir, remdesivir, 
+hydroxychloroquine, chloroquine, azithromycin, ascorbic acid, corticosteroids, 
+are mostly used for patients. They prevent cytokine storm that is the main 
+reason of deaths related to SARS-CoV-2. In addition, anti-inflammatory agents 
+have critical roles to inhibit the lung injury and multisystem organ 
+dysfunction. The combination with anti-viral drugs with other drugs displays 
+high synergistic effects. In the present study, the drugs used for Covid-19 are 
+analyzed and compare the efficiency for the Covid-19 patients from the different 
+continents including USA, South Korea, Italy, Spain, Germany, Russia, Brazil, 
+Turkey, and China. Nowadays, all countries tried to find vaccine and new drug 
+candidates for SARS-CoV-2, but anti-viral drugs may be the best candidates for 
+the treatment of Covid-19 before finding novel anti-Covid drug.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2020.107232
+PMCID: PMC7703546
+PMID: 33290969 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

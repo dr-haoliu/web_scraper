@@ -1,0 +1,46 @@
+1. Biochem Biophys Res Commun. 2021 Jan 29;538:145-150. doi: 
+10.1016/j.bbrc.2020.11.043. Epub 2020 Nov 19.
+
+Remdesivir: From Ebola to COVID-19.
+
+Santoro MG(1), Carafoli E(2).
+
+Author information:
+(1)Department of Biology, University of Rome Tor Vergata, Rome, Italy; Institute 
+of Translational Pharmacology, CNR, Rome, Italy. Electronic address: 
+santoro@uniroma2.it.
+(2)Venetian Institute of Molecular Medicine, University of Padova, Italy. 
+Electronic address: ernestocarafoli@gmail.com.
+
+Human coronaviruses (HCoV) were discovered in the 1960s and were originally 
+thought to cause only mild upper respiratory tract diseases in immunocompetent 
+hosts. This view changed since the beginning of this century, with the 2002 SARS 
+(severe acute respiratory syndrome) epidemic and the 2012 MERS (Middle East 
+respiratory syndrome) outbreak, two zoonotic infections that resulted in 
+mortality rates of approximately 10% and 35%, respectively. Despite the 
+importance of these pathogens, no approved antiviral drugs for the treatment of 
+human coronavirus infections became available. However, remdesivir, a nucleotide 
+analogue prodrug originally developed for the treatment of Ebola virus, was 
+found to inhibit the replication of a wide range of human and animal 
+coronaviruses in vitro and in preclinical studies. It is therefore not 
+surprising that when the highly pathogenic SARS-CoV-2 coronavirus emerged in 
+late 2019 in China, causing global health concern due to the virus strong 
+human-to-human transmission ability, remdesivir was one of the first clinical 
+candidates that received attention. After in vitro studies had shown its 
+antiviral activity against SARS-CoV-2, and a first patient was successfully 
+treated with the drug in the USA, a number of trials on remdesivir were 
+initiated. Several had encouraging results, particularly the ACTT-1 double 
+blind, randomized, and placebo controlled trial that has shown shortening of the 
+time to recovery in hospitalized patients treated with remdesivir. The results 
+of other trials were instead negative. Here, we provide an overview of 
+remdesivir discovery, molecular mechanism of action, and initial and current 
+clinical studies on its efficacy.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.bbrc.2020.11.043
+PMCID: PMC7836944
+PMID: 33388129 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest All authors declare no 
+conflict of interest

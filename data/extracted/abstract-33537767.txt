@@ -1,0 +1,74 @@
+1. Am J Health Syst Pharm. 2021 Mar 18;78(7):568-577. doi: 10.1093/ajhp/zxaa426.
+
+Multicenter point prevalence evaluation of the utilization and safety of drug 
+therapies for COVID-19 at the onset of the pandemic timeline in the United 
+States.
+
+Rhodes NJ(1)(2)(3), Dairem A(1), Moore WJ(1), Shah A(1)(2), Postelnick MJ(1), 
+Badowski ME(4), Michienzi SM(4), Borkowski JL(5), Polisetty RS(2)(6), Fong K(7), 
+Spivak ES(8), Beardsley JR(9)(10), Hale CM(11), Pallotta AM(12), Srinivas P(12), 
+Schulz LT(13).
+
+Author information:
+(1)Department of Pharmacy, Northwestern Memorial Hospital, Chicago, IL, USA.
+(2)Department of Pharmacy Practice, Midwestern University Chicago College of 
+Pharmacy, Downers Grove, IL, USA.
+(3)Pharmacometrics Center of Excellence, Midwestern University Chicago College 
+of Pharmacy, Downers Grove, IL, USA.
+(4)Department of Pharmacy Practice, Section of Infectious Diseases 
+Pharmacotherapy, University of Illinois at Chicago, College of Pharmacy, 
+Chicago, IL, USA.
+(5)Department of Pharmacy, Northwestern Medicine Delnor Hospital, Geneva, IL, 
+USA.
+(6)Department of Pharmacy, Northwestern Medicine Central DuPage Hospital, 
+Winfield, IL, USA.
+(7)Department of Pharmacy, University of Utah Health.
+(8)Department of Medicine, University of Utah School of Medicine.
+(9)Department of Pharmacy, Wake Forest Baptist Health, Winston-Salem, NC, USA.
+(10)Wake Forest School of Medicine, Winston-Salem, NC, USA.
+(11)Department of Pharmacy, Penn State Health Milton S. Hershey Medical Center, 
+Hershey, PA, USA.
+(12)Department of Pharmacy, Cleveland Clinic Hospital, Cleveland, OH, USA.
+(13)Department of Pharmacy, University of Wisconsin Health, Madison WI, USA.
+
+Update of
+    medRxiv. 2020 Jun 05;:
+
+KEY POINTS: In a multicenter point-prevalence study, we found that the rate of 
+supportive care was high; among those receiving COVID-19 drug therapies, adverse 
+reactions occurred in 12% of patients.
+PURPOSE: There are currently no FDA-approved medications for the treatment of 
+coronavirus disease 2019 (COVID-19). At the onset of the pandemic, off-label 
+medication use was supported by limited or no clinical data. We sought to 
+characterize experimental COVID-19 therapies and identify safety signals during 
+this period.
+METHODS: We conducted a noninterventional, multicenter, point prevalence study 
+of patients hospitalized with suspected/confirmed COVID-19. Clinical and 
+treatment characteristics within a 24-hour window were evaluated in a random 
+sample of up to 30 patients per site. The primary objective was to describe 
+COVID-19-targeted therapies. The secondary objective was to describe adverse 
+drug reactions (ADRs).
+RESULTS: A total of 352 patients treated for COVID-19 at 15 US hospitals From 
+April 18 to May 8, 2020, were included in the study. Most patients were treated 
+at academic medical centers (53.4%) or community hospitals (42.6%). Sixty-seven 
+patients (19%) were receiving drug therapy in addition to supportive care. Drug 
+therapies used included hydroxychloroquine (69%), remdesivir (10%), and 
+interleukin-6 antagonists (9%). Five patients (7.5%) were receiving combination 
+therapy. The rate of use of COVID-19-directed drug therapy was higher in 
+patients with vs patients without a history of asthma (14.9% vs 7%, P = 0.037) 
+and in patients enrolled in clinical trials (26.9% vs 3.2%, P < 0.001). Among 
+those receiving drug therapy, 8 patients (12%) experienced an ADR, and ADRs were 
+recognized at a higher rate in patients enrolled in clinical trials (62.5% vs 
+22%; odds ratio, 5.9; P = 0.028).
+CONCLUSION: While we observed high rates of supportive care for patients with 
+COVID-19, we also found that ADRs were common among patients receiving drug 
+therapy, including those enrolled in clinical trials. Comprehensive systems are 
+needed to identify and mitigate ADRs associated with experimental COVID-19 
+treatments.
+
+© American Society of Health-System Pharmacists 2021. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/ajhp/zxaa426
+PMCID: PMC7929420
+PMID: 33537767 [Indexed for MEDLINE]

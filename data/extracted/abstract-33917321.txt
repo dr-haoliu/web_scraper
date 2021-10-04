@@ -1,0 +1,46 @@
+1. Int J Mol Sci. 2021 Apr 6;22(7):3773. doi: 10.3390/ijms22073773.
+
+Corticosteroids for COVID-19 Therapy: Potential Implications on Tuberculosis.
+
+Gopalaswamy R(1), Subbian S(2).
+
+Author information:
+(1)Department of Bacteriology, ICMR-National Institute for Research in 
+Tuberculosis, Chennai 600031, India.
+(2)Public Health Research Institute at New Jersey Medical School, Rutgers 
+University, 225 Warren Street, Newark, NJ 08854, USA.
+
+On 11 March 2020, the World Health Organization announced the Corona Virus 
+Disease-2019 (COVID-19) as a global pandemic, which originated in China. At the 
+host level, COVID-19, caused by the Severe Acute Respiratory Syndrome 
+Coronavirus-2 (SARS-CoV-2), affects the respiratory system, with the clinical 
+symptoms ranging from mild to severe or critical illness that often requires 
+hospitalization and oxygen support. There is no specific therapy for COVID-19, 
+as is the case for any common viral disease except drugs to reduce the viral 
+load and alleviate the inflammatory symptoms. Tuberculosis (TB), an infectious 
+disease caused by Mycobacterium tuberculosis (Mtb), also primarily affects the 
+lungs and has clinical signs similar to pulmonary SARS-CoV-2 infection. Active 
+TB is a leading killer among infectious diseases and adds to the burden of the 
+COVID-19 pandemic worldwide. In immunocompetent individuals, primary Mtb 
+infection can also lead to a non-progressive, asymptomatic latency. However, 
+latent Mtb infection (LTBI) can reactivate symptomatic TB disease upon host 
+immune-suppressing conditions. Importantly, the diagnosis and treatment of TB 
+are hampered and admixed with COVID-19 control measures. The US-Center for 
+Disease Control (US-CDC) recommends using antiviral drugs, Remdesivir or 
+corticosteroid (CST), such as dexamethasone either alone or in-combination with 
+specific recommendations for COVID-19 patients requiring hospitalization or 
+oxygen support. However, CSTs can cause immunosuppression, besides their 
+anti-inflammatory properties. The altered host immunity during COVID-19, 
+combined with CST therapy, poses a significant risk for new secondary infections 
+and/or reactivation of existing quiescent infections, such as LTBI. This review 
+highlights CST therapy recommendations for COVID-19, various types and 
+mechanisms of action of CSTs, the deadly combination of two respiratory 
+infectious diseases COVID-19 and TB. It also discusses the importance of 
+screening for LTBI to prevent TB reactivation during corticosteroid therapy for 
+COVID-19.
+
+DOI: 10.3390/ijms22073773
+PMCID: PMC8038708
+PMID: 33917321 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

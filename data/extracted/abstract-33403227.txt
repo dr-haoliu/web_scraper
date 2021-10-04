@@ -1,0 +1,53 @@
+1. Discoveries (Craiova). 2020 Dec 16;8(4):e121. doi: 10.15190/d.2020.18.
+
+Drug Repurposing for Prevention and Treatment of COVID-19: A Clinical Landscape.
+
+Hossain MS(1), Hami I(1), Sawrav MSS(1), Rabbi MF(1), Saha O(2), Bahadur NM(3), 
+Rahaman MM(2).
+
+Author information:
+(1)Department of Biotechnology and Genetic Engineering, Noakhali Science and 
+Technology University, Noakhali-3814, Bangladesh.
+(2)Department of Microbiology, University of Dhaka, Dhaka-1000, Bangladesh.
+(3)Department of Applied Chemistry and Chemical Engineering, Noakhali Science 
+and Technology University, Noakhali-3814, Bangladesh.
+
+SARS-CoV-2, the novel coronavirus strain responsible for the current pandemic of 
+COVID-19, has rendered the entire humanity suffering. Several months have passed 
+since the pandemic has struck. However, the world is still looking for an 
+effective treatment plan to battle the viral infection. The first vaccine just 
+received emergency approval in December 2020 for use in USA and UK. These are 
+excellent news, however, the worldwide distribution of such vaccine, the 
+possibility of virus mutation and the lack of data regarding the long-term 
+effects of such vaccines are a significant concern. In addition, although 
+remdesivir was recently approved by the FDA to be used as a clinical drug 
+against COVID-19, it hasn't stood out yet as a proven form of therapeutics. Such 
+inability to produce a novel therapy has caused enough inconveniences for the 
+affected people worldwide. Repurposing the already available drugs to fight 
+against the virus seems to be a reasonable option amidst such uncertainty. Given 
+the vast collection of potential treatment candidates to be explored against 
+COVID-19, there is a decent chance that a success in this regard will serve the 
+intermediary purpose of clinically treating the infection until a COVID-19 
+vaccine is widely distributed worldwide and will be able to treat COVID-19 
+patients that do not adequately respond to vaccines. Such treatments may prove 
+very useful in future coronavirus outbreaks too. Proper research into these 
+repurposing treatments may yield a certain insight into the field of novel 
+treatment production as well. This review study accumulates a relevant set of 
+information about drugs and vaccines against COVID-19, in terms of their 
+repurposing properties and the specific phases of clinical trials they are 
+undergoing across the world.  A potential timeline is also suggested to estimate 
+when an effective result can be expected from the ongoing clinical trials for a 
+better anticipation of the drug landscape. This study will hopefully help 
+accelerate investment of resources into development and discovery of drugs and 
+vaccines against the infection.
+
+Copyright © 2020, Applied Systems.
+
+DOI: 10.15190/d.2020.18
+PMCID: PMC7758544
+PMID: 33403227
+
+Conflict of interest statement: Conflict of interests: The authors declare that 
+the research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest. 
+Author have no conflicts of interest to declare.

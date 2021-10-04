@@ -1,0 +1,26 @@
+1. J Comp Eff Res. 2020 Dec;9(18):1243-1246. doi: 10.2217/cer-2020-0174. Epub 2020 
+Dec 4.
+
+USA stockpiling of remdesivir: How should the world respond?
+
+Dawoud D(1), Chalkidou K(2)(3), Sullivan R(4), Ruiz FJ(5), Adler A(6).
+
+Author information:
+(1)Faculty of Pharmacy, Cairo University, Cairo, Egypt.
+(2)Global Health Policy & Center for Global Development, London, UK.
+(3)Practice in Global Health, Imperial College London, London, UK.
+(4)Cancer & Global Health, King's College London, London, UK.
+(5)Center for Global Development, Imperial College London, London, UK.
+(6)NICE Technology Appraisal Committee B, University of Oxford, Oxford, UK.
+
+The race to find an effective treatment for coronavirus disease 2019 (COVID-19) 
+is still on, with only two treatment options currently authorized for emergency 
+use and/or recommended for patients hospitalized with severe respiratory 
+symptoms: low-dose dexamethasone and remdesivir. The USA decision to stockpile 
+the latter has resulted in widespread condemnation and in similar action being 
+taken by some other countries. In this commentary we discuss whether stockpiling 
+remdesivir is justified in light of the currently available evidence.
+
+DOI: 10.2217/cer-2020-0174
+PMCID: PMC7717394
+PMID: 33274643 [Indexed for MEDLINE]

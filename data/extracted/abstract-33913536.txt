@@ -1,0 +1,64 @@
+1. J Med Virol. 2021 Sep;93(9):5367-5375. doi: 10.1002/jmv.27049. Epub 2021 May 31.
+
+Treatment patterns in US patients hospitalized with COVID-19 and pulmonary 
+involvement.
+
+Best JH(1), Kong AM(2), Kaplan-Lewis E(3), Brawley OW(4), Baden R(5), Zazzali 
+JL(1), Miller KS(6), Loveless J(6), Jariwala-Parikh K(2), Mohan SV(1).
+
+Author information:
+(1)US Medical Affairs, Genentech, Inc, South San Francisco, California, USA.
+(2)Life Sciences, IBM Watson Health, Cambridge, Massachusetts, USA.
+(3)Department of Medicine, NYC Health and Hospitals, Elmhurst Hospital Center, 
+Queens, New York, USA.
+(4)Department of Oncology, Johns Hopkins Medicine, Baltimore, Maryland, USA.
+(5)Department of Medicine, Alameda Health System-Highland Hospital, Oakland, 
+California, USA.
+(6)Idaho Pulmonary Associates, St. Luke's Health System, Boise, Idaho, USA.
+
+This study describes the baseline characteristics and treatment patterns of US 
+patients hospitalized with a diagnosis of coronavirus disease 2019 (COVID-19) 
+and pulmonary involvement. Patients hospitalized with pulmonary involvement due 
+to COVID-19 (first hospitalization) were identified in the IBM Explorys® 
+electronic health records database. Demographics, baseline clinical 
+characteristics, and in-hospital medications were assessed. For evaluation of 
+in-hospital medications, results were stratified by race, geographic region, 
+age, and month of admission. Of 6564 hospitalized patients with COVID-19-related 
+pulmonary involvement, 50.4% were male, and mean (SD) age was 62.6 (16.4) years; 
+75.2% and 23.6% of patients were from the South and Midwest, respectively, and 
+50.2% of patients were African American. Compared with African American 
+patients, a numerically higher proportion of White patients received 
+dexamethasone (19.7% vs. 31.8%, respectively), nonsteroidal anti-inflammatory 
+drugs (NSAIDs; 27.1% vs. 34.9%), bronchodilators (19.8% vs. 29.5%), and 
+remdesivir (9.3% vs. 21.0%). Numerically higher proportions of White patients 
+than African American patients received select medications in the South but not 
+in the Midwest. Compared with patients in the South, a numerically higher 
+proportion of patients in the Midwest received dexamethasone (20.1% vs. 34.5%, 
+respectively), NSAIDs (19.6% vs. 55.7%), bronchodilators (15.9% vs. 41.3%), and 
+remdesivir (10.6% vs. 23.1%). Inpatient use of hydroxychloroquine decreased over 
+time, whereas the use of dexamethasone and remdesivir increased over time. Among 
+US patients predominantly from the South and Midwest hospitalized with COVID-19 
+and pulmonary involvement, differences were seen in medication use between 
+different races, geographic regions, and months of hospitalization.
+
+© 2021 The Authors. Journal of Medical Virology Published by Wiley Periodicals 
+LLC.
+
+DOI: 10.1002/jmv.27049
+PMCID: PMC8242555
+PMID: 33913536 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jennie H. Best, Shalini V. Mohan, and James L. 
+Zazzali are employees and shareholders of Genentech, Inc. Amanda M. Kong was an 
+employee of IBM Watson Health at the time of this study and manuscript 
+preparation. Krutika Jariwala‐Parikh is an employee of IBM Watson Health. Emma 
+Kaplan‐Lewis is a principal investigator for a Genentech‐sponsored clinical 
+trial at Elmhurst Hospital Center, with no direct financial support received, 
+and has served on medical advisory boards for ViiV Pharmaceuticals. Otis W. 
+Brawley reports no conflicts of interest. Rachel Baden is a principal 
+investigator for a Genentech‐sponsored clinical trial at Highland Hospital, with 
+no direct financial support received. Karen S. Miller is a principal 
+investigator for a Genentech‐sponsored clinical trial at St Luke′s Health 
+System, with no direct financial support received. James Loveless has served as 
+an investigator for Genentech‐sponsored clinical trials, and as an advisor and 
+on a speaker′s bureau for Genentech, all outside of the submitted work.

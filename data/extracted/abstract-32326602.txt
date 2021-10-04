@@ -1,0 +1,44 @@
+1. J Clin Med. 2020 Apr 15;9(4):1131. doi: 10.3390/jcm9041131.
+
+Pharmacological Therapeutics Targeting RNA-Dependent RNA Polymerase, Proteinase 
+and Spike Protein: From Mechanistic Studies to Clinical Trials for COVID-19.
+
+Huang J(1)(2), Song W(1), Huang H(3), Sun Q(2).
+
+Author information:
+(1)Department of Medicine, Vanderbilt University Medical Center, 318 Preston 
+Research Building, 2200 Pierce Avenue, Nashville, TN 37232, USA.
+(2)School of Food and Biological Engineering, Jiangsu University, Zhenjiang 
+212013, Jiangsu, China.
+(3)Center of Structural Biology, Vanderbilt University, 2200 Pierce Avenue, 
+Nashville, TN 37232, USA.
+
+An outbreak of novel coronavirus-related pneumonia COVID-19, that was identified 
+in December 2019, has expanded rapidly, with cases now confirmed in more than 
+211 countries or areas. This constant transmission of a novel coronavirus and 
+its ability to spread from human to human have prompted scientists to develop 
+new approaches for treatment of COVID-19. A recent study has shown that 
+remdesivir and chloroquine effectively inhibit the replication and infection of 
+severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2, 2019-nCov) in 
+vitro. In the United States, one case of COVID-19 was successfully treated with 
+compassionate use of remdesivir in January of 2020. In addition, a clinically 
+proven protease inhibitor, camostat mesylate, has been demonstrated to inhibit 
+Calu-3 infection with SARS-CoV-2 and prevent SARS-2-spike protein (S 
+protein)-mediated entry into primary human lung cells. Here, we systemically 
+discuss the pharmacological therapeutics targeting RNA-dependent RNA polymerase 
+(RdRp), proteinase and S protein for treatment of SARS-CoV-2 infection. This 
+review should shed light on the fundamental rationale behind inhibition of 
+SARS-CoV-2 enzymes RdRp as new therapeutic approaches for management of patients 
+with COVID-19. In addition, we will discuss the viability and challenges in 
+targeting RdRp and proteinase, and application of natural product quinoline and 
+its analog chloroquine for treatment of coronavirus infection. Finally, 
+determining the structural-functional relationships of the S protein of 
+SARS-CoV-2 will provide new insights into inhibition of interactions between S 
+protein and angiotensin-converting enzyme 2 (ACE2) and enable us to develop 
+novel therapeutic approaches for novel coronavirus SARS-CoV-2.
+
+DOI: 10.3390/jcm9041131
+PMCID: PMC7231166
+PMID: 32326602
+
+Conflict of interest statement: The authors declare no conflict of interest.

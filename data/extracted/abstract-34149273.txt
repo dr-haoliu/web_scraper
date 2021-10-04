@@ -1,0 +1,39 @@
+1. Russ J Bioorg Chem. 2021;47(3):609-621. doi: 10.1134/S1068162021030183. Epub 
+2021 Jun 11.
+
+A Mini Review on Discovery and Synthesis of Remdesivir as an Effective and 
+Promising Drug against COVID-19.
+
+Zarenezhad E(1), Behrouz S(2), Farjam M(1)(3), Rad MNS(2).
+
+Author information:
+(1)Noncommunicable Diseases Research Center, Fasa University of Medical 
+Sciences, Fasa, Iran.
+(2)Medicinal Chemistry Research Laboratory, Department of Chemistry Shiraz 
+University of Technology, 71555-313 Shiraz, Iran.
+(3)Department of Medical Pharmacology, School of Medicine, Fasa University of 
+Medical Sciences, Fasa, Iran.
+
+The severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) as a new human 
+coronavirus has begun spreading over Wuhan City/China in December 2019, and then 
+spread rapidly worldwide, causing pneumonia called COVID-19. Up to now, the 
+scientists have extensively attempted to find effective vaccines and drugs for 
+treatment of coronavirus infections. To this end, various pharmaceutical agents 
+are undergoing the clinical studies to assess their potency and efficacy against 
+COVID-19. Based on the new findings, the U.S. food and drug administration (FDA) 
+has issued an emergency use authorization for remdesivir as an effective 
+anti-viral for remedying the hospitalized COVID-19 patients. Recently, the 
+European medicines agency has authorized the use of remdesivir for the treatment 
+of COVID-19. Remdesivir as a nucleotide prodrug exhibits broad-spectrum 
+antiviral activities against RNA viruses. In this short review, we have rendered 
+a brief overview of discovery and synthesis for remdesivir.
+
+© Pleiades Publishing, Ltd. 2021, ISSN 1068-1620, Russian Journal of Bioorganic 
+Chemistry, 2021, Vol. 47, No. 3, pp. 609–621. © Pleiades Publishing, Ltd., 2021.
+
+DOI: 10.1134/S1068162021030183
+PMCID: PMC8193954
+PMID: 34149273
+
+Conflict of interest statement: Conflict of InterestsThere is no conflict of 
+interest.

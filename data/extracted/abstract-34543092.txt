@@ -1,0 +1,45 @@
+1. Antimicrob Agents Chemother. 2021 Sep 20:AAC0077221. doi: 10.1128/AAC.00772-21. 
+Online ahead of print.
+
+The natural stilbenoid (-)-hopeaphenol inhibits cellular entry of SARS-CoV-2 
+USA-WA1/2020, B.1.1.7 and B.1.351 variants.
+
+Tietjen I(1), Cassel J(1), Register ET(1), Zhou XY(1), Messick TE(1), Keeney 
+F(1), Lu LD(1), Beattie KD(2), Rali T(3), Tebas P(4), Ertl HCJ(1), Salvino 
+JM(1), Davis RA(2), Montaner LJ(1).
+
+Author information:
+(1)The Wistar Institute, Philadelphia, PA, USA.
+(2)Griffith Institute for Drug Discovery, School of Environment and Science, 
+Griffith University, Brisbane, QLD, Australia.
+(3)School of Natural and Physical Sciences, The University of Papua New Guinea, 
+Port Moresby, PNG.
+(4)Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, 
+USA.
+
+Antivirals are urgently needed to combat the global SARS-CoV-2/COVID-19 
+pandemic, supplement existing vaccine efforts, and target emerging SARS-CoV-2 
+variants of concern. Small molecules that interfere with binding of the viral 
+spike receptor binding domain (RBD) to the host ACE2 receptor may be effective 
+inhibitors of SARS-CoV-2 cell entry. Here we screened 512 pure compounds derived 
+from natural products using a high-throughput RBD/ACE2 binding assay and 
+identified (-)-hopeaphenol, a resveratrol tetramer, in addition to vatalbinoside 
+A and vaticanol B, as potent and selective inhibitors of RBD/ACE2 binding and 
+viral entry. For example, (-)-hopeaphenol disrupted RBD/ACE2 binding with a 50% 
+inhibitory concentration (IC50) of 0.11 μM in contrast to an IC50 of 28.3 μM 
+against the unrelated host ligand/receptor binding pair PD-1/PD-L1 (selectivity 
+index = 257.3). When assessed against the USA-WA1/2020 variant, (-)-hopeaphenol 
+also inhibited entry of a VSVΔG-GFP reporter pseudovirus expressing SARS-CoV-2 
+spike into ACE2-expressing Vero-E6 cells and in vitro replication of infectious 
+virus in cytopathic effect and yield reduction assays (50% effective 
+concentrations (EC50s) = 10.2 - 23.4 μM) without cytotoxicity and approaching 
+the activities of the control antiviral remdesivir (EC50s = 1.0 - 7.3 μM). 
+Notably, (-)-hopeaphenol also inhibited two emerging variants of concern 
+including B.1.1.7/"Alpha" and B.1.351/"Beta" in both viral and spike-containing 
+pseudovirus assays with similar or improved activities over the USA-WA1/2020 
+variant. These results identify (-)-hopeaphenol and related stilbenoid analogues 
+as potent and selective inhibitors of viral entry across multiple SARS-CoV-2 
+variants of concern.
+
+DOI: 10.1128/AAC.00772-21
+PMID: 34543092

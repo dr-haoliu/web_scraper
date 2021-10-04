@@ -1,0 +1,69 @@
+1. Transplantation. 2021 Jan 1;105(1):216-224. doi: 10.1097/TP.0000000000003527.
+
+Incidence and Outcomes of COVID-19 in Kidney and Liver Transplant Recipients 
+With HIV: Report From the National HOPE in Action Consortium.
+
+Mehta SA(1), Rana MM(2), Motter JD(3), Small CB(4), Pereira MR(5), Stosor V(6), 
+Elias N(7), Haydel B(8), Florman S(8), Odim J(9), Morsheimer M(9), Robien M(9), 
+Massie AB(3), Brown D(10), Boyarsky BJ(3), Garonzik-Wang J(3), Tobian AAR(11), 
+Werbel WA(10), Segev DL(3), Durand CM(10); HOPE in Action Investigators.
+
+Author information:
+(1)New York University Langone Transplant Institute, New York, NY.
+(2)Department of Medicine/Division of Infectious Diseases, Icahn School of 
+Medicine at Mount Sinai, New York, NY.
+(3)Department of Surgery, Johns Hopkins University School of Medicine, 
+Baltimore, MD.
+(4)Department of Medicine/Division of Infectious Diseases, Weill Cornell 
+Medicine, New York, NY.
+(5)Department of Medicine/Division of Infectious Diseases, Columbia University 
+Irving Medical Center, New York, NY.
+(6)Divisions of Infectious Diseases and Organ Transplantation Feinberg School of 
+Medicine, Northwestern University, Chicago, IL.
+(7)Department of Surgery and Transplant Center, Massachusetts General Hospital, 
+Boston, MA.
+(8)Recanati/Miller Transplantation Institute, Icahn School of Medicine at Mount 
+Sinai, New York, NY.
+(9)Division of Allergy, Immunology and Transplantation, National Institutes of 
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda, MD.
+(10)Department of Medicine, Johns Hopkins University School of Medicine, 
+Baltimore, MD.
+(11)Department of Pathology, Johns Hopkins University School of Medicine, 
+Baltimore, MD.
+
+BACKGROUND: Transplant recipients with HIV may have worse outcomes with 
+coronavirus disease 2019 (COVID-19) due to impaired T-cell function coupled with 
+immunosuppressive drugs. Alternatively, immunosuppression might reduce 
+inflammatory complications and/or antiretrovirals could be protective.
+METHODS: Prospective reporting of all cases of SARS-CoV-2 infection was required 
+within the HOPE in Action Multicenter Consortium, a cohort of kidney and liver 
+transplant recipients with HIV who have received organs from donors with and 
+without HIV at 32 transplant centers in the United States.
+RESULTS: Between March 20, 2020 and September 25, 2020, there were 11 COVID-19 
+cases among 291 kidney and liver recipients with HIV (4%). In those with 
+COVID-19, median age was 59 y, 10 were male, 8 were kidney recipients, and 5 had 
+donors with HIV. A higher proportion of recipients with COVID-19 compared with 
+the overall HOPE in the Action cohort were Hispanic (55% versus 12%) and 
+received transplants in New York City (73% versus 34%, P < 0.05). Most (10/11, 
+91%) were hospitalized. High-level oxygen support was required in 7 and 
+intensive care in 5; 1 participant opted for palliative care instead of transfer 
+to the intensive care unit. HIV RNA was undetectable in all. Median absolute 
+lymphocyte count was 0.3 × 103 cells/μL. Median CD4 pre-COVID-19 was 298 
+cells/μL, declining to <200 cells/μl in 6/7 with measurements on admission. 
+Treatment included high-dose steroids (n = 6), tocilizumab (n = 3), remdesivir 
+(n = 2), and convalescent plasma (n = 2). Four patients (36%) died.
+CONCLUSIONS: Within a national prospective cohort of kidney and liver transplant 
+recipients with HIV, we report high mortality from COVID-19.
+
+Copyright © 2020 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/TP.0000000000003527
+PMCID: PMC8018537
+PMID: 33165238 [Indexed for MEDLINE]
+
+Conflict of interest statement: D.L.S. reports speaking honoraria from Novartis. 
+C.M.D. reports serving on a grant review committee for Gilead Sciences as well 
+as research grants paid to the institution from Abbvie and GlaxoSmithKline. 
+C.B.S. has received grants paid to her institution from GlaxoSmithKline, ViiV, 
+Abbott, Merck, Gilead, Chimerix, Shire, Schering, Ablynx, and Janssen. The other 
+authors declare no conflicts of interest.

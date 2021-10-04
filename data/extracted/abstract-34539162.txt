@@ -1,0 +1,46 @@
+1. Infect Dis Clin Pract (Baltim Md). 2021 Sep;29(5):e282-e286. doi: 
+10.1097/IPC.0000000000001023. Epub 2021 Apr 15.
+
+Early Use of Remdesivir in Patients Hospitalized With COVID-19 Improves Clinical 
+Outcomes: A Retrospective Observational Study.
+
+Paranjape N(1), Husain M(2), Priestley J(3), Koonjah Y(3), Watts C(4), Havlik 
+J(2).
+
+Author information:
+(1)Department of Infectious Disease, Wellstar Kennestone Hospital.
+(2)Department of Infectious Disease, Wellstar Cobb Hospital, Marietta.
+(3)Analytics and Data Science Institute, Kennesaw State University, Kennesaw.
+(4)Department of Infectious Disease, Wellstar Douglas Hospital, Marietta, GA.
+
+BACKGROUND: Remdesivir treatment, like most antiviral drugs, is likely to be 
+most effective when used early in the course of coronavirus disease 2019 
+(COVID-19). Optimal timing of remdesivir for the treatment of COVID-19 remains 
+unclear.
+OBJECTIVES: The aim of this study was to determine whether early treatment with 
+remdesivir improves clinical outcomes: length of stay, need for mechanical 
+ventilation, and death.
+METHODS: We conducted a retrospective observational study of patients 
+hospitalized with COVID-19 who received remdesivir therapy within 10 days of 
+symptom onset at a large health system in Georgia, United States.
+RESULTS: We identified a total of 475 patients. Initiation of therapy 3 days or 
+less from first positive SARS-CoV-2 improved length of stay (15.7 days) compared 
+with those started on therapy more than 3 days after a positive test (19.3 days) 
+(P = 0.03). In the ≤3 day group, further reduction in length of stay was seen in 
+those with lower oxygen requirement at baseline (P < 0.0001). Length of stay was 
+lower in the ≤3 day group both with and without the use of corticosteroids (P = 
+0.0003). The odds of requiring mechanical ventilation were higher for the >3 day 
+group compared with the ≤3 day group (odds ratio, 1.5; 95% confidence interval, 
+0.8-2.7), and the odds of death were higher for the >3 day group versus the ≤3 
+day group (odds ratio, 1.74; 95% confidence interval, 0.9-3.2).
+CONCLUSIONS: Our data show that early treatment with remdesivir in patients 
+hospitalized with COVID-19 shortened length of stay.
+
+Copyright © 2021 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/IPC.0000000000001023
+PMCID: PMC8436815
+PMID: 34539162
+
+Conflict of interest statement: The authors have no funding or conflicts of 
+interest to disclose.

@@ -1,0 +1,72 @@
+1. Transplant Cell Ther. 2021 Sep;27(9):796.e1-796.e7. doi: 
+10.1016/j.jtct.2021.07.005. Epub 2021 Jul 10.
+
+Impact of SARS-CoV-2 in Hematopoietic Stem Cell Transplantation and Chimeric 
+Antigen Receptor T Cell Therapy Recipients.
+
+Mushtaq MU(1), Shahzad M(2), Chaudhary SG(2), Luder M(2), Ahmed N(2), Abdelhakim 
+H(2), Bansal R(2), Balusu R(2), DeJarnette S(2), Divine C(2), Kribs R(2), Shune 
+L(2), Singh AK(2), Ganguly S(2), Abhyankar SH(2), McGuirk JP(2).
+
+Author information:
+(1)Division of Hematologic Malignancies and Cellular Therapeutics, University of 
+Kansas Medical Center, Kansas City, KS. Electronic address: mushtaqmu@gmail.com.
+(2)Division of Hematologic Malignancies and Cellular Therapeutics, University of 
+Kansas Medical Center, Kansas City, KS.
+
+Coronavirus disease 2019 (COVID-19), a respiratory illness caused by the novel 
+severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was declared a 
+pandemic in March 2020, and has caused more than 600,000 deaths in the United 
+States at the time of this report. Hematopoietic stem cell transplantation (HCT) 
+or chimeric antigen receptor T cell (CAR-T) therapy recipients have a higher 
+risk of mortality with COVID-19 owing to profound immune dysregulation. In this 
+study, we investigated the impact of SARS-CoV-2 in HCT/CAR-T therapy recipients. 
+This single-center prospective study included all (n = 58) adult HCT/CAR-T 
+recipients who were diagnosed with COVID-19 at the University of Kansas Medical 
+Center between March 2020 and May 2021. Baseline and disease-related 
+characteristics were ascertained from medical records. Data were analyzed using 
+SPSS version 21 (IBM, Armonk, NY). Bivariate analyses, using the chi-square and 
+t-test, and logistic regression analyses were conducted. The study included 58 
+HCT/CAR-T patients who acquired SARS-CoV-2 infection, including recipients of 
+allogeneic HCT (n = 32), autologous HCT (n = 23), and CAR-T therapy (n = 3). The 
+median patient age was 58 years (range, 24 to 77 years), and 64% were males. The 
+median time from HCT/CAR-T therapy to SARS-CoV-2 infection was 17.7 months 
+(range, 0.2 to 201.9 months), and 22% of the patients acquired SARS-CoV-2 within 
+the first 100 days post-HCT/CAR-T therapy. The primary hematologic disorders 
+were plasma cell (36%), myeloid (38%), and lymphoid (26%) malignancies. 
+Myeloablative conditioning was performed in 62% of patients. Donors were 
+autologous (45%), matched sibling (15%), matched unrelated (21%), and 
+haploidentical (19%). Prior history of grade II-IV acute graft-versus-host 
+disease (GVHD), active GVHD, and current immunosuppressive therapy (IST) was 
+noted in 22%, 31%, and 36% of patients, respectively. Concurrent infections were 
+observed in 19%. Lymphopenia (P = .049) and high serum ferritin concentration 
+(P = .020) were associated with mortality. COVID-19 severity was mild in 50% of 
+the patients, moderate in 22%, and severe in 28%. Clinical findings included 
+pneumonia or abnormal chest imaging (in 50%), hypoxia (28%), intensive care unit 
+admission (19%), and mechanical ventilation (10%). Therapies included remdesivir 
+(in 41%), convalescent plasma (35%), dexamethasone (22%), monoclonal antibodies 
+(19%), and tocilizumab (3%). The median duration of viral shedding (positive 
+SARS-CoV-2 PCR) was 7.7 weeks (range, 2 to 18.7 weeks), and 2 patients had a 
+persistent infection for >5 months post-CAR-T therapy. After a median follow-up 
+of 6.1 months (range, 0.5-13.6 months), the mortality rate was 16% in all 
+patients and 28% in allogeneic HCT recipients. Among 9 patients who died, the 
+median survival after SARS-CoV-2 infection was 23 days (range, 14 to 140 days). 
+In survivors with moderate-severe COVID-19, the median time to recovery was 4.2 
+weeks (range, 1.1 to 24.7 weeks). Among allogeneic HCT recipients, 5 (16%) 
+developed subsequent pulmonary chronic GVHD necessitating systemic steroids and 
+additional IST. Significant predictors of COVID-19 severity included allogeneic 
+HCT (odds ratio [OR], 3.6, 95% confidence interval [CI], 1.2 to 10.8; P = .020), 
+history of grade II-IV acute GVHD (OR, 4.6; 95% CI, 1.10 to 18.86; P = .036) and 
+concurrent IST (OR, 5.9; 95% CI, 1.8 to 19.8; P = .004). HCT and CAR-T cell 
+therapy recipients are at an increased risk of moderate-severe COVID-19 
+pneumonia and higher mortality with SARS-CoV-2 infection. Our findings confirm 
+the need for continuing vigilance with social distancing and masks, vaccination 
+prioritization, close monitoring, and aggressive treatment of HCT/CAR-T therapy 
+recipients.
+
+Copyright © 2021 The American Society for Transplantation and Cellular Therapy. 
+Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jtct.2021.07.005
+PMCID: PMC8272625
+PMID: 34256172 [Indexed for MEDLINE]

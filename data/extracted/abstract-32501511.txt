@@ -1,0 +1,96 @@
+1. JAMA Pediatr. 2020 Oct 1;174(10):e202422. doi: 10.1001/jamapediatrics.2020.2422. 
+Epub 2020 Oct 5.
+
+Simulated Assessment of Pharmacokinetically Guided Dosing for Investigational 
+Treatments of Pediatric Patients With Coronavirus Disease 2019.
+
+Maharaj AR(1), Wu H(1), Hornik CP(1)(2), Balevic SJ(1)(2), Hornik CD(1)(2)(3), 
+Smith PB(1)(2), Gonzalez D(4), Zimmerman KO(1)(2), Benjamin DK Jr(1)(2), 
+Cohen-Wolkowiez M(1)(2); Best Pharmaceuticals for Children Act–Pediatric Trials 
+Network Steering Committee.
+
+Author information:
+(1)Duke Clinical Research Institute, Durham, North Carolina.
+(2)Department of Pediatrics, Duke University School of Medicine, Durham, North 
+Carolina.
+(3)Department of Pharmacy, Duke University Medical Center, Durham, North 
+Carolina.
+(4)University of North Carolina Eshelman School of Pharmacy, Division of 
+Pharmacotherapy and Experimental Therapeutics, University of North Carolina at 
+Chapel Hill.
+
+Comment in
+    JAMA Pediatr. 2020 Oct 1;174(10):e202435.
+    JAMA Pediatr. 2021 Apr 1;175(4):432-433.
+
+IMPORTANCE: Children of all ages appear susceptible to severe acute respiratory 
+syndrome coronavirus 2 infection. To support pediatric clinical studies for 
+investigational treatments of coronavirus disease 2019 (COVID-19), 
+pediatric-specific dosing is required.
+OBJECTIVE: To define pediatric-specific dosing regimens for hydroxychloroquine 
+and remdesivir for COVID-19 treatment.
+DESIGN, SETTING, AND PARTICIPANTS: Pharmacokinetic modeling and simulation were 
+used to extrapolate investigated adult dosages toward children (March 2020-April 
+2020). Physiologically based pharmacokinetic modeling was used to inform 
+pediatric dosing for hydroxychloroquine. For remdesivir, pediatric dosages were 
+derived using allometric-scaling with age-dependent exponents. Dosing 
+simulations were conducted using simulated pediatric and adult participants 
+based on the demographics of a white US population.
+INTERVENTIONS: Simulated drug exposures following a 5-day course of 
+hydroxychloroquine (400 mg every 12 hours × 2 doses followed by 200 mg every 12 
+hours × 8 doses) and a single 200-mg intravenous dose of remdesivir were 
+computed for simulated adult participants. A simulation-based dose-ranging study 
+was conducted in simulated children exploring different absolute and 
+weight-normalized dosing strategies.
+MAIN OUTCOMES AND MEASURES: The primary outcome for hydroxychloroquine was 
+average unbound plasma concentrations for 5 treatment days. Additionally, 
+unbound interstitial lung concentrations were simulated. For remdesivir, the 
+primary outcome was plasma exposure (area under the curve, 0 to infinity) 
+following single-dose administration.
+RESULTS: For hydroxychloroquine, the physiologically based pharmacokinetic model 
+analysis included 500 and 600 simulated white adult and pediatric participants, 
+respectively, and supported weight-normalized dosing for children weighing less 
+than 50 kg. Geometric mean-simulated average unbound plasma concentration values 
+among children within different developmental age groups (32-35 ng/mL) were 
+congruent to adults (32 ng/mL). Simulated unbound hydroxychloroquine 
+concentrations in lung interstitial fluid mirrored those in unbound plasma and 
+were notably lower than in vitro concentrations needed to mediate antiviral 
+activity. For remdesivir, the analysis included 1000 and 6000 simulated adult 
+and pediatric participants, respectively. The proposed pediatric dosing strategy 
+supported weight-normalized dosing for participants weighing less than 60 kg. 
+Geometric mean-simulated plasma area under the time curve 0 to infinity values 
+among children within different developmental age-groups (4315-5027 ng × h/mL) 
+were similar to adults (4398 ng × h/mL).
+CONCLUSIONS AND RELEVANCE: This analysis provides pediatric-specific dosing 
+suggestions for hydroxychloroquine and remdesivir and raises concerns regarding 
+hydroxychloroquine use for COVID-19 treatment because concentrations were less 
+than those needed to mediate an antiviral effect.
+
+DOI: 10.1001/jamapediatrics.2020.2422
+PMCID: PMC7275264
+PMID: 32501511 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr C. P. 
+Hornik reported personal fees from Anavex Pharmaceuticals and grants from Pfizer 
+outside the submitted work. Dr Balevic reported grants, nonfinancial support, 
+and other support from the US Food and Drug Administration, grants from the 
+National Institutes of Health, Patient-Centered Outcomes Research Institute, 
+Rheumatology Research Foundation, Thrasher Research Fund, and Childhood 
+Arthritis and Research Alliance/Arthritis Foundation; and personal fees from UCB 
+outside the submitted work. Dr Gonzalez reported a travel grant through the 
+University of North Carolina at Chapel Hill to give a presentation at Boehringer 
+Ingelheim outside the submitted work and support for research from the Eunice 
+Kennedy Shriver National Institute of Child Health and Human Development. Dr 
+Zimmerman reported grants from the National Institutes of Health during the 
+conduct of the study. Dr Maharaj receives research support from the Thrasher 
+Research Fund (www.thrasherresearch.org). Dr Smith receives funding from the 
+National Institutes of Health. Dr Benjamin receives support from the National 
+Institutes of Health, National Institute of Child Health and Human Development, 
+the National Center for Advancing Translational Sciences, and Food and Drug 
+Administration and personal fees from Astellas Pharma, Cidara Therapeutics, 
+Allergan, and Lediant outside the submitted work. Dr Cohen-Wolkowiez receives 
+support from the National Institutes of Health, National Institute of Child 
+Health and Human Development, the National Center for Advancing Translational 
+Sciences, and the US Food and Drug Administration; he also receives research 
+support from industry for neonatal and pediatric drug development. No other 
+disclosures were reported.

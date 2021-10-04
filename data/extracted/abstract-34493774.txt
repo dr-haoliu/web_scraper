@@ -1,0 +1,61 @@
+1. Sci Rep. 2021 Sep 7;11(1):17787. doi: 10.1038/s41598-021-97259-7.
+
+Treatment of moderate to severe respiratory COVID-19: a cost-utility analysis.
+
+Congly SE(1)(2), Varughese RA(3), Brown CE(4), Clement FM(5)(6), Saxinger L(7).
+
+Author information:
+(1)Division of Gastroenterology and Hepatology, Department of Medicine, Cumming 
+School of Medicine, University of Calgary, 6th Floor, Teaching Research and 
+Wellness Building, 3280 Hospital Drive NW, Calgary, AB, T2N 4N1, Canada. 
+secongly@ucalgary.ca.
+(2)O'Brien Institute of Public Health, University of Calgary, Calgary, AB, 
+Canada. secongly@ucalgary.ca.
+(3)Division of Pulmonary Medicine, Department of Medicine, University of 
+Alberta, Edmonton, AB, Canada.
+(4)Division of Pulmonary, Critical Care and Sleep Medicine, University of 
+Washington, Seattle, WA, USA.
+(5)O'Brien Institute of Public Health, University of Calgary, Calgary, AB, 
+Canada.
+(6)Department of Community Health Sciences, University of Calgary, Calgary, AB, 
+Canada.
+(7)Division of Infectious Diseases, Department of Medicine, University of 
+Alberta, Edmonton, AB, Canada.
+
+Despite COVID-19's significant morbidity and mortality, considering 
+cost-effectiveness of pharmacologic treatment strategies for hospitalized 
+patients remains critical to support healthcare resource decisions within 
+budgetary constraints. As such, we calculated the cost-effectiveness of using 
+remdesivir and dexamethasone for moderate to severe COVID-19 respiratory 
+infections using the United States health care system as a representative model. 
+A decision analytic model modelled a base case scenario of a 60-year-old patient 
+admitted to hospital with COVID-19. Patients requiring oxygen were considered 
+moderate severity, and patients with severe COVID-19 required intubation with 
+intensive care. Strategies modelled included giving remdesivir to all patients, 
+remdesivir in only moderate and only severe infections, dexamethasone to all 
+patients, dexamethasone in severe infections, remdesivir in 
+moderate/dexamethasone in severe infections, and best supportive care. Data for 
+the model came from the published literature. The time horizon was 1 year; no 
+discounting was performed due to the short duration. The perspective was of the 
+payer in the United States health care system. Supportive care for 
+moderate/severe COVID-19 cost $11,112.98 with 0.7155 quality adjusted life-year 
+(QALY) obtained. Using dexamethasone for all patients was the most-cost 
+effective with an incremental cost-effectiveness ratio of $980.84/QALY; all 
+remdesivir strategies were more costly and less effective. Probabilistic 
+sensitivity analyses showed dexamethasone for all patients was most 
+cost-effective in 98.3% of scenarios. Dexamethasone for moderate-severe COVID-19 
+infections was the most cost-effective strategy and would have minimal budget 
+impact. Based on current data, remdesivir is unlikely to be a cost-effective 
+treatment for COVID-19.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-97259-7
+PMCID: PMC8423816
+PMID: 34493774 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Congly reports grants from Gilead Sciences, 
+Boehringer Ingelheim, Genfit, Allergan, and Sequana Medical and personal fees 
+from Intercept Pharmaceuticals, AstraZeneca, Paladin Labs and Eisai outside the 
+submitted work. Drs. Varughese, Brown, Clement and Saxinger report no potential 
+conflicts of interest.

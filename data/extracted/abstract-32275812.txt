@@ -1,0 +1,96 @@
+1. N Engl J Med. 2020 Jun 11;382(24):2327-2336. doi: 10.1056/NEJMoa2007016. Epub 
+2020 Apr 10.
+
+Compassionate Use of Remdesivir for Patients with Severe Covid-19.
+
+Grein J(1), Ohmagari N(1), Shin D(1), Diaz G(1), Asperges E(1), Castagna A(1), 
+Feldt T(1), Green G(1), Green ML(1), Lescure FX(1), Nicastri E(1), Oda R(1), Yo 
+K(1), Quiros-Roldan E(1), Studemeister A(1), Redinski J(1), Ahmed S(1), Bernett 
+J(1), Chelliah D(1), Chen D(1), Chihara S(1), Cohen SH(1), Cunningham J(1), 
+D'Arminio Monforte A(1), Ismail S(1), Kato H(1), Lapadula G(1), L'Her E(1), 
+Maeno T(1), Majumder S(1), Massari M(1), Mora-Rillo M(1), Mutoh Y(1), Nguyen 
+D(1), Verweij E(1), Zoufaly A(1), Osinusi AO(1), DeZure A(1), Zhao Y(1), Zhong 
+L(1), Chokkalingam A(1), Elboudwarej E(1), Telep L(1), Timbs L(1), Henne I(1), 
+Sellers S(1), Cao H(1), Tan SK(1), Winterbourne L(1), Desai P(1), Mera R(1), 
+Gaggar A(1), Myers RP(1), Brainard DM(1), Childs R(1), Flanigan T(1).
+
+Author information:
+(1)From Cedars-Sinai Medical Center, Los Angeles (J.G.), El Camino Hospital, 
+Mountain View (D.S., D. Chelliah), Sutter Santa Rosa Regional Hospital, Santa 
+Rosa (G.G.), Regional Medical Center (A.S., J.R.) and Good Samaritan Hospital 
+(S.M.), San Jose, John Muir Health, Walnut Creek (J.B.), UC Davis Health, 
+Sacramento (S.H.C.), NorthBay Medical Center, Fairfield (S.I.), and Gilead 
+Sciences, Foster City (A.O.O., A.D., Y.Z., L.Z., A. Chokkalingam, E.E., L. 
+Telep, L. Timbs, I.H., S.S., H.C., S.K.T., L.W., P.D., R.M., A.G., R.P.M., 
+D.M.B.) - all in California; the National Center for Global Health and Medicine, 
+Tokyo (N.O.), Tokyo Bay Urayasu Ichikawa Medical Center, Urayasu City (R.O.), 
+Hiratsuka City Hospital, Hiratsuka (K.Y.), Yokohama City University Hospital, 
+Yokohama (H.K.), Gunma University Hospital, Gunma (T.M.), and Tosei General 
+Hospital, Seto (Y.M.) - all in Japan; Providence Regional Medical Center 
+Everett, Everett (G.D.), and University of Washington Medical Center-Northwest 
+(M.L.G.) and Virginia Mason Medical Center (S. Chihara), Seattle - all in 
+Washington; Fondazione IRCCS Policlinico San Matteo, Pavia (E.A.), IRCCS, San 
+Raffaele Scientific Institute (A. Castagna) and Azienda Socio Sanitaria 
+Territoriale Spedali (ASST) Santi Paolo e Carlo, Department of Health Services, 
+University of Milan (A.D.M.), Milan, National Institute for Infectious Diseases, 
+IRCCS, L. Spallanzani, Rome (E.N.), Università degli Study of Brescia, ASST 
+Civili di Brescia, Brescia (E.Q.-R.), San Gerardo Hospital, ASST Monza, 
+University of Milan-Bicocca, Monza (G.L.), and Azienda Unite Sanitarie 
+Locali-IRCCS, Reggio Emilia (M.M.) - all in Italy; Universitätsklinikum 
+Düsseldorf, Düsseldorf, Germany (T. Feldt); Université de Paris, Infection, 
+Antimicrobiens, Modélisation, Evolution (IAME), INSERM, and Assistance 
+Publique-Hôpitaux de Paris, Department of Infectious Diseases, Bichat Hospital, 
+Paris (F.-X.L.), Centre Hospitalier Régional et Universitaire de Brest-La Cavale 
+Blanche, Brest (E.L.), and Division of Infectious Diseases and Tropical 
+Medicine, University Hospital of Bordeaux, Bordeaux (D.N.) - all in France; St. 
+Alexius Medical Center, Hoffman Estates, IL (S.A.); Mackenzie Health, Richmond 
+Hill, ON, Canada (D. Chen); Columbia University Irving Medical Center, New York 
+(J.C.); Hospital Universitario La Paz-Carlos III, Instituto de Investigación 
+Hospital Universitario La Paz, Madrid (M.M.-R.); Bernhoven Hospital, Uden, the 
+Netherlands (E.V.); Kaiser Franz Josef Hospital, Vienna (A.Z.); the U.S. Public 
+Health Service Commissioned Corps, Washington, DC (R.C.); and Miriam Hospital, 
+Providence, RI (T. Flanigan).
+
+Comment in
+    BMJ. 2020 Apr 22;369:m1610.
+    Nature. 2020 May;581(7807):120.
+    N Engl J Med. 2020 May 15;382:
+    N Engl J Med. 2020 May 15;382:
+    N Engl J Med. 2020 May 15;382:
+    N Engl J Med. 2020 May 15;382:
+    J Allergy Clin Immunol. 2020 Jul;146(1):58-60.
+    Rev Med Virol. 2021 Jul;31(4):e2187.
+
+BACKGROUND: Remdesivir, a nucleotide analogue prodrug that inhibits viral RNA 
+polymerases, has shown in vitro activity against SARS-CoV-2.
+METHODS: We provided remdesivir on a compassionate-use basis to patients 
+hospitalized with Covid-19, the illness caused by infection with SARS-CoV-2. 
+Patients were those with confirmed SARS-CoV-2 infection who had an oxygen 
+saturation of 94% or less while they were breathing ambient air or who were 
+receiving oxygen support. Patients received a 10-day course of remdesivir, 
+consisting of 200 mg administered intravenously on day 1, followed by 100 mg 
+daily for the remaining 9 days of treatment. This report is based on data from 
+patients who received remdesivir during the period from January 25, 2020, 
+through March 7, 2020, and have clinical data for at least 1 subsequent day.
+RESULTS: Of the 61 patients who received at least one dose of remdesivir, data 
+from 8 could not be analyzed (including 7 patients with no post-treatment data 
+and 1 with a dosing error). Of the 53 patients whose data were analyzed, 22 were 
+in the United States, 22 in Europe or Canada, and 9 in Japan. At baseline, 30 
+patients (57%) were receiving mechanical ventilation and 4 (8%) were receiving 
+extracorporeal membrane oxygenation. During a median follow-up of 18 days, 36 
+patients (68%) had an improvement in oxygen-support class, including 17 of 30 
+patients (57%) receiving mechanical ventilation who were extubated. A total of 
+25 patients (47%) were discharged, and 7 patients (13%) died; mortality was 18% 
+(6 of 34) among patients receiving invasive ventilation and 5% (1 of 19) among 
+those not receiving invasive ventilation.
+CONCLUSIONS: In this cohort of patients hospitalized for severe Covid-19 who 
+were treated with compassionate-use remdesivir, clinical improvement was 
+observed in 36 of 53 patients (68%). Measurement of efficacy will require 
+ongoing randomized, placebo-controlled trials of remdesivir therapy. (Funded by 
+Gilead Sciences.).
+
+Copyright © 2020 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2007016
+PMCID: PMC7169476
+PMID: 32275812 [Indexed for MEDLINE]

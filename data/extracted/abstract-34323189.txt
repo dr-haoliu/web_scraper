@@ -1,0 +1,35 @@
+1. Curr Top Med Chem. 2021 Jul 27. doi: 10.2174/1568026621666210728094019. Online 
+ahead of print.
+
+Advancement of prodrug approaches for nucleotide antiviral agents.
+
+Li Y(1), Yang B(1), Quan Y(1), Li Z(1).
+
+Author information:
+(1)CAMS Key Laboratory of Antiviral Drug Research, Institute of Medicinal 
+Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical 
+College, Beijing 100050, China.
+
+Synthetic nucleoside or nucleotide analogues played a key role to the 
+development of antiviral agents in past decades. However, low membrane 
+permeability and insufficient cellular phosphorylation impaired the biological 
+activity of polar nucleoside drugs because they have to penetrate the cell 
+membrane and be phosphorylated to active metabolite in stepwise by intracellular 
+enzymes. To overcome these limitations, diverse lipophilic prodrug modifications 
+based on nucleoside mono-, di-, and triphosphate were designed and put into 
+practice to efficiently deliver nucleoside into the target site, and bypass the 
+rate-limited phosphorylation step. As the most successful prodrug strategy, 
+ProTide technology has led to the discovery of three FDA-approved antiviral 
+agents including sofosbuvir, tenofovir alafenadmide, and remdesivir which has 
+been authorized for emergency use in patients of COVID-19 in the US. In recent 
+years, nucleoside di- and triphosphate prodrugs have also made the significant 
+progress. This review will focus on the summary of design approach and metabolic 
+activation path of different nucleotide prodrug strategies. The potential 
+application of nucleotide prodrugs for treatment of COVID-19 was also described 
+due to the pandemic of SARS-CoV-2.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1568026621666210728094019
+PMID: 34323189

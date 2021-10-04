@@ -1,0 +1,54 @@
+1. Clin Infect Dis. 2021 May 18;72(10):e558-e565. doi: 10.1093/cid/ciaa1268.
+
+Patient Characteristics and Outcomes of 11 721 Patients With Coronavirus Disease 
+2019 (COVID-19) Hospitalized Across the United States.
+
+Fried MW(1), Crawford JM(1), Mospan AR(1), Watkins SE(1), Munoz B(1), Zink 
+RC(1), Elliott S(2), Burleson K(1), Landis C(3), Reddy KR(4), Brown RS(5).
+
+Author information:
+(1)TARGET PharmaSolutions Inc., Durham, North Carolina, USA.
+(2)Elliott Health Information Pros Inc., Cary, North Carolina, USA.
+(3)Liver Care and Transplantation Services at University of Washington Medical 
+Center, Seattle, Washington, USA.
+(4)Department of Medicine, University of Pennsylvania, Philadelphia, 
+Pennsylvania, USA.
+(5)Department of Medicine, Division of Gastroenterology and Hepatology, Weill 
+Cornell Medicine Center for Liver Disease, New York, New York, USA.
+
+Comment in
+    Clin Infect Dis. 2021 Jun 1;72(11):e928.
+    Clin Infect Dis. 2021 Jun 1;72(11):e929.
+
+BACKGROUND: As coronavirus disease 2019 (COVID-19) disseminates throughout the 
+United States, a better understanding of the patient characteristics associated 
+with hospitalization, morbidity, and mortality in diverse geographic regions is 
+essential.
+METHODS: Hospital chargemaster data on adult patients with COVID-19 admitted to 
+245 hospitals across 38 states between 15 February and 20 April 2020 were 
+assessed. The clinical course from admission, through hospitalization, and to 
+discharge or death was analyzed.
+RESULTS: A total of 11 721 patients were included (majority were >60 years of 
+age [59.9%] and male [53.4%]). Comorbidities included hypertension (46.7%), 
+diabetes (27.8%), cardiovascular disease (18.6%), obesity (16.1%), and chronic 
+kidney disease (12.2%). Mechanical ventilation was required by 1967 patients 
+(16.8%). Mortality among hospitalized patients was 21.4% and increased to 70.5% 
+among those on mechanical ventilation. Male sex, older age, obesity, geographic 
+region, and the presence of chronic kidney disease or a preexisting 
+cardiovascular disease were associated with increased odds of mechanical 
+ventilation. All aforementioned risk factors, with the exception of obesity, 
+were associated with increased odds of death (all P values < .001). Many 
+patients received investigational medications for treatment of COVID-19, 
+including 48 patients on remdesivir and 4232 on hydroxychloroquine.
+CONCLUSIONS: This large observational cohort describes the clinical course and 
+identifies factors associated with the outcomes of hospitalized patients with 
+COVID-19 across the United States. These data can inform strategies to 
+prioritize prevention and treatment for this disease.
+
+© The Author(s) 2020. Published by Oxford University Press for the Infectious 
+Diseases Society of America. All rights reserved. For permissions, e-mail: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciaa1268
+PMCID: PMC7499515
+PMID: 32856034 [Indexed for MEDLINE]

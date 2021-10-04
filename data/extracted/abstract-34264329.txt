@@ -1,0 +1,81 @@
+1. JAMA Netw Open. 2021 Jul 1;4(7):e2114741. doi: 
+10.1001/jamanetworkopen.2021.14741.
+
+Association of Remdesivir Treatment With Survival and Length of Hospital Stay 
+Among US Veterans Hospitalized With COVID-19.
+
+Ohl ME(1)(2), Miller DR(3)(4), Lund BC(1), Kobayashi T(1)(2), Richardson Miell 
+K(1), Beck BF(1), Alexander B(1), Crothers K(5)(6), Vaughan Sarrazin MS(1)(2).
+
+Author information:
+(1)Center for Access & Delivery Research and Evaluation, Iowa City Veterans 
+Affairs (VA) Health Care System, Iowa City.
+(2)Department of Internal Medicine, Carver College of Medicine, University of 
+Iowa, Iowa City.
+(3)Center for Healthcare Organization & Implementation Research, VA Bedford 
+Health Care System, Bedford, Massachusetts.
+(4)Center for Population Health, Department of Biomedical & Nutritional 
+Sciences, University of Massachusetts, Lowell.
+(5)VA Puget Sound Health Care System, Seattle, Washington.
+(6)Department of Internal Medicine, University of Washington, Seattle.
+
+Comment in
+    doi: 10.1001/jamanetworkopen.2021.16057.
+
+IMPORTANCE: Randomized clinical trials have yielded conflicting results about 
+the effects of remdesivir therapy on survival and length of hospital stay among 
+people with COVID-19.
+OBJECTIVE: To examine associations between remdesivir treatment and survival and 
+length of hospital stay among people hospitalized with COVID-19 in routine care 
+settings.
+DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study used data 
+from the Veterans Health Administration (VHA) to identify adult patients in 123 
+VHA hospitals who had a first hospitalization with laboratory-confirmed COVID-19 
+from May 1 to October 8, 2020. Propensity score matching of patients initiating 
+remdesivir treatment to control patients who had not initiated remdesivir 
+treatment by the same hospital day was used to create the analytic cohort.
+EXPOSURES: Remdesivir treatment.
+MAIN OUTCOMES AND MEASURES: Time to death within 30 days of remdesivir treatment 
+initiation (or corresponding hospital day for matched control individuals) and 
+time to hospital discharge with time to death as a competing event. Associations 
+between remdesivir treatment and these outcomes were assessed using Cox 
+proportional hazards regression in the matched cohort.
+RESULTS: The initial cohort included 5898 patients admitted to 123 hospitals, 
+2374 (40.3%) of whom received remdesivir treatment (2238 men [94.3%]; mean [SD] 
+age, 67.8 [12.8] years) and 3524 (59.7%) of whom never received remdesivir 
+treatment (3302 men [93.7%]; mean [SD] age, 67.0 [14.4] years). After propensity 
+score matching, the analysis included 1172 remdesivir recipients and 1172 
+controls, for a final matched cohort of 2344 individuals. Remdesivir recipients 
+and matched controls were similar with regard to age (mean [SD], 66.6 [14.2] 
+years vs 67.5 [14.1] years), sex (1101 men [93.9%] vs 1101 men [93.9%]), 
+dexamethasone use (559 [47.7%] vs 559 [47.7%]), admission to the intensive care 
+unit (242 [20.7%] vs 234 [19.1%]), and mechanical ventilation use (69 [5.9%] vs 
+45 [3.8%]). Standardized differences were less than 10% for all measures. 
+Remdesivir treatment was not associated with 30-day mortality (143 remdesivir 
+recipients [12.2%] vs 124 controls [10.6%]; log rank P = .26; adjusted hazard 
+ratio [HR], 1.06; 95% CI, 0.83-1.36). Results were similar for people receiving 
+vs not receiving dexamethasone at remdesivir initiation (dexamethasone 
+recipients: adjusted HR, 0.93; 95% CI, 0.64-1.35; nonrecipients: adjusted HR, 
+1.19; 95% CI, 0.84-1.69). Remdesivir recipients had a longer median time to 
+hospital discharge compared with matched controls (6 days [interquartile range, 
+4-12 days] vs 3 days [interquartile range, 1-7 days]; P < .001).
+CONCLUSIONS AND RELEVANCE: In this cohort study of US veterans hospitalized with 
+COVID-19, remdesivir treatment was not associated with improved survival but was 
+associated with longer hospital stays. Routine use of remdesivir may be 
+associated with increased use of hospital beds while not being associated with 
+improvements in survival.
+
+DOI: 10.1001/jamanetworkopen.2021.14741
+PMCID: PMC8283561
+PMID: 34264329 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Ohl 
+reported receiving grants from Veterans Affairs Health Services Research and 
+Development during the conduct of the study and consulting for Gilead 
+Pharmaceuticals outside the submitted work. Dr Lund reported receiving grants 
+from the US Department of Veterans Affairs during the conduct of the study. Mr 
+Beck reported receiving grants from the Veterans Health Administration during 
+the conduct of the study. Dr Alexander reported receiving grants from the US 
+Department of Veterans Affairs during the conduct of the study and serving as a 
+contract data manager for the Iowa City Veterans Affairs Medical Center Research 
+Department outside the submitted work. No other disclosures were reported.

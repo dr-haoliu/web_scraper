@@ -1,0 +1,47 @@
+1. Am J Health Syst Pharm. 2021 Mar 31;78(8):732-735. doi: 10.1093/ajhp/zxab009.
+
+Developing statewide remdesivir use criteria.
+
+Fox ER(1), Shah M(2), Vinik R(3), Brown S(4), Buckel W(5), Webb B(6), Zarndt 
+J(7), Evans M(8), Mesdaghi P(9), Imlay HN(10), Spivak ES(10).
+
+Author information:
+(1)University of Utah, Drug Information Service, Salt Lake City, UT, USA.
+(2)Utah Hospital Association, Intermountain Disaster Preparedness, Utah 
+Emergency Physicians, Salt Lake City, UT, USA.
+(3)University of Utah, University of Utah Health, Salt Lake City, UT, USA.
+(4)Intermountain Medical Center, Shock Trauma ICU, Murray, UT, USA.
+(5)Intermountain Healthcare, Department of Pharmacy, Taylorsville, UT, USA.
+(6)Intermountain Medical Center, Murray, UT, USA.
+(7)HCA Healthcare, Cottonwood Heights, UT, USA.
+(8)St. Mark's Hospital, Salt Lake City, UT, USA.
+(9)Jordan Valley Medical Center, Steward Health Care, West Jordan, UT, USA.
+(10)University of Utah Health, Salt Lake City, UT, USA.
+
+PURPOSE: This report describes our process of 4 health systems coming together 
+to agree on standard use criteria for remdesivir as a coronavirus disease 2019 
+(COVID-19) treatment for patients in Utah. We hope our process provides a 
+framework for remdesivir use in other states and insights on future use of other 
+therapeutic agents that may also be in short supply, such as vaccines and 
+monoclonal antibodies.
+SUMMARY: Emergency use authorization (EUA) criteria for COVID-19 treatments 
+often allow for broad use of a treatment relative to limited supplies. Without 
+national criteria, each health system must develop further rationing criteria. 
+Health systems in Utah worked together as part of the state's crisis standards 
+of care workgroup to develop a framework for how to limit the EUA criteria for 
+remdesivir to match available supplies. The 4 largest health systems were 
+represented by infectious diseases specialists, chief medical officers, and 
+pharmacists. The group met several times online and communicated via email over 
+a 9-day period to develop the criteria. The clinicians agreed to use this 
+framework to develop criteria for future therapeutics such as monoclonal 
+antibodies.
+CONCLUSION: The unique collaboration of the 4 health systems in Utah led to 
+statewide criteria for use of remdesivir for patients with COVID-19, ensuring 
+similar access to this limited resource for all patients in Utah.
+
+© American Society of Health-System Pharmacists 2021. All rights reserved. For 
+permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/ajhp/zxab009
+PMCID: PMC7929409
+PMID: 33483744 [Indexed for MEDLINE]

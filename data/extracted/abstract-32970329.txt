@@ -1,0 +1,36 @@
+1. J Med Virol. 2021 Mar;93(3):1702-1721. doi: 10.1002/jmv.26548. Epub 2020 Oct 8.
+
+Genomic and proteomic mutation landscapes of SARS-CoV-2.
+
+Badua CLDC(1), Baldo KAT(1), Medina PMB(1).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, Biological Models 
+Laboratory, University of the Philippines Manila, Ermita, Manila, Philippines.
+
+The ongoing pandemic caused by a novel coronavirus, Severe Acute Respiratory 
+Syndrome Coronavirus 2 (SARS-CoV-2), affects thousands of people every day 
+worldwide. Hence, drugs and vaccines effective against all variants of 
+SARS-CoV-2 are crucial today. Viral genome mutations exist commonly which may 
+impact the encoded proteins, possibly resulting to varied effectivity of 
+detection tools and disease treatment. Thus, this study surveyed the SARS-CoV-2 
+genome and proteome and evaluated its mutation characteristics. Phylogenetic 
+analyses of SARS-CoV-2 genes and proteins show three major clades and one minor 
+clade (P6810S; ORF1ab). The overall frequency and densities of mutations in the 
+genes and proteins of SARS-CoV-2 were observed. Nucleocapsid exhibited the 
+highest mutation density among the structural proteins while the spike D614G was 
+the most common, occurring mostly in genomes outside China and United States. 
+ORF8 protein had the highest mutation density across all geographical areas. 
+Moreover, mutation hotspots neighboring and at the catalytic site of 
+RNA-dependent RNA polymerase were found that might challenge the binding and 
+effectivity of remdesivir. Mutation coldspots may present as conserved 
+diagnostic and therapeutic targets were found in ORF7b, ORF9b, and ORF14. These 
+findings suggest that the virion's genotype and phenotype in a specific 
+population should be considered in developing diagnostic tools and treatment 
+options.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1002/jmv.26548
+PMCID: PMC7537117
+PMID: 32970329 [Indexed for MEDLINE]

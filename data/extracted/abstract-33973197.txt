@@ -1,0 +1,40 @@
+1. Adv Exp Med Biol. 2021;1318:499-515. doi: 10.1007/978-3-030-63761-3_29.
+
+Dietary Supplements for COVID-19.
+
+Mullin GE(1)(2), Limektkai B(3), Wang L(4), Hanaway P(5), Marks L(6), 
+Giovannucci E(7).
+
+Author information:
+(1)The Johns Hopkins School of Medicine, Baltimore, MD, USA. gmullin1@jhmi.edu.
+(2)Department of Medicine, Johns Hopkins Hospital, Baltimore, MD, USA. 
+gmullin1@jhmi.edu.
+(3)The University of California Los Angeles School of Medicine, Los Angeles, CA, 
+USA.
+(4)The Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+(5)Cleveland Clinic Center for Functional Medicine, Cleveland, OH, USA.
+(6)Integrative Nutrition, New York, NY, USA.
+(7)The Harvard TH Chan School of Public Health, Boston, MA, USA.
+
+Coronavirus disease 2019 (COVID-19) is a highly contagious infectious disease 
+that can rapidly escalate to respiratory failure and death. It has infected 
+millions of people worldwide. The trajectory of this disease continues to 
+progress in some areas of the United States and worldwide. The Institute for 
+Health Metrics now predicts a resurgence of infections in the fall of 2020. The 
+pathogenesis of COVID-19 includes an inflammatory phase with either resolution 
+or the potential to accelerate to a cytokine storm, characterized by high 
+interleukin (IL)-6 and other inflammatory markers. COVID-19 is a condition 
+without a gold-standard treatment. The US Federal Drug Administration (FDA) 
+issued an emergency use authorization for remdesivir in severe cases of 
+COVID-19, which shortened the recovery time in hospitalized patients with lower 
+respiratory tract infection in one study. Although several vaccine trials are 
+underway, no vaccines are available for primary prevention of COVID-19 at this 
+time. Dietary supplement sales have dramatically risen during the COVID-19 
+pandemic despite depressed economic conditions. Commonly used immune-modulating 
+dietary supplements, including vitamin D, ascorbic acid, zinc, and melatonin, 
+are reviewed in this manuscript highlighting biological plausibility for 
+salutary benefit against COVID-19. Ongoing clinical trials recruiting subjects 
+at the time of this writing are provided for each dietary supplement.
+
+DOI: 10.1007/978-3-030-63761-3_29
+PMID: 33973197 [Indexed for MEDLINE]

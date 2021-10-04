@@ -1,0 +1,24 @@
+1. Cardiol Rev. 2020 Nov/Dec;28(6):332-334. doi: 10.1097/CRD.0000000000000337.
+
+A Review of Remdesivir for COVID-19: Data to Date.
+
+Mehta M(1), Shyh GI.
+
+Author information:
+(1)From the Department of Pharmacy, New York-Presbyterian Hospital, New York, 
+NY.
+
+Comment in
+    Cardiol Rev. 2020 Nov/Dec;28(6):273-274.
+
+Severe acute respiratory coronavirus-2 (SARS-CoV-2) is responsible for one of 
+the greatest public health challenges of our lifetime, the coronavirus disease 
+2019 (COVID-19) pandemic. Because of the complicated postinfection sequelae and 
+grave consequences, the search for effective therapies has become a worldwide 
+priority. The antiviral agent remdesivir has become a viable option and is now 
+available in the United States for hospitalized patients through an emergency 
+use authorization. This article describes remdesivir's historical background, 
+pharmacology, key trials, adverse events, and issues regarding accessibility.
+
+DOI: 10.1097/CRD.0000000000000337
+PMID: 32773440 [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+1. J Pharm Pharm Sci. 2021;24:277-291. doi: 10.18433/jpps32011.
+
+Simulation of Remdesivir Pharmacokinetics and Its Drug Interactions.
+
+Deb S(1), Reeves AA(1).
+
+Author information:
+(1)Department of Pharmaceutical Sciences, College of Pharmacy, Larkin 
+University, Miami, FL, USA.
+
+PURPOSE: Remdesivir, a drug originally developed against Ebola virus, is 
+currently recommended for patients hospitalized with coronavirus disease of 2019 
+(COVID-19). In spite of United States Food and Drug Administration's recent 
+assent of remdesivir as the only approved agent for COVID-19, there is limited 
+information available about the physicochemical, metabolism, transport, 
+pharmacokinetic (PK), and drug-drug interaction (DDI) properties of this drug. 
+The objective of this in silico simulation work was to simulate the 
+biopharmaceutical and DDI behavior of remdesivir and characterize remdesivir PK 
+properties in special populations which are highly affected by COVID-19.
+METHODS: The Spatial Data File format structures of remdesivir prodrug (GS-5734) 
+and nucleoside core (GS-441524) were obtained from the PubChem database to 
+upload into the GastroPlus software 9.8 version (Simulations Plus Inc., USA). 
+The Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) 
+Predictor and PKPlus modules of GastroPlus were used to simulate physicochemical 
+and PK properties, respectively, in healthy and predisposed patients. 
+Physiologically based pharmacokinetic (PBPK) modeling of GastroPlus was used to 
+simulate different patient populations based on age, weight, liver function, and 
+renal function status. Subsequently, these data were used in the Drug-Drug 
+Interaction module to simulate drug interaction potential of remdesivir with 
+other COVID-19 drug regimens and with agents used for comorbidities.
+RESULTS: Remdesivir nucleoside core (GS-441524) is more hydrophilic than the 
+inactive prodrug (GS-5734) with nucleoside core demonstrating better water 
+solubility. GS-5734, but not GS-441524, is predicted to be metabolized by 
+CYP3A4. Remdesivir is bioavailable and its clearance is achieved through hepatic 
+and renal routes. Differential effects of renal function, liver function, 
+weight, or age were observed on the PK profile of remdesivir. DDI simulation 
+study of remdesivir with perpetrator drugs for comorbidities indicate that 
+carbamazepine, phenytoin, amiodarone, voriconazole, diltiazem, and verapamil 
+have the potential for strong interactions with victim remdesivir, whereas 
+agents used for COVID-19 treatment such as chloroquine and ritonavir can cause 
+weak and strong interactions, respectively, with remdesivir.
+CONCLUSIONS: GS-5734 (inactive prodrug) appears to be a superior remdesivir 
+derivative due to its hepatic stability, optimum hydrophilic/lipophilic balance, 
+and disposition properties. Remdesivir disposition can potentially be affected 
+by different physiological and pathological conditions, and by drug interactions 
+from COVID-19 drug regimens and agents used for comorbidities.
+
+DOI: 10.18433/jpps32011
+PMID: 34107241 [Indexed for MEDLINE]

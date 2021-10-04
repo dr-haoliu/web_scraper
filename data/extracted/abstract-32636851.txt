@@ -1,0 +1,44 @@
+1. Front Immunol. 2020 Jun 19;11:1451. doi: 10.3389/fimmu.2020.01451. eCollection 
+2020.
+
+Quercetin and Vitamin C: An Experimental, Synergistic Therapy for the Prevention 
+and Treatment of SARS-CoV-2 Related Disease (COVID-19).
+
+Colunga Biancatelli RML(1)(2)(3), Berrill M(4), Catravas JD(1)(2)(5), Marik 
+PE(1).
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, Eastern Virginia Medical 
+School, Norfolk, VA, United States.
+(2)Frank Reidy Research Center for Bioelectrics, Old Dominion University, 
+Norfolk, VA, United States.
+(3)Policlinico Umberto I, La Sapienza University of Rome, Rome, Italy.
+(4)Department of Respiratory Medicine, St. Peter's Hospital, Surrey, United 
+Kingdom.
+(5)School of Medical Diagnostic & Translational Sciences, College of Health 
+Sciences, Old Dominion University, Norfolk, VA, United States.
+
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) represents an 
+emergent global threat which is straining worldwide healthcare capacity. As of 
+May 27th, the disease caused by SARS-CoV-2 (COVID-19) has resulted in more than 
+340,000 deaths worldwide, with 100,000 deaths in the US alone. It is imperative 
+to study and develop pharmacological treatments suitable for the prevention and 
+treatment of COVID-19. Ascorbic acid is a crucial vitamin necessary for the 
+correct functioning of the immune system. It plays a role in stress response and 
+has shown promising results when administered to the critically ill. Quercetin 
+is a well-known flavonoid whose antiviral properties have been investigated in 
+numerous studies. There is evidence that vitamin C and quercetin 
+co-administration exerts a synergistic antiviral action due to overlapping 
+antiviral and immunomodulatory properties and the capacity of ascorbate to 
+recycle quercetin, increasing its efficacy. Safe, cheap interventions which have 
+a sound biological rationale should be prioritized for experimental use in the 
+current context of a global health pandemic. We present the current evidence for 
+the use of vitamin C and quercetin both for prophylaxis in high-risk populations 
+and for the treatment of COVID-19 patients as an adjunct to promising 
+pharmacological agents such as Remdesivir or convalescent plasma.
+
+Copyright © 2020 Colunga Biancatelli, Berrill, Catravas and Marik.
+
+DOI: 10.3389/fimmu.2020.01451
+PMCID: PMC7318306
+PMID: 32636851 [Indexed for MEDLINE]

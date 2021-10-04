@@ -1,0 +1,59 @@
+1. J Clin Med Res. 2021 Mar;13(3):184-190. doi: 10.14740/jocmr4452. Epub 2021 Mar 
+19.
+
+Declining Intensive Care Unit Mortality of COVID-19: A Multi-Center Study.
+
+Roomi S(1), Shah SO(2), Ullah W(1), Abedin SU(1), Butler K(3), Schiers K(4), 
+Kohl B(5), Yoo E(6), Vibbert M(2), Jallo J(2).
+
+Author information:
+(1)Department of Medicine, Abington Hospital, Jefferson Health, Philadelphia, 
+PA, USA.
+(2)Department of Neurological Surgery, Vickie and Jack Farber Institute for 
+Neuroscience, Thomas Jefferson University, Philadelphia, PA, USA.
+(3)Department of Surgery, Division of Surgical Critical Care, Abington Hospital, 
+Jefferson Health, Philadelphia, PA, USA.
+(4)Department of Medicine, Jefferson Health New Jersey, Washington Township, NJ, 
+USA.
+(5)Department of Anesthesiology, Aria-Jefferson Health, Philadelphia, PA, USA.
+(6)Department of Medicine, Thomas Jefferson University, Philadelphia, PA, USA.
+
+BACKGROUND: Coronavirus disease 2019 (COVID-19) mortality has waned 
+significantly over time; however, factors contributing towards this reduction 
+largely remain unidentified. The purpose of this study was to evaluate the trend 
+in mortality at our large tertiary academic health system and factors 
+contributing to this trend.
+METHODS: This is a retrospective cohort study of intensive care unit (ICU) 
+patients diagnosed with COVID-19 between March and August 2020 admitted across 
+14 hospitals in the Philadelphia area. Collected data included demographics, 
+comorbidities, admission risk of mortality score, laboratory values, medical 
+interventions, survival outcomes, hospital and ICU length of stay (LOS) and 
+discharge disposition. Chi-square (χ2) test, Fisher exact test, 
+Cochran-Mantel-Haenszel method, multinomial logistic regression models, 
+independent sample t-test, Mann-Whitney U test and one-way analysis of variance 
+(ANOVA) were used.
+RESULTS: A total of 1,204 patients were included. Overall mortality was 39%. 
+Mortality declined significantly from 46% in March to 14% in August 2020 (P < 
+0.05). The most common underlying comorbidities were hypertension (60.2%), 
+diabetes mellitus (44.7%), dyslipidemia (31.6%) and congestive heart failure 
+(14.7%). Hydroxychloroquine (HCQ) use was more commonly associated with the 
+patients who died, while the use of remdesivir, tocilizumab, steroids and 
+duration of these medications were not significantly different. Peak values of 
+ferritin, lactate dehydrogenase (LDH), C-reactive protein (CRP) and D-dimer 
+levels were significantly higher in patients who died (P < 0.05). The mean 
+hospital LOS was significantly longer in the patients who survived compared to 
+the patients who died (18 vs. 12, P < 0.05).
+CONCLUSIONS: The mortality of patients admitted to our ICU system significantly 
+decreased over time. Factors that may have contributed to this may be the result 
+of a better understanding of COVID-19 pathophysiology and treatments. Further 
+research is needed to elucidate the factors contributing to a reduction in the 
+mortality rate for this patient population.
+
+Copyright 2021, Roomi et al.
+
+DOI: 10.14740/jocmr4452
+PMCID: PMC8016522
+PMID: 33854659
+
+Conflict of interest statement: There are no conflicts of interest disclosed by 
+any of the authors associated with this manuscript.

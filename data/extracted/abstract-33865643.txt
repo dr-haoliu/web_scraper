@@ -1,0 +1,62 @@
+1. Clin Ther. 2021 May;43(5):871-885. doi: 10.1016/j.clinthera.2021.03.016. Epub 
+2021 Mar 29.
+
+Machine Learning as a Precision-Medicine Approach to Prescribing COVID-19 
+Pharmacotherapy with Remdesivir or Corticosteroids.
+
+Lam C(1), Siefkas A(2), Zelin NS(1), Barnes G(1), Dellinger RP(3), Vincent 
+JL(4), Braden G(5), Burdick H(6), Hoffman J(1), Calvert J(1), Mao Q(1), Das 
+R(1).
+
+Author information:
+(1)Dascena Inc, Houston, Texas.
+(2)Dascena Inc, Houston, Texas. Electronic address: asiefkas@dascena.com.
+(3)Division of Critical Care Medicine, Cooper University Hospital/Cooper Medical 
+School, Rowan University, Camden, New Jersey.
+(4)Department of Intensive Care, Erasme University Hospital, Université Libre, 
+Brussels, Belgium.
+(5)Kidney Care and Transplant Associates of New England, Springfield, 
+Massachusetts.
+(6)Cabell Huntington Hospital, Huntington, West Virginia; School of Medicine, 
+Marshall University, Huntington, West Virginia.
+
+PURPOSE: Coronavirus disease-2019 (COVID-19) continues to be a global threat and 
+remains a significant cause of hospitalizations. Recent clinical guidelines have 
+supported the use of corticosteroids or remdesivir in the treatment of COVID-19. 
+However, uncertainty remains about which patients are most likely to benefit 
+from treatment with either drug; such knowledge is crucial for avoiding 
+preventable adverse effects, minimizing costs, and effectively allocating 
+resources. This study presents a machine-learning system with the capacity to 
+identify patients in whom treatment with a corticosteroid or remdesivir is 
+associated with improved survival time.
+METHODS: Gradient-boosted decision-tree models used for predicting treatment 
+benefit were trained and tested on data from electronic health records dated 
+between December 18, 2019, and October 18, 2020, from adult patients (age ≥18 
+years) with COVID-19 in 10 US hospitals. Models were evaluated for performance 
+in identifying patients with longer survival times when treated with a 
+corticosteroid versus remdesivir. Fine and Gray proportional-hazards models were 
+used for identifying significant findings in treated and nontreated patients, in 
+a subset of patients who received supplemental oxygen, and in patients 
+identified by the algorithm. Inverse probability-of-treatment weights were used 
+to adjust for confounding. Models were trained and tested separately for each 
+treatment.
+FINDINGS: Data from 2364 patients were included, with men comprising slightly 
+more than 50% of the sample; 893 patients were treated with remdesivir, and 1471 
+were treated with a corticosteroid. After adjustment for confounding, neither 
+corticosteroids nor remdesivir use was associated with increased survival time 
+in the overall population or in the subpopulation that received supplemental 
+oxygen. However, in the populations identified by the algorithms, both 
+corticosteroids and remdesivir were significantly associated with an increase in 
+survival time, with hazard ratios of 0.56 and 0.40, respectively (both, 
+P = 0.04).
+IMPLICATIONS: Machine-learning methods have the capacity to identify 
+hospitalized patients with COVID-19 in whom treatment with a corticosteroid or 
+remdesivir is associated with an increase in survival time. These methods may 
+help to improve patient outcomes and allocate resources during the COVID-19 
+crisis.
+
+Copyright © 2021 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.clinthera.2021.03.016
+PMCID: PMC8006198
+PMID: 33865643 [Indexed for MEDLINE]

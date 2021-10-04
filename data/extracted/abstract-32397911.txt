@@ -1,0 +1,37 @@
+1. Ther Deliv. 2020 Apr;11(4):245-268. doi: 10.4155/tde-2020-0035. Epub 2020 May 
+12.
+
+COVID-19 pandemic: an overview of epidemiology, pathogenesis, diagnostics and 
+potential vaccines and therapeutics.
+
+Amawi H(1), Abu Deiab GI(2), A Aljabali AA(3), Dua K(4), Tambuwala MM(5).
+
+Author information:
+(1)Faculty of Pharmacy, Department of Pharmacy Practice, Yarmouk University, 
+Irbid-Jordan.
+(2)Faculty of Pharmacy, Department of Medicinal Chemistry & Pharmacognosy, 
+Yarmouk University, Irbid-Jordan.
+(3)Faculty of Pharmacy, Department of Pharmaceutics & Pharmaceutical Technology, 
+Yarmouk University, Irbid-Jordan.
+(4)Discipline of Pharmacy, Graduate School of Health, University of Technology 
+Sydney, Ultimo, NSW 2007, Australia.
+(5)School of Pharmacy & Pharmaceutical Sciences, Ulster University, Coleraine, 
+County Londonderry, BT52 1SA, Northern Ireland, UK.
+
+At the time of writing this review, severe acute respiratory coronavirus 
+syndrome-2 (SARS-CoV-2) has infected more than 2,355,853 patients and resulted 
+in more than 164,656 deaths worldwide (as of 20 April 2020). This review 
+highlights the preventive measures, available clinical therapies and the 
+potential of vaccine development against SARS-CoV-2 by taking into consideration 
+the strong genetic similarities of the 2003 epidemic SARS-CoV. Recent studies 
+are investigating the repurposing of US FDA-approved drugs as there is no 
+available vaccine yet with many attempts under clinical evaluation. Several 
+antivirals, antimalarials and immunomodulators that have shown activity against 
+SARS-CoV and Middle East coronavirus respiratory syndromes are being evaluated. 
+In particular, hydroxychloroquine, remdesivir, favipiravir, arbidol, tocilizumab 
+and bevacizumab have shown promising results. The main aim of this review is to 
+provide an overview of this pandemic and where we currently stand.
+
+DOI: 10.4155/tde-2020-0035
+PMCID: PMC7222554
+PMID: 32397911 [Indexed for MEDLINE]

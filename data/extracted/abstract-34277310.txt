@@ -1,0 +1,58 @@
+1. Cureus. 2021 Jul 13;13(7):e16351. doi: 10.7759/cureus.16351. eCollection 2021 
+Jul.
+
+The Use of Single Therapy With Tocilizumab Versus Combination Therapy With 
+Remdesivir and Tocilizumab in SARS-CoV-2 Patients in El Paso, Texas.
+
+Almaghlouth NK(1)(2), Anyiam FE(3), Shah S(2), Haq S(2), Attia MJ(4), Guevara 
+R(5), Antony S(6)(2).
+
+Author information:
+(1)Department of Medicine, MountainView Regional Medical Center, Las Cruces, 
+USA.
+(2)Department of Medicine, Burrell College of Osteopathic Medicine, Las Cruces, 
+USA.
+(3)Centre for Health and Development (CHD), University of Port Harcourt, Port 
+Harcourt, NGA.
+(4)Department of Emergency Medicine, Kasr Alainy University Hospitals, Cairo, 
+EGY.
+(5)Department of Clinical Pharmacy, The Hospitals of Providence Transmountain 
+Campus, El Paso, USA.
+(6)Department of Medicine, Texas Tech University Health Sciences Center, El 
+Paso, USA.
+
+BACKGROUND: Currently, the management of SARS-CoV-2 varies with no definitive 
+clinical guidelines, as scientific evidence across the globe differs in 
+therapeutic options. This study intended to provide some clarity to the 
+insufficient data based on the role of monotherapy with tocilizumab (TCZ) and 
+combination therapy with remdesivir (RDV) and TCZ among patients with SARS-CoV-2 
+infection in El Paso, Texas. We evaluated the use of each therapy in the 
+presence of steroids as the standard of care.
+METHODS:  One hundred and fifty-four SARS-CoV-2-infected patients from four 
+different medical centers in El Paso, Texas, were screened, with 113 eligible 
+for this longitudinal comparative observational study (February 1, 2020 to 
+October 31, 2020). Group 1 (80 patients) received TCZ in the first 24 hours 
+following admission, then methylprednisolone for the next 72 hours and group 2 
+(33 patients) were given TCZ as detailed in the single therapy group, plus RDV 
+within the first 24 hours. Mann Whitney U test assessed median differences in 
+laboratory biomarkers and Bivariate Logistic Regression assessed the odds of 
+risk. An observation is considered statistically significant when P-value is 
+≤0.05.
+RESULTS: Patients in group 1 had a statistically significant lower odds for 
+ventilation use than group 2 (OR=0.34, 95%CI=0.12-0.95, p=0.034), although no 
+statistically significant difference in mortality outcomes was observed across 
+groups (OR=0.43, 95%CI:0.13-1.39, p=0.269).
+CONCLUSIONS: We concluded that the use of TCZ in SARS-CoV-2-infected patients in 
+El Paso, with or without RDV, reported no mortality benefit. However, some 
+minimal/non-use of ventilation benefit was observed in group 1. Nonetheless, a 
+randomized controlled trial study is recommended to ultimately determine the 
+combination role of TCZ and RDV among this highly vulnerable group of patients.
+
+Copyright © 2021, Almaghlouth et al.
+
+DOI: 10.7759/cureus.16351
+PMCID: PMC8276197
+PMID: 34277310
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

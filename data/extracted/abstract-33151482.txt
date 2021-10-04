@@ -1,0 +1,62 @@
+1. Drugs. 2020 Dec;80(18):1961-1972. doi: 10.1007/s40265-020-01424-7.
+
+Pharmacotherapy for Hospitalized Patients with COVID-19: Treatment Patterns by 
+Disease Severity.
+
+Lin KJ(1)(2), Schneeweiss S(3), Tesfaye H(3), D'Andrea E(3), Liu J(3), Lii J(3), 
+Murphy SN(4)(5), Gagne JJ(3).
+
+Author information:
+(1)Division of Pharmacoepidemiology and Pharmacoeconomics, Department of 
+Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, USA. 
+jklin@bwh.harvard.edu.
+(2)Department of Medicine, Massachusetts General Hospital and Harvard Medical 
+School, Boston, MA, USA. jklin@bwh.harvard.edu.
+(3)Division of Pharmacoepidemiology and Pharmacoeconomics, Department of 
+Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, USA.
+(4)Mass General Brigham Research Information Science and Computing, Boston, MA, 
+USA.
+(5)Department of Neurology, Massachusetts General Hospital and Harvard Medical 
+School, Boston, USA.
+
+BACKGROUND: Treatment decisions for Coronavirus Disease 2019 (COVID-19) depend 
+on disease severity, but the prescribing pattern by severity and drivers of 
+therapeutic choices remain unclear.
+OBJECTIVES: The objectives of the study were to evaluate pharmacological 
+treatment patterns by COVID-19 severity and identify the determinants of 
+prescribing for COVID-19.
+METHODS: Using electronic health record data from a large Massachusetts-based 
+healthcare system, we identified all patients aged ≥ 18 years hospitalized with 
+laboratory-confirmed COVID-19 from 1 March to 24 May, 2020. We defined five 
+levels of COVID-19 severity at hospital admission: (1) hospitalized but not 
+requiring supplemental oxygen; (2-4) hospitalized and requiring oxygen ≤ 2, 3-4, 
+and ≥ 5 L per minute, respectively; and (5) intubated or admitted to an 
+intensive care unit. We assessed the medications used to treat COVID-19 or as 
+supportive care during hospitalization.
+RESULTS: Among 2821 patients hospitalized for COVID-19, we found inpatient 
+mortality increased by severity from 5% for level 1 to 23% for level 5. As 
+compared to patients with severity level 1, those with severity level 5 were 
+3.53 times (95% confidence interval 2.73-4.57) more likely to receive a 
+medication used to treat COVID-19. Other predictors of treatment were fever, low 
+oxygen saturation, presence of co-morbidities, and elevated inflammatory 
+biomarkers. The use of most COVID-19 relevant medications has dropped 
+substantially while the use of remdesivir and therapeutic anticoagulants has 
+increased over the study period.
+CONCLUSIONS: Careful consideration of disease severity and other determinants of 
+COVID-19 drug use is necessary for appropriate conduct and interpretation of 
+non-randomized studies evaluating outcomes of COVID-19 treatments.
+
+DOI: 10.1007/s40265-020-01424-7
+PMCID: PMC7643089
+PMID: 33151482 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Schneeweiss is participating in 
+investigator-initiated grants to the Brigham and Women’s Hospital from Bayer, 
+Vertex, and Boehringer Ingelheim unrelated to the topic of this study. He is a 
+consultant to Aetion Inc., a software manufacturer of which he owns equity. His 
+interests were declared, reviewed, and approved by the Brigham and Women’s 
+Hospital and Mass General Brigham System in accordance with their institutional 
+compliance policies. Dr. Gagne has received salary support from grants from Eli 
+Lilly and Company and Novartis Pharmaceuticals Corporation to the Brigham and 
+Women's Hospital and was a consultant to Optum, Inc., all for unrelated work. 
+Other authors have no conflict of interest to disclose.

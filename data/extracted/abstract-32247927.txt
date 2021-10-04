@@ -1,0 +1,43 @@
+1. Travel Med Infect Dis. 2020 May-Jun;35:101647. doi: 10.1016/j.tmaid.2020.101647. 
+Epub 2020 Apr 2.
+
+Remdesivir for severe acute respiratory syndrome coronavirus 2 causing COVID-19: 
+An evaluation of the evidence.
+
+Cao YC(1), Deng QX(1), Dai SX(2).
+
+Author information:
+(1)The Second Clinical School, Southern Medical University, Guangzhou, 510515, 
+Guangdong, China.
+(2)Department of Gastroenterology, Guangdong Provincial People's Hospital, 
+Guangdong Academy of Medical Sciences, South China University of Technology, 
+Guangzhou, 510080, Guangdong, China. Electronic address: shixuedai@hotmail.com.
+
+Comment in
+    Travel Med Infect Dis. 2020 Sep - Oct;37:101678.
+    Travel Med Infect Dis. 2020 May - Jun;35:101710.
+
+The novel coronavirus infection that initially found at the end of 2019 has 
+attracted great attention. So far, the number of infectious cases has increased 
+globally to more than 100 thousand and the outbreak has been defined as a 
+pandemic situation, but there are still no "specific drug" available. Relevant 
+reports have pointed out the novel coronavirus has 80% homology with SARS. In 
+the difficulty where new synthesized drug cannot be applied immediately to 
+patients, "conventional drug in new use" becomes a feasible solution. The first 
+medication experience of the recovered patients in the US has led remdesivir to 
+be the "specific drug". China has also taken immediate action to put remdesivir 
+into clinical trials with the purpose of applying it into clinical therapeutics 
+for Corona Virus Disease 2019 (COVID-19). We started from the structure, 
+immunogenicity, and pathogenesis of coronavirus infections of the novel 
+coronavirus. Further, we analyzed the pharmacological actions and previous 
+trials of remdesivir to identify the feasibility of conducting experiments on 
+COVID-19.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tmaid.2020.101647
+PMCID: PMC7151266
+PMID: 32247927 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+report no conflicts.

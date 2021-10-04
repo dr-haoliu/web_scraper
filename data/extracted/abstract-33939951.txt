@@ -1,0 +1,44 @@
+1. J Pharm Pharm Sci. 2021;24:210-219. doi: 10.18433/jpps31969.
+
+Clinical Outcomes of COVID-19 Patients Treated with Convalescent Plasma or 
+Remdesivir Alone and in Combination at a Community Hospital in California's 
+Central Valley.
+
+Padilla R(1), Arquiette J(1), Mai Y(2), Singh G(3), Galang K(4), Liang E(2).
+
+Author information:
+(1)San Joaquin General Hospital, French Camp, CA, USA.
+(2)University of the Pacific, Thomas J. Long School of Pharmacy, Stockton CA, 
+USA.
+(3)San Joaquin General Hospital, Department: Internal Medicine, French Camp, CA, 
+USA.
+(4)San Joaquin General Hospital, Department of Internal Medicine, French Camp, 
+CA, USA.
+
+PURPOSE: The purpose of this study was to compare how treatment with 
+convalescent plasma (CP) monotherapy, remdesivir (RDV) monotherapy, and 
+combination therapy (CP + RDV) in patients with COVID-19 affected clinical 
+outcomes.
+METHODS: Patients with COVID-19 infection who were admitted to the hospital 
+received CP, RDV, or combination of both. Mortality, discharge disposition, 
+hospital length of stay (LOS), intensive care unit (ICU) LOS, and total 
+ventilation days were compared between each treatment group and stratified by 
+ABO blood group. An exploratory analysis identified risk factors for mortality. 
+Adverse effects were also evaluated.
+RESULTS: RDV monotherapy showed an increased chance of survival compared to 
+combination therapy or CP monotherapy (p = 0.052). There were 15, 3, and 6 
+deaths in the CP, RDV, and combination therapy groups, respectively. The 
+combination therapy group had the longest median ICU LOS (8, IQR 4.5-15.5, p = 
+0.220) and hospital LOS (11, IQR 7-15.5, p = 0.175). Age (p = 0.036), initial 
+SOFA score (p = 0.013), and intubation (p = 0.005) were statistically 
+significant predictors of mortality. Patients with type O blood had decreased 
+ventilation days, ICU LOS, and total LOS. Thirteen treatment-related adverse 
+events occurred.
+CONCLUSION: No significant differences in clinical outcomes were observed 
+between patients treated with RDV, CP, or combination therapy. Elderly patients, 
+those with a high initial SOFA score, and those who require intubation are at 
+increased risk of mortality associated with COVID-19. Blood type did not affect 
+clinical outcomes.
+
+DOI: 10.18433/jpps31969
+PMID: 33939951 [Indexed for MEDLINE]

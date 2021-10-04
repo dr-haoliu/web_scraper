@@ -1,0 +1,79 @@
+1. Am J Transplant. 2020 Jul;20(7):1800-1808. doi: 10.1111/ajt.15941. Epub 2020 May 
+10.
+
+COVID-19 in solid organ transplant recipients: Initial report from the US 
+epicenter.
+
+Pereira MR(1), Mohan S(2)(3)(4), Cohen DJ(2), Husain SA(2)(3), Dube GK(2), 
+Ratner LE(5), Arcasoy S(6), Aversa MM(6), Benvenuto LJ(6), Dadhania DM(7), Kapur 
+S(8), Dove LM(9), Brown RS Jr(10), Rosenblatt RE(10), Samstein B(8), Uriel 
+N(11), Farr MA(11), Satlin M(12), Small CB(12), Walsh TJ(12), Kodiyanplakkal 
+RP(12), Miko BA(1), Aaron JG(1), Tsapepas DS(5), Emond JC(5), Verna EC(9).
+
+Author information:
+(1)Department of Medicine, Division of Infectious Disease, Columbia University 
+College of Physicians & Surgeons, New York, New York, USA.
+(2)Department of Medicine, Division of Nephrology, Columbia University College 
+of Physicians & Surgeons, New York, New York, USA.
+(3)The Columbia University Renal Epidemiology (CURE) Group, New York, New York, 
+USA.
+(4)Department of Epidemiology, Mailman School of Public Health, Columbia 
+University, New York, New York, USA.
+(5)Department of Surgery, Columbia University College of Physicians & Surgeons, 
+New York, New York, USA.
+(6)Lung Transplant Program, Division of Division of Pulmonary, Allergy and 
+Critical Care Medicine, Columbia University College of Physicians & Surgeons, 
+New York, New York, USA.
+(7)Department of Medicine, Division of Nephrology and Hypertension, Weill 
+Cornell Medicine, New York, New York, USA.
+(8)Department of Surgery, Division of Transplant Surgery, Weill Cornell 
+Medicine, New York, New York, USA.
+(9)Department of Medicine, Division of Digestive & Liver Diseases, Columbia 
+University College of Physicians & Surgeons, New York, New York, USA.
+(10)Department of Medicine, Division of Gastroenterology and Hepatology, Weill 
+Cornell Medicine, New York, New York, USA.
+(11)Department of Medicine, Division of Cardiology, Columbia University College 
+of Physicians & Surgeons, New York, New York, USA.
+(12)Department of Medicine, Division of Infectious Diseases, Weill Cornell 
+Medicine, New York, New York, USA.
+
+Comment in
+    Gastroenterology. 2020 Sep;159(3):1176-1178.e2.
+    Am J Transplant. 2020 Nov;20(11):3259-3260.
+    J Urol. 2020 Sep;204(3):607.
+    Am J Transplant. 2021 Mar;21(3):911-912.
+
+Solid organ transplant recipients may be at a high risk for SARS-CoV-2 infection 
+and poor associated outcomes. We herein report our initial experience with solid 
+organ transplant recipients with SARS-CoV-2 infection at two centers during the 
+first 3 weeks of the outbreak in New York City. Baseline characteristics, 
+clinical presentation, antiviral and immunosuppressive management were compared 
+between patients with mild/moderate and severe disease (defined as ICU 
+admission, intubation or death). Ninety patients were analyzed with a median age 
+of 57 years. Forty-six were kidney recipients, 17 lung, 13 liver, 9 heart, and 5 
+dual-organ transplants. The most common presenting symptoms were fever (70%), 
+cough (59%), and dyspnea (43%). Twenty-two (24%) had mild, 41 (46%) moderate, 
+and 27 (30%) severe disease. Among the 68 hospitalized patients, 12% required 
+non-rebreather and 35% required intubation. 91% received hydroxychloroquine, 66% 
+azithromycin, 3% remdesivir, 21% tocilizumab, and 24% bolus steroids. Sixteen 
+patients died (18% overall, 24% of hospitalized, 52% of ICU) and 37 (54%) were 
+discharged. In this initial cohort, transplant recipients with COVID-19 appear 
+to have more severe outcomes, although testing limitations likely led to 
+undercounting of mild/asymptomatic cases. As this outbreak unfolds, COVID-19 has 
+the potential to severely impact solid organ transplant recipients.
+
+© 2020 The American Society of Transplantation and the American Society of 
+Transplant Surgeons.
+
+DOI: 10.1111/ajt.15941
+PMCID: PMC7264777
+PMID: 32330343 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors of this manuscript have conflicts of 
+interest to disclose as described by the American Journal of Transplantation. 
+ECV is on the advisory board of Gilead. RSB has received research support from 
+Gilead and Abbvie. TJW has received grants for experimental and clinical 
+antimicrobial pharmacology and therapeutics to his institution from Allergan, 
+Amplyx, Astellas, Lediant, Medicines Company, Merck, Scynexis, and Tetraphase 
+and has served as consultant to Amplyx, Astellas, Allergan, ContraFect, Gilead, 
+Lediant, Medicines Company, Merck, Methylgene, Pfizer, and Scynexis.

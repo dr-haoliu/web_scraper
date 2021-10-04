@@ -1,0 +1,86 @@
+1. J Pediatr. 2020 Jul 16;226:55-63.e2. doi: 10.1016/j.jpeds.2020.07.039. Online 
+ahead of print.
+
+Clinical Manifestations and Outcomes of Critically Ill Children and Adolescents 
+with Coronavirus Disease 2019 in New York City.
+
+Derespina KR(1), Kaushik S(2), Plichta A(1), Conway EE Jr(3), Bercow A(3), Choi 
+J(4), Eisenberg R(4), Gillen J(2), Sen AI(5), Hennigan CM(6), Zerihun LM(7), 
+Doymaz S(8), Keenaghan MA(9), Jarrin S(10), Oulds F(11), Gupta M(12), Pierre 
+L(13), Grageda M(14), Ushay HM(1), Nadkarni VM(15), Agus MSD(16), Medar SS(17).
+
+Author information:
+(1)Division of Critical Care Medicine, Department of Pediatrics, Children's 
+Hospital at Montefiore, Bronx, NY.
+(2)Department of Pediatrics, Division of Critical Care Medicine, Kravis 
+Children's Hospital at Mount Sinai, New York, NY.
+(3)Department of Pediatrics, Division of Critical Care Medicine, Jacobi Medical 
+Center, Bronx, NY.
+(4)Department of Epidemiology and Population Health, Albert Einstein College of 
+Medicine, Bronx, NY.
+(5)Department of Pediatrics, Division of Critical Care Medicine, Columbia 
+University Medical Center, New York, NY.
+(6)Department of Pediatrics, New York-Presbyterian Morgan Stanley Children's 
+Hospital, New York, NY.
+(7)Columbia University Vagelos College of Physicians and Surgeons, New York, NY.
+(8)Department of Pediatrics, Division of Critical Care Medicine, State 
+University of New York Downstate Health Sciences University, Brooklyn, NY.
+(9)Department of Pediatrics, Division of Critical Care Medicine, Kings County 
+Medical Center, Brooklyn, NY; Department of Pediatrics, St George's University, 
+Grenada, WI.
+(10)Department of Pediatrics, Division of Critical Care Medicine, Kings County 
+Medical Center, Brooklyn, NY; Department of Pediatrics, State University of New 
+York Downstate, Brooklyn, NY.
+(11)Department of Pediatrics, Division of Critical Care Medicine, Lincoln 
+Medical and Mental Health Center, Bronx, NY.
+(12)Department of Pediatrics, Division of Critical Care Medicine, Lincoln 
+Medical and Mental Health Center, Bronx, NY; Division of Cardiology, Department 
+of Pediatrics, Children's Hospital at Montefiore, Bronx, NY.
+(13)Department of Pediatrics, Division of Critical Care Medicine, The Brooklyn 
+Hospital Center, Brooklyn, NY.
+(14)Department of Pediatrics, Division of Critical Care Medicine, Richmond 
+University Medical Center, Staten Island, NY.
+(15)Division of Critical Care Medicine, Children's Hospital of Philadelphia, 
+Philadelphia, PA.
+(16)Division of Medical Critical Care, Boston Children's Hospital, Boston, MA.
+(17)Division of Critical Care Medicine, Department of Pediatrics, Children's 
+Hospital at Montefiore, Bronx, NY; Division of Cardiology, Department of 
+Pediatrics, Children's Hospital at Montefiore, Bronx, NY. Electronic address: 
+smedar@montefiore.org.
+
+Comment in
+    J Pediatr. 2021 Apr;231:301-302.
+    J Pediatr. 2021 Apr;231:300-301.
+
+OBJECTIVES: To describe the clinical manifestations and outcomes of critically 
+ill children with coronavirus disease-19 (COVID-19) in New York City.
+STUDY DESIGN: Retrospective observational study of children 1 month to 21 years 
+admitted March 14 to May 2, 2020, to 9 New York City pediatric intensive care 
+units (PICUs) with severe acute respiratory syndrome coronavirus 2 infection.
+RESULTS: Of 70 children admitted to PICUs, median age was 15 (IQR 9, 19) years; 
+61.4% male; 38.6% Hispanic; 32.9% black; and 74.3% with comorbidities. Fever 
+(72.9%) and cough (71.4%) were the common presenting symptoms. Twelve patients 
+(17%) met severe sepsis criteria; 14 (20%) required vasopressor support; 21 
+(30%) developed acute respiratory distress syndrome (ARDS); 9 (12.9%) met acute 
+kidney injury criteria; 1 (1.4%) required renal-replacement therapy, and 2 
+(2.8%) had cardiac arrest. For treatment, 27 (38.6%) patients received 
+hydroxychloroquine; 13 (18.6%) remdesivir; 23 (32.9%) corticosteroids; 3 (4.3%) 
+tocilizumab; and 1 (1.4%) anakinra; no patient was given immunoglobulin or 
+convalescent plasma. Forty-nine (70%) patients required respiratory support: 14 
+(20.0%) noninvasive mechanical ventilation, 20 (28.6%) invasive mechanical 
+ventilation (IMV), 7 (10%) prone position, 2 (2.8%) inhaled nitric oxide, and 1 
+(1.4%) extracorporeal membrane oxygenation. Nine (45%) of the 20 patients 
+requiring IMV were extubated by day 14 with median IMV duration of 218 (IQR 79, 
+310.4) hours. Presence of ARDS was significantly associated with duration of 
+PICU and hospital stay, and lower probability of PICU and hospital discharge at 
+hospital day 14 (P < .05 for all).
+CONCLUSIONS: Critically ill children with COVID-19 predominantly are 
+adolescents, have comorbidities, and require some form of respiratory support. 
+The presence of ARDS is significantly associated with prolonged PICU and 
+hospital stay.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpeds.2020.07.039
+PMCID: PMC7363610
+PMID: 32681989
