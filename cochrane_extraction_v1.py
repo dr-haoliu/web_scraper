@@ -62,11 +62,36 @@ try:
     # search_element_present.text = disease_list[0]
 
     # add time wait 2 seconds
-    time.sleep(5)
+    time.sleep(15)
 
     # search_button_class = 'searchByBtn'
     # driver.find_element(By.CLASS_NAME, search_button_class).click()
 
+    page_selector_css = '.select.justify-right.small'
+    testing_cln = 'select-styled'
+    my_selector = driver.find_element(By.CSS_SELECTOR, page_selector_css).find_element(By.CLASS_NAME, testing_cln)
+    my_selector.click()
+    time.sleep(3)
+
+    page_selector_cls = 'select-options'
+    menu = driver.find_element(By.CSS_SELECTOR, page_selector_css).find_element(By.CLASS_NAME, page_selector_cls)
+    items = menu.find_elements_by_tag_name("li")
+    for item in items:
+        text = item.text
+        print(text)
+        if text == '50':
+            item.click()
+            driver.implicitly_wait(10)
+            break
+    time.sleep(10)
+
+    # try:
+    #     results_box_present = EC.presence_of_element_located((By.CLASS_NAME, 'search-results'))
+    #     WebDriverWait(driver, 10).until(results_box_present)
+    # except TimeoutException:
+    #     print('timeout excption!')
+
+    driver.implicitly_wait(10)
     result_items = driver.find_elements(By.CLASS_NAME, 'search-results-item')
     for item in result_items:
         item_element = item.find_element(By.CLASS_NAME, 'result-title')
@@ -75,10 +100,13 @@ try:
         item_url = item_element.find_element(By.TAG_NAME, 'a').get_attribute('href')
         print(item_url)
         study_url_list.append([item_name, item_url])
+        driver.implicitly_wait(1)
 
 except TimeoutException:
     print("Timed out waiting for page to load")
 
+
+print('here')
 
 for a_url in study_url_list:
     study_title = a_url[0]
@@ -105,7 +133,7 @@ for a_url in study_url_list:
         continue
 
     pico_click_on = driver.find_element(By.CSS_SELECTOR, '.title.section-collapse-title.collapsed').click()
-
+    time.sleep(2)
     p_list = []
     i_list = []
     c_list = []
@@ -141,6 +169,7 @@ for a_url in study_url_list:
     print(c_list)
     print(o_list)
 
+    time.sleep(2)
     nav_links = driver.find_elements(By.CLASS_NAME, 'cdsr-nav-link')
     for nav_link in nav_links:
         nav_text = nav_link.find_element_by_tag_name('a').text
@@ -149,14 +178,14 @@ for a_url in study_url_list:
             nav_link.click()
             break
 
-    time.sleep(5)
-    lock_modal = 'scolaris-modal-close'
-    try:
-        pico_section_present = EC.presence_of_element_located((By.CLASS_NAME, lock_modal))
-        WebDriverWait(driver, timeout).until(pico_section_present)
-        continue
-    except TimeoutException:
-        print("Timed out waiting for page to load")
+    time.sleep(3)
+    # lock_modal = 'scolaris-modal-close'
+    # try:
+    #     pico_section_present = EC.presence_of_element_located((By.CLASS_NAME, lock_modal))
+    #     WebDriverWait(driver, timeout).until(pico_section_present)
+    #     continue
+    # except TimeoutException:
+    #     print("Timed out waiting for page to load")
 
     included_studies_header = 'bibliography-section'
     try:
@@ -180,17 +209,13 @@ for a_url in study_url_list:
 
     time.sleep(2)
 
+driver.quit()
 
-df_list = []
-for item in final_results:
-    for url in item[2]:
-        df_list.append([item[0], item[1], url])
-
-df = pd.DataFrame(df_list, columns=['study_title', 'study_url', 'included_pubmed_url'])
+df = pd.DataFrame(final_results, columns=['study_title', 'study_url', 'p_list', 'i_list', 'c_list', 'o_list', 'included_pubmed_url'])
 
 print(df.head())
 
-df.to_csv('cochrane_results.csv', index=False, encoding='utf-8')
+df.to_csv('cochrane_results_v2.csv', index=False, encoding='utf-8', sep='\t')
 
 
 
@@ -225,76 +250,76 @@ df.to_csv('cochrane_results.csv', index=False, encoding='utf-8')
 
 
 
-for drug in drug_list:
-    input_file_name = 'downloaded/{}_pmids_litcovid.tsv'.format(drug)
-
-    df = pd.read_csv(input_file_name, sep='\t', comment='#')
-    print(df.head())
-
-    pmid_list = df.pmid
-
-    publication_type_list = ['Randomized Controlled Trial', 'Clinical Trial', 'Controlled Clinical Trial', 'Observational Study']
-
-
-    for id in pmid_list:
-
-        driver.get("https://pubmed.ncbi.nlm.nih.gov/{}".format(id))
-        timeout = 5
-        try:
-            element_present = EC.presence_of_element_located((By.ID, 'article-details'))
-            WebDriverWait(driver, timeout).until(element_present)
-        except TimeoutException:
-            print("Timed out waiting for page to load")
-
-        try:
-            publication_type = 'publication-type'
-            pub_type = ''
-            pub_type_element_present = EC.presence_of_element_located((By.CLASS_NAME, publication_type))
-            WebDriverWait(driver, timeout).until(pub_type_element_present)
-            pub_type = driver.find_element_by_class_name(publication_type).text
-            if pub_type not in publication_type_list:
-                continue
-        except TimeoutException:
-            print('Timed out waiting for publicatio type to load')
-            continue
-
-
-        # save-results-panel-trigger id
-        try:
-            save_button_id = 'save-results-panel-trigger'
-            WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.ID, save_button_id)))
-            driver.find_element_by_id(save_button_id).click()
-        except TimeoutException:
-            print("Timed out waiting for save button id")
-
-        # save-action-format
-        try:
-            selector_id = 'save-action-format'
-            WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.ID, selector_id)))
-            select = Select(driver.find_element_by_id(selector_id))
-            # select by visible text
-            # select.select_by_visible_text('Banana')
-
-            # select by value
-            select.select_by_value('abstract')
-        except TimeoutException:
-            print("Timed out waiting for selector id")
-
-
-        try:
-            create_button_class = 'action-panel-submit' # action-panel-actions.
-            WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.CLASS_NAME, create_button_class)))
-            driver.find_elements_by_class_name(create_button_class)[0].click()
-        except TimeoutException:
-            print("Timed out waiting for selector id")
-
-        # add time wait 2 seconds
-        time.sleep(2)
-        filename = max([download_dir + "/" + f for f in os.listdir(download_dir)], key=os.path.getctime)
-        shutil.move(filename, os.path.join(download_dir, drug+'_pubtype_' + pub_type + '_' + os.path.basename(filename)))
-        print('change name done')
-    # driver.close()
-driver.close()
+# for drug in drug_list:
+#     input_file_name = 'downloaded/{}_pmids_litcovid.tsv'.format(drug)
+#
+#     df = pd.read_csv(input_file_name, sep='\t', comment='#')
+#     print(df.head())
+#
+#     pmid_list = df.pmid
+#
+#     publication_type_list = ['Randomized Controlled Trial', 'Clinical Trial', 'Controlled Clinical Trial', 'Observational Study']
+#
+#
+#     for id in pmid_list:
+#
+#         driver.get("https://pubmed.ncbi.nlm.nih.gov/{}".format(id))
+#         timeout = 5
+#         try:
+#             element_present = EC.presence_of_element_located((By.ID, 'article-details'))
+#             WebDriverWait(driver, timeout).until(element_present)
+#         except TimeoutException:
+#             print("Timed out waiting for page to load")
+#
+#         try:
+#             publication_type = 'publication-type'
+#             pub_type = ''
+#             pub_type_element_present = EC.presence_of_element_located((By.CLASS_NAME, publication_type))
+#             WebDriverWait(driver, timeout).until(pub_type_element_present)
+#             pub_type = driver.find_element_by_class_name(publication_type).text
+#             if pub_type not in publication_type_list:
+#                 continue
+#         except TimeoutException:
+#             print('Timed out waiting for publicatio type to load')
+#             continue
+#
+#
+#         # save-results-panel-trigger id
+#         try:
+#             save_button_id = 'save-results-panel-trigger'
+#             WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.ID, save_button_id)))
+#             driver.find_element_by_id(save_button_id).click()
+#         except TimeoutException:
+#             print("Timed out waiting for save button id")
+#
+#         # save-action-format
+#         try:
+#             selector_id = 'save-action-format'
+#             WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.ID, selector_id)))
+#             select = Select(driver.find_element_by_id(selector_id))
+#             # select by visible text
+#             # select.select_by_visible_text('Banana')
+#
+#             # select by value
+#             select.select_by_value('abstract')
+#         except TimeoutException:
+#             print("Timed out waiting for selector id")
+#
+#
+#         try:
+#             create_button_class = 'action-panel-submit' # action-panel-actions.
+#             WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.CLASS_NAME, create_button_class)))
+#             driver.find_elements_by_class_name(create_button_class)[0].click()
+#         except TimeoutException:
+#             print("Timed out waiting for selector id")
+#
+#         # add time wait 2 seconds
+#         time.sleep(2)
+#         filename = max([download_dir + "/" + f for f in os.listdir(download_dir)], key=os.path.getctime)
+#         shutil.move(filename, os.path.join(download_dir, drug+'_pubtype_' + pub_type + '_' + os.path.basename(filename)))
+#         print('change name done')
+#     # driver.close()
+# driver.close()
 # driver.quit()
 
 # results = []
